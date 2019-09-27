@@ -7,13 +7,13 @@ Time-stamp: <2019-03-12 17:34:07 christophe@pallier.org>
 ## ACCUEIL DU VOLONTAIRE ##
 * Le volontaire est accueilli par l'équipe para-médicale.
 * Pas d'entraînement, les consignes sont :
-        - le participant ne connait pas l'histoire du Petit Prince ou n'a pas lu, entendu .....  depuis 5 ans.
-        - rester éveillé, sinon les données sont perdues.
-        - ne pas bouger.
-        - relecture des consignes pendant la séquence d'anatomie.
-        - écouter attentivement avec les yeux fermés lors des blocs  .
-        - ouvrir les yeux quand la manip radio l'indique (entre les blocs), lire les questions présentées
-          à l'écran et y répondre.
+    * Le participant ne connait pas l'histoire du Petit Prince ou ne l'a pas lu, entendu .....  depuis 5 ans.
+    * rester éveillé, sinon les données sont perdues.
+    * ne pas bouger.
+    * relecture des consignes pendant la séquence d'anatomie + présentaiton des images du début du livre.
+    * écouter attentivement avec les yeux fermés lors des blocs  .
+    * ouvrir les yeux quand la manip radio l'indique (entre les blocs), lire les questions présentées
+          à l'écran et y répondre. Il y a des questions à choix multiple et de questions ouvertes.
         
         
         
@@ -27,17 +27,17 @@ Time-stamp: <2019-03-12 17:34:07 christophe@pallier.org>
 
 
 ## AVANT L'ACQUISTION ##
-* Imprimer le fichier "questions_reponses_a_imprimer.pdf" :  c'est sur ces feuilles que vous indiquerez les réponses du participant après chaque run.
+* Imprimer (l'expérimentateur) le fichier "questions_reponses_a_imprimer.pdf" :  c'est sur ces feuilles que vous indiquerez les réponses du participant après chaque run.
 * Le son doit être réglé au maximum sur le PC. Ce dernier doit être connecté de préférence au sytème OptoActive ou bien soit au système magnacoustics soit au mrconfon (voir avec le/la manip).
 * Le TTL doit être branché sur une prise USB de la machine de stimulation, le tester en ouvrant une console et en appuyant sur le bouton TTL.
 * Régler l'affichage :  
-        - Lancer NVIDIA Settings (raccourci sur la panneau à gauche de l'écran) sur la PC de stim.  
-        - Sur l'interface de NVidia setting, séparer les 3 écrans qui doivent reconnus : Boldscreen, l'écran du PC de stim et celui qui se trouve en haut à droite dans 
+    * Lancer NVIDIA Settings (raccourci sur la panneau à gauche de l'écran) sur la PC de stim.  
+    * Sur l'interface de NVidia setting, séparer les 3 écrans qui doivent être reconnus : Boldscreen, l'écran du PC de stim et celui qui se trouve en haut à droite dans 
            la salle des consoles (qui doit être le miroir du boldscreen). 
-        - Identifier l'écran qui se trouve en haut à droite, et le positionner sur le boldscreen pour qu'ils soientt en mode miroir.
-        - Cliquer sur **Apply** pour valider. Si le bouton **Apply** est grisé, augmenter la fenêtre ou relancer Nvidia Settings.
-        - Vérifer la résolution et le refresh rate : 1920x1080 - 120Hz.
-        - Placer le document **questions_a_presenter.pdf** sur l'écran en haut à droite. Le document est à faire défiler pendant l'acquisition Anatomie et pour poser les 
+    * Identifier l'écran qui se trouve en haut à droite, et le positionner sur le boldscreen pour qu'ils soient en mode miroir.
+    * Cliquer sur **Apply** pour valider. Si le bouton **Apply** est grisé, augmenter la fenêtre ou relancer Nvidia Settings.
+    * Vérifer la résolution et le refresh rate : 1920x1080 - 120Hz.
+    * Placer le document **questions_a_presenter.pdf** sur l'écran en haut à droite. Le document est à faire défiler pendant l'acquisition Anatomie et pour poser les 
          questions après les runs, mode plein écran (=mode présentation).
 
 
@@ -48,9 +48,12 @@ Time-stamp: <2019-03-12 17:34:07 christophe@pallier.org>
 
 ## PASSATION ##
 2 sessions le même jour :
+
 * Session 1 : anatomie (10') +  "Apprentissage son" + 4 runs fonctionnels 
 * Session 2 : 5 runs fonctionnels + localizer
-(durée de chaque bloc fonctionnel et du localizer : 10 minutes chacun)
+
+Durée d'un bloc fonctionnel ou du localizer : 10 minutes.
+
 Voir s'il est possible de passer un bloc supplémentaire (si moins de 1H30 au final et si le participant est d'accord) pendant la 1re session. Cela laissera plus de temps pour la seconde session si besoin (problème technique par exemple). 
 
 
