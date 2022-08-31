@@ -1,14 +1,22 @@
 Running the (french version) experiment "Le Petit Prince"
 =======================================================================
 
-Time-stamp: <2019-05-31 20:53:52 christophe@pallier.org>
+Time-stamp: <2022-08-31 20:59:31 christophe@pallier.org>
 
 
 -------------
 
 In  a nutshell:
 
+There are two different scripts: 
+
+- One for the MEG
+    . for i in range(9): execute(f'python lepp{i}.py')
+
+- One for the fMRI
     . run-lepetitprince-mri.sh
+
+
 
 
 -------------
