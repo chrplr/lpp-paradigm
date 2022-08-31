@@ -1,0 +1,10 @@
+6a7,8
+> import meg_triggers
+> 
+38c40,41
+< wait_for_MRI_synchro()
+---
+> #wait_for_MRI_synchro()
+> meg_triggers.send_start()
+42a46
+> meg_triggers.send_stop()

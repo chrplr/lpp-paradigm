@@ -1,0 +1,9658 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 647.04
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "Unknown words"
+		xmin = 0
+		xmax = 647.04
+		intervals: size = 2411
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.69
+			text = ""
+		intervals [2]:
+			xmin = 1.69
+			xmax = 1.73
+			text = "j'"
+		intervals [3]:
+			xmin = 1.73
+			xmax = 2.95
+			text = ""
+		intervals [4]:
+			xmin = 2.95
+			xmax = 3.56
+			text = "avais"
+		intervals [5]:
+			xmin = 3.57
+			xmax = 4.02
+			text = "ainsi"
+		intervals [6]:
+			xmin = 4.03
+			xmax = 4.44
+			text = "appris"
+		intervals [7]:
+			xmin = 4.44
+			xmax = 4.48
+			text = ""
+		intervals [8]:
+			xmin = 4.48
+			xmax = 4.75
+			text = "une"
+		intervals [9]:
+			xmin = 4.76
+			xmax = 5.39
+			text = "seconde"
+		intervals [10]:
+			xmin = 5.4
+			xmax = 5.83
+			text = "chose"
+		intervals [11]:
+			xmin = 5.84
+			xmax = 6.32
+			text = "très"
+		intervals [12]:
+			xmin = 6.33
+			xmax = 7.05
+			text = "importante"
+		intervals [13]:
+			xmin = 7.05
+			xmax = 7.05
+			text = "[:]"
+		intervals [14]:
+			xmin = 7.05
+			xmax = 7.55
+			text = ""
+		intervals [15]:
+			xmin = 7.55
+			xmax = 7.66
+			text = "c'"
+		intervals [16]:
+			xmin = 7.67
+			xmax = 7.73
+			text = "est"
+		intervals [17]:
+			xmin = 7.74
+			xmax = 7.83
+			text = "que"
+		intervals [18]:
+			xmin = 7.84
+			xmax = 8.1
+			text = "sa"
+		intervals [19]:
+			xmin = 8.11
+			xmax = 8.55
+			text = "planète"
+		intervals [20]:
+			xmin = 8.56
+			xmax = 8.6
+			text = "d'"
+		intervals [21]:
+			xmin = 8.61
+			xmax = 9.08
+			text = "origine"
+		intervals [22]:
+			xmin = 9.08
+			xmax = 9.2
+			text = ""
+		intervals [23]:
+			xmin = 9.2
+			xmax = 9.59
+			text = "était"
+		intervals [24]:
+			xmin = 9.6
+			xmax = 9.74
+			text = "à"
+		intervals [25]:
+			xmin = 9.74
+			xmax = 9.86
+			text = ""
+		intervals [26]:
+			xmin = 9.86
+			xmax = 10.17
+			text = "peine"
+		intervals [27]:
+			xmin = 10.18
+			xmax = 10.34
+			text = "plus"
+		intervals [28]:
+			xmin = 10.35
+			xmax = 10.81
+			text = "grande"
+		intervals [29]:
+			xmin = 10.81
+			xmax = 10.85
+			text = ""
+		intervals [30]:
+			xmin = 10.85
+			xmax = 10.93
+			text = "qu'"
+		intervals [31]:
+			xmin = 10.94
+			xmax = 11.12
+			text = "une"
+		intervals [32]:
+			xmin = 11.13
+			xmax = 11.56
+			text = "maison"
+		intervals [33]:
+			xmin = 11.56
+			xmax = 11.56
+			text = "[!]"
+		intervals [34]:
+			xmin = 11.56
+			xmax = 12.27
+			text = ""
+		intervals [35]:
+			xmin = 12.27
+			xmax = 12.46
+			text = "ça"
+		intervals [36]:
+			xmin = 12.47
+			xmax = 12.58
+			text = "ne"
+		intervals [37]:
+			xmin = 12.59
+			xmax = 12.88
+			text = "pouvait"
+		intervals [38]:
+			xmin = 12.89
+			xmax = 13.03
+			text = "pas"
+		intervals [39]:
+			xmin = 13.04
+			xmax = 13.08
+			text = "m'"
+		intervals [40]:
+			xmin = 13.09
+			xmax = 13.42
+			text = "étonner"
+		intervals [41]:
+			xmin = 13.43
+			xmax = 13.86
+			text = "beaucoup"
+		intervals [42]:
+			xmin = 13.86
+			xmax = 13.86
+			text = "[.]"
+		intervals [43]:
+			xmin = 13.86
+			xmax = 14.5
+			text = ""
+		intervals [44]:
+			xmin = 14.5
+			xmax = 14.63
+			text = "je"
+		intervals [45]:
+			xmin = 14.64
+			xmax = 14.98
+			text = "savais"
+		intervals [46]:
+			xmin = 14.99
+			xmax = 15.28
+			text = "bien"
+		intervals [47]:
+			xmin = 15.29
+			xmax = 15.35
+			text = "qu'"
+		intervals [48]:
+			xmin = 15.36
+			xmax = 15.43
+			text = "en"
+		intervals [49]:
+			xmin = 15.44
+			xmax = 15.71
+			text = "dehors"
+		intervals [50]:
+			xmin = 15.72
+			xmax = 15.82
+			text = "des"
+		intervals [51]:
+			xmin = 15.83
+			xmax = 16.13
+			text = "grosses"
+		intervals [52]:
+			xmin = 16.14
+			xmax = 16.58
+			text = "planètes"
+		intervals [53]:
+			xmin = 16.59
+			xmax = 16.79
+			text = "comme"
+		intervals [54]:
+			xmin = 16.8
+			xmax = 16.92
+			text = "la"
+		intervals [55]:
+			xmin = 16.93
+			xmax = 17.42
+			text = "terre"
+		intervals [56]:
+			xmin = 17.42
+			xmax = 17.42
+			text = "[,]"
+		intervals [57]:
+			xmin = 17.42
+			xmax = 17.51
+			text = ""
+		intervals [58]:
+			xmin = 17.51
+			xmax = 18.33
+			text = "jupiter"
+		intervals [59]:
+			xmin = 18.33
+			xmax = 18.33
+			text = "[,]"
+		intervals [60]:
+			xmin = 18.33
+			xmax = 18.4
+			text = ""
+		intervals [61]:
+			xmin = 18.4
+			xmax = 18.98
+			text = "mars"
+		intervals [62]:
+			xmin = 18.98
+			xmax = 18.98
+			text = "[,]"
+		intervals [63]:
+			xmin = 18.98
+			xmax = 19.1
+			text = ""
+		intervals [64]:
+			xmin = 19.1
+			xmax = 19.7
+			text = "vénus"
+		intervals [65]:
+			xmin = 19.7
+			xmax = 19.7
+			text = "[,]"
+		intervals [66]:
+			xmin = 19.7
+			xmax = 19.96
+			text = ""
+		intervals [67]:
+			xmin = 19.96
+			xmax = 20.29
+			text = "auxquelles"
+		intervals [68]:
+			xmin = 20.3
+			xmax = 20.43
+			text = "on"
+		intervals [69]:
+			xmin = 20.44
+			xmax = 20.52
+			text = "a"
+		intervals [70]:
+			xmin = 20.53
+			xmax = 20.78
+			text = "donné"
+		intervals [71]:
+			xmin = 20.79
+			xmax = 20.92
+			text = "des"
+		intervals [72]:
+			xmin = 20.93
+			xmax = 21.19
+			text = "noms"
+		intervals [73]:
+			xmin = 21.19
+			xmax = 21.19
+			text = "[,]"
+		intervals [74]:
+			xmin = 21.19
+			xmax = 21.63
+			text = ""
+		intervals [75]:
+			xmin = 21.63
+			xmax = 21.76
+			text = "il"
+		intervals [76]:
+			xmin = 21.77
+			xmax = 21.9
+			text = "y"
+		intervals [77]:
+			xmin = 21.91
+			xmax = 22.02
+			text = "en"
+		intervals [78]:
+			xmin = 22.03
+			xmax = 22.13
+			text = "a"
+		intervals [79]:
+			xmin = 22.14
+			xmax = 22.25
+			text = "des"
+		intervals [80]:
+			xmin = 22.26
+			xmax = 22.82
+			text = "centaines"
+		intervals [81]:
+			xmin = 22.83
+			xmax = 22.89
+			text = "d'"
+		intervals [82]:
+			xmin = 22.9
+			xmax = 23.18
+			text = "autres"
+		intervals [83]:
+			xmin = 23.19
+			xmax = 23.35
+			text = "qui"
+		intervals [84]:
+			xmin = 23.36
+			xmax = 23.53
+			text = "sont"
+		intervals [85]:
+			xmin = 23.54
+			xmax = 24.11
+			text = "quelquefois"
+		intervals [86]:
+			xmin = 24.12
+			xmax = 24.36
+			text = "si"
+		intervals [87]:
+			xmin = 24.36
+			xmax = 24.49
+			text = ""
+		intervals [88]:
+			xmin = 24.49
+			xmax = 25.03
+			text = "petites"
+		intervals [89]:
+			xmin = 25.03
+			xmax = 25.37
+			text = ""
+		intervals [90]:
+			xmin = 25.37
+			xmax = 25.45
+			text = "qu'"
+		intervals [91]:
+			xmin = 25.46
+			xmax = 25.58
+			text = "on"
+		intervals [92]:
+			xmin = 25.59
+			xmax = 25.68
+			text = "a"
+		intervals [93]:
+			xmin = 25.69
+			xmax = 26.15
+			text = "beaucoup"
+		intervals [94]:
+			xmin = 26.16
+			xmax = 26.27
+			text = "de"
+		intervals [95]:
+			xmin = 26.28
+			xmax = 26.62
+			text = "mal"
+		intervals [96]:
+			xmin = 26.63
+			xmax = 26.75
+			text = "à"
+		intervals [97]:
+			xmin = 26.76
+			xmax = 26.97
+			text = "les"
+		intervals [98]:
+			xmin = 26.98
+			xmax = 27.64
+			text = "apercevoir"
+		intervals [99]:
+			xmin = 27.65
+			xmax = 27.71
+			text = "au"
+		intervals [100]:
+			xmin = 27.72
+			xmax = 28.41
+			text = "télescope"
+		intervals [101]:
+			xmin = 28.41
+			xmax = 28.41
+			text = "[.]"
+		intervals [102]:
+			xmin = 28.41
+			xmax = 29.45
+			text = ""
+		intervals [103]:
+			xmin = 29.45
+			xmax = 29.76
+			text = "quand"
+		intervals [104]:
+			xmin = 29.76
+			xmax = 29.83
+			text = ""
+		intervals [105]:
+			xmin = 29.83
+			xmax = 29.89
+			text = "un"
+		intervals [106]:
+			xmin = 29.9
+			xmax = 30.56
+			text = "astronome"
+		intervals [107]:
+			xmin = 30.57
+			xmax = 31.13
+			text = "découvre"
+		intervals [108]:
+			xmin = 31.14
+			xmax = 31.21
+			text = "l'"
+		intervals [109]:
+			xmin = 31.22
+			xmax = 31.39
+			text = "une"
+		intervals [110]:
+			xmin = 31.4
+			xmax = 31.45
+			text = "d'"
+		intervals [111]:
+			xmin = 31.46
+			xmax = 31.81
+			text = "elles"
+		intervals [112]:
+			xmin = 31.81
+			xmax = 31.81
+			text = "[,]"
+		intervals [113]:
+			xmin = 31.81
+			xmax = 32.06
+			text = ""
+		intervals [114]:
+			xmin = 32.06
+			xmax = 32.27
+			text = "il"
+		intervals [115]:
+			xmin = 32.28
+			xmax = 32.43
+			text = "lui"
+		intervals [116]:
+			xmin = 32.44
+			xmax = 32.73
+			text = "donne"
+		intervals [117]:
+			xmin = 32.74
+			xmax = 32.96
+			text = "pour"
+		intervals [118]:
+			xmin = 32.97
+			xmax = 33.29
+			text = "nom"
+		intervals [119]:
+			xmin = 33.3
+			xmax = 33.45
+			text = "un"
+		intervals [120]:
+			xmin = 33.46
+			xmax = 34.04
+			text = "numéro"
+		intervals [121]:
+			xmin = 34.04
+			xmax = 34.04
+			text = "[.]"
+		intervals [122]:
+			xmin = 34.04
+			xmax = 34.77
+			text = ""
+		intervals [123]:
+			xmin = 34.77
+			xmax = 35.0
+			text = "il"
+		intervals [124]:
+			xmin = 35.01
+			xmax = 35.37
+			text = "appelle"
+		intervals [125]:
+			xmin = 35.38
+			xmax = 35.53
+			text = "par"
+		intervals [126]:
+			xmin = 35.54
+			xmax = 36.14
+			text = "exemple"
+		intervals [127]:
+			xmin = 36.14
+			xmax = 36.14
+			text = "[:]"
+		intervals [128]:
+			xmin = 36.14
+			xmax = 36.45
+			text = ""
+		intervals [129]:
+			xmin = 36.45
+			xmax = 36.6
+			text = "l'"
+		intervals [130]:
+			xmin = 36.61
+			xmax = 37.41
+			text = "astéroïde"
+		intervals [131]:
+			xmin = 37.42
+			xmax = 38.81
+			text = "325"
+		intervals [132]:
+			xmin = 38.81
+			xmax = 38.81
+			text = "[.]"
+		intervals [133]:
+			xmin = 38.82
+			xmax = 38.84
+			text = "j'"
+		intervals [134]:
+			xmin = 38.85
+			xmax = 39.02
+			text = "ai"
+		intervals [135]:
+			xmin = 39.02
+			xmax = 40.3
+			text = ""
+		intervals [136]:
+			xmin = 40.3
+			xmax = 40.32
+			text = "de"
+		intervals [137]:
+			xmin = 40.32
+			xmax = 40.44
+			text = ""
+		intervals [138]:
+			xmin = 40.44
+			xmax = 41.05
+			text = "sérieuses"
+		intervals [139]:
+			xmin = 41.06
+			xmax = 41.4
+			text = "raisons"
+		intervals [140]:
+			xmin = 41.41
+			xmax = 41.52
+			text = "de"
+		intervals [141]:
+			xmin = 41.53
+			xmax = 41.91
+			text = "croire"
+		intervals [142]:
+			xmin = 41.92
+			xmax = 42.01
+			text = "que"
+		intervals [143]:
+			xmin = 42.02
+			xmax = 42.17
+			text = "la"
+		intervals [144]:
+			xmin = 42.18
+			xmax = 42.66
+			text = "planète"
+		intervals [145]:
+			xmin = 42.67
+			xmax = 42.74
+			text = "d'"
+		intervals [146]:
+			xmin = 42.75
+			xmax = 42.85
+			text = "où"
+		intervals [147]:
+			xmin = 42.86
+			xmax = 43.14
+			text = "venait"
+		intervals [148]:
+			xmin = 43.15
+			xmax = 43.26
+			text = "le"
+		intervals [149]:
+			xmin = 43.27
+			xmax = 43.6
+			text = "petit"
+		intervals [150]:
+			xmin = 43.61
+			xmax = 44.09
+			text = "prince"
+		intervals [151]:
+			xmin = 44.09
+			xmax = 44.44
+			text = ""
+		intervals [152]:
+			xmin = 44.44
+			xmax = 44.61
+			text = "est"
+		intervals [153]:
+			xmin = 44.62
+			xmax = 44.68
+			text = "l'"
+		intervals [154]:
+			xmin = 44.69
+			xmax = 45.54
+			text = "astéroïde"
+		intervals [155]:
+			xmin = 45.54
+			xmax = 45.58
+			text = ""
+		intervals [156]:
+			xmin = 45.58
+			xmax = 45.94
+			text = "b"
+		intervals [157]:
+			xmin = 45.94
+			xmax = 46.04
+			text = ""
+		intervals [158]:
+			xmin = 46.04
+			xmax = 46.94
+			text = "612"
+		intervals [159]:
+			xmin = 46.94
+			xmax = 46.94
+			text = "[.]"
+		intervals [160]:
+			xmin = 46.94
+			xmax = 47.9
+			text = ""
+		intervals [161]:
+			xmin = 47.9
+			xmax = 48.13
+			text = "cet"
+		intervals [162]:
+			xmin = 48.14
+			xmax = 48.86
+			text = "astéroïde"
+		intervals [163]:
+			xmin = 48.87
+			xmax = 49.01
+			text = "n'"
+		intervals [164]:
+			xmin = 49.02
+			xmax = 49.05
+			text = "a"
+		intervals [165]:
+			xmin = 49.05
+			xmax = 49.11
+			text = ""
+		intervals [166]:
+			xmin = 49.11
+			xmax = 49.34
+			text = "été"
+		intervals [167]:
+			xmin = 49.35
+			xmax = 49.96
+			text = "aperçu"
+		intervals [168]:
+			xmin = 49.96
+			xmax = 50.02
+			text = ""
+		intervals [169]:
+			xmin = 50.02
+			xmax = 50.12
+			text = "qu'"
+		intervals [170]:
+			xmin = 50.13
+			xmax = 50.3
+			text = "une"
+		intervals [171]:
+			xmin = 50.31
+			xmax = 50.54
+			text = "fois"
+		intervals [172]:
+			xmin = 50.55
+			xmax = 50.63
+			text = "au"
+		intervals [173]:
+			xmin = 50.64
+			xmax = 51.39
+			text = "télescope"
+		intervals [174]:
+			xmin = 51.39
+			xmax = 51.39
+			text = "[,]"
+		intervals [175]:
+			xmin = 51.39
+			xmax = 51.59
+			text = ""
+		intervals [176]:
+			xmin = 51.59
+			xmax = 51.71
+			text = "en"
+		intervals [177]:
+			xmin = 51.72
+			xmax = 52.73
+			text = "1909"
+		intervals [178]:
+			xmin = 52.73
+			xmax = 52.73
+			text = "[,]"
+		intervals [179]:
+			xmin = 52.73
+			xmax = 52.97
+			text = ""
+		intervals [180]:
+			xmin = 52.97
+			xmax = 53.16
+			text = "par"
+		intervals [181]:
+			xmin = 53.17
+			xmax = 53.29
+			text = "un"
+		intervals [182]:
+			xmin = 53.3
+			xmax = 53.96
+			text = "astronome"
+		intervals [183]:
+			xmin = 53.97
+			xmax = 54.57
+			text = "turc"
+		intervals [184]:
+			xmin = 54.57
+			xmax = 54.57
+			text = "[.]"
+		intervals [185]:
+			xmin = 54.57
+			xmax = 55.36
+			text = ""
+		intervals [186]:
+			xmin = 55.36
+			xmax = 55.51
+			text = "il"
+		intervals [187]:
+			xmin = 55.52
+			xmax = 55.76
+			text = "avait"
+		intervals [188]:
+			xmin = 55.77
+			xmax = 55.98
+			text = "fait"
+		intervals [189]:
+			xmin = 55.99
+			xmax = 56.36
+			text = "alors"
+		intervals [190]:
+			xmin = 56.37
+			xmax = 56.52
+			text = "une"
+		intervals [191]:
+			xmin = 56.53
+			xmax = 57.13
+			text = "grande"
+		intervals [192]:
+			xmin = 57.14
+			xmax = 57.89
+			text = "démonstration"
+		intervals [193]:
+			xmin = 57.9
+			xmax = 58.0
+			text = "de"
+		intervals [194]:
+			xmin = 58.01
+			xmax = 58.18
+			text = "sa"
+		intervals [195]:
+			xmin = 58.19
+			xmax = 58.9
+			text = "découverte"
+		intervals [196]:
+			xmin = 58.91
+			xmax = 58.93
+			text = "à"
+		intervals [197]:
+			xmin = 58.94
+			xmax = 59.23
+			text = "un"
+		intervals [198]:
+			xmin = 59.23
+			xmax = 59.28
+			text = ""
+		intervals [199]:
+			xmin = 59.28
+			xmax = 59.85
+			text = "congrès"
+		intervals [200]:
+			xmin = 59.86
+			xmax = 60.73
+			text = "international"
+		intervals [201]:
+			xmin = 60.74
+			xmax = 60.83
+			text = "d'"
+		intervals [202]:
+			xmin = 60.84
+			xmax = 61.49
+			text = "astronomie"
+		intervals [203]:
+			xmin = 61.49
+			xmax = 61.49
+			text = "[.]"
+		intervals [204]:
+			xmin = 61.49
+			xmax = 62.16
+			text = ""
+		intervals [205]:
+			xmin = 62.16
+			xmax = 62.41
+			text = "mais"
+		intervals [206]:
+			xmin = 62.42
+			xmax = 62.98
+			text = "personne"
+		intervals [207]:
+			xmin = 62.99
+			xmax = 63.1
+			text = "l'"
+		intervals [208]:
+			xmin = 63.11
+			xmax = 63.28
+			text = "avait"
+		intervals [209]:
+			xmin = 63.29
+			xmax = 63.62
+			text = "cru"
+		intervals [210]:
+			xmin = 63.62
+			xmax = 63.83
+			text = ""
+		intervals [211]:
+			xmin = 63.83
+			xmax = 63.95
+			text = "à"
+		intervals [212]:
+			xmin = 63.96
+			xmax = 64.17
+			text = "cause"
+		intervals [213]:
+			xmin = 64.18
+			xmax = 64.27
+			text = "de"
+		intervals [214]:
+			xmin = 64.28
+			xmax = 64.45
+			text = "son"
+		intervals [215]:
+			xmin = 64.46
+			xmax = 65.06
+			text = "costume"
+		intervals [216]:
+			xmin = 65.06
+			xmax = 65.06
+			text = "[.]"
+		intervals [217]:
+			xmin = 65.06
+			xmax = 65.68
+			text = ""
+		intervals [218]:
+			xmin = 65.68
+			xmax = 65.8
+			text = "les"
+		intervals [219]:
+			xmin = 65.81
+			xmax = 66.04
+			text = "grandes"
+		intervals [220]:
+			xmin = 66.05
+			xmax = 66.47
+			text = "personnes"
+		intervals [221]:
+			xmin = 66.48
+			xmax = 66.63
+			text = "sont"
+		intervals [222]:
+			xmin = 66.64
+			xmax = 66.84
+			text = "comme"
+		intervals [223]:
+			xmin = 66.85
+			xmax = 67.04
+			text = "ça"
+		intervals [224]:
+			xmin = 67.04
+			xmax = 67.04
+			text = "[.]"
+		intervals [225]:
+			xmin = 67.04
+			xmax = 68.27
+			text = ""
+		intervals [226]:
+			xmin = 68.27
+			xmax = 68.92
+			text = "heureusement"
+		intervals [227]:
+			xmin = 68.93
+			xmax = 69.04
+			text = "pour"
+		intervals [228]:
+			xmin = 69.05
+			xmax = 69.18
+			text = "la"
+		intervals [229]:
+			xmin = 69.19
+			xmax = 69.95
+			text = "réputation"
+		intervals [230]:
+			xmin = 69.96
+			xmax = 70.09
+			text = "de"
+		intervals [231]:
+			xmin = 70.1
+			xmax = 70.15
+			text = "l'"
+		intervals [232]:
+			xmin = 70.16
+			xmax = 70.93
+			text = "astéroïde"
+		intervals [233]:
+			xmin = 70.94
+			xmax = 71.19
+			text = "b"
+		intervals [234]:
+			xmin = 71.2
+			xmax = 72.01
+			text = "612"
+		intervals [235]:
+			xmin = 72.01
+			xmax = 72.01
+			text = "[,]"
+		intervals [236]:
+			xmin = 72.01
+			xmax = 72.48
+			text = ""
+		intervals [237]:
+			xmin = 72.48
+			xmax = 72.64
+			text = "un"
+		intervals [238]:
+			xmin = 72.65
+			xmax = 73.31
+			text = "dictateur"
+		intervals [239]:
+			xmin = 73.32
+			xmax = 73.72
+			text = "turc"
+		intervals [240]:
+			xmin = 73.72
+			xmax = 73.83
+			text = ""
+		intervals [241]:
+			xmin = 73.83
+			xmax = 74.47
+			text = "imposa"
+		intervals [242]:
+			xmin = 74.48
+			xmax = 74.69
+			text = "son"
+		intervals [243]:
+			xmin = 74.7
+			xmax = 75.11
+			text = "peuple"
+		intervals [244]:
+			xmin = 75.11
+			xmax = 75.11
+			text = "[,]"
+		intervals [245]:
+			xmin = 75.11
+			xmax = 75.29
+			text = ""
+		intervals [246]:
+			xmin = 75.29
+			xmax = 75.5
+			text = "sous"
+		intervals [247]:
+			xmin = 75.51
+			xmax = 75.89
+			text = "peine"
+		intervals [248]:
+			xmin = 75.9
+			xmax = 76.03
+			text = "de"
+		intervals [249]:
+			xmin = 76.04
+			xmax = 76.54
+			text = "mort"
+		intervals [250]:
+			xmin = 76.54
+			xmax = 76.54
+			text = "[,]"
+		intervals [251]:
+			xmin = 76.54
+			xmax = 76.83
+			text = ""
+		intervals [252]:
+			xmin = 76.83
+			xmax = 76.98
+			text = "de"
+		intervals [253]:
+			xmin = 76.99
+			xmax = 77.13
+			text = "s'"
+		intervals [254]:
+			xmin = 77.14
+			xmax = 77.63
+			text = "habiller"
+		intervals [255]:
+			xmin = 77.64
+			xmax = 77.69
+			text = "à"
+		intervals [256]:
+			xmin = 77.7
+			xmax = 77.73
+			text = "l'"
+		intervals [257]:
+			xmin = 77.74
+			xmax = 78.5
+			text = "européenne"
+		intervals [258]:
+			xmin = 78.5
+			xmax = 78.5
+			text = "[.]"
+		intervals [259]:
+			xmin = 78.5
+			xmax = 79.53
+			text = ""
+		intervals [260]:
+			xmin = 79.53
+			xmax = 79.65
+			text = "l'"
+		intervals [261]:
+			xmin = 79.66
+			xmax = 80.24
+			text = "astronome"
+		intervals [262]:
+			xmin = 80.25
+			xmax = 80.56
+			text = "refit"
+		intervals [263]:
+			xmin = 80.57
+			xmax = 80.78
+			text = "sa"
+		intervals [264]:
+			xmin = 80.79
+			xmax = 81.61
+			text = "démonstration"
+		intervals [265]:
+			xmin = 81.62
+			xmax = 81.7
+			text = "en"
+		intervals [266]:
+			xmin = 81.71
+			xmax = 82.69
+			text = "1920"
+		intervals [267]:
+			xmin = 82.69
+			xmax = 82.69
+			text = "[,]"
+		intervals [268]:
+			xmin = 82.69
+			xmax = 82.87
+			text = ""
+		intervals [269]:
+			xmin = 82.87
+			xmax = 83.1
+			text = "dans"
+		intervals [270]:
+			xmin = 83.11
+			xmax = 83.27
+			text = "un"
+		intervals [271]:
+			xmin = 83.28
+			xmax = 83.59
+			text = "habit"
+		intervals [272]:
+			xmin = 83.6
+			xmax = 84.14
+			text = "très"
+		intervals [273]:
+			xmin = 84.15
+			xmax = 84.62
+			text = "élégant"
+		intervals [274]:
+			xmin = 84.62
+			xmax = 84.62
+			text = "[.]"
+		intervals [275]:
+			xmin = 84.62
+			xmax = 85.19
+			text = ""
+		intervals [276]:
+			xmin = 85.19
+			xmax = 85.25
+			text = "et"
+		intervals [277]:
+			xmin = 85.26
+			xmax = 85.51
+			text = "cette"
+		intervals [278]:
+			xmin = 85.52
+			xmax = 85.71
+			text = "fois"
+		intervals [279]:
+			xmin = 85.72
+			xmax = 86.04
+			text = "-ci"
+		intervals [280]:
+			xmin = 86.04
+			xmax = 86.32
+			text = ""
+		intervals [281]:
+			xmin = 86.32
+			xmax = 86.53
+			text = "tout"
+		intervals [282]:
+			xmin = 86.54
+			xmax = 86.65
+			text = "le"
+		intervals [283]:
+			xmin = 86.66
+			xmax = 86.98
+			text = "monde"
+		intervals [284]:
+			xmin = 86.99
+			xmax = 87.18
+			text = "fut"
+		intervals [285]:
+			xmin = 87.19
+			xmax = 87.31
+			text = "de"
+		intervals [286]:
+			xmin = 87.32
+			xmax = 87.56
+			text = "son"
+		intervals [287]:
+			xmin = 87.57
+			xmax = 87.83
+			text = "avis"
+		intervals [288]:
+			xmin = 87.83
+			xmax = 87.83
+			text = "[.]"
+		intervals [289]:
+			xmin = 87.84
+			xmax = 87.93
+			text = "si"
+		intervals [290]:
+			xmin = 87.93
+			xmax = 88.6
+			text = ""
+		intervals [291]:
+			xmin = 88.6
+			xmax = 88.62
+			text = "je"
+		intervals [292]:
+			xmin = 88.62
+			xmax = 89.18
+			text = ""
+		intervals [293]:
+			xmin = 89.18
+			xmax = 89.25
+			text = "vous"
+		intervals [294]:
+			xmin = 89.26
+			xmax = 89.63
+			text = "ai"
+		intervals [295]:
+			xmin = 89.63
+			xmax = 89.88
+			text = ""
+		intervals [296]:
+			xmin = 89.88
+			xmax = 90.39
+			text = "raconté"
+		intervals [297]:
+			xmin = 90.4
+			xmax = 90.53
+			text = "ces"
+		intervals [298]:
+			xmin = 90.54
+			xmax = 91.1
+			text = "détails"
+		intervals [299]:
+			xmin = 91.1
+			xmax = 91.15
+			text = ""
+		intervals [300]:
+			xmin = 91.15
+			xmax = 91.34
+			text = "sur"
+		intervals [301]:
+			xmin = 91.35
+			xmax = 91.41
+			text = "l'"
+		intervals [302]:
+			xmin = 91.42
+			xmax = 92.16
+			text = "astéroïde"
+		intervals [303]:
+			xmin = 92.17
+			xmax = 92.4
+			text = "b"
+		intervals [304]:
+			xmin = 92.41
+			xmax = 93.22
+			text = "612"
+		intervals [305]:
+			xmin = 93.22
+			xmax = 93.75
+			text = ""
+		intervals [306]:
+			xmin = 93.75
+			xmax = 93.81
+			text = "et"
+		intervals [307]:
+			xmin = 93.82
+			xmax = 94.01
+			text = "si"
+		intervals [308]:
+			xmin = 94.02
+			xmax = 94.16
+			text = "je"
+		intervals [309]:
+			xmin = 94.17
+			xmax = 94.33
+			text = "vous"
+		intervals [310]:
+			xmin = 94.34
+			xmax = 94.48
+			text = "ai"
+		intervals [311]:
+			xmin = 94.49
+			xmax = 94.96
+			text = "confié"
+		intervals [312]:
+			xmin = 94.97
+			xmax = 95.15
+			text = "son"
+		intervals [313]:
+			xmin = 95.16
+			xmax = 95.66
+			text = "numéro"
+		intervals [314]:
+			xmin = 95.66
+			xmax = 95.66
+			text = "[,]"
+		intervals [315]:
+			xmin = 95.66
+			xmax = 95.97
+			text = ""
+		intervals [316]:
+			xmin = 95.97
+			xmax = 96.06
+			text = "c'"
+		intervals [317]:
+			xmin = 96.07
+			xmax = 96.19
+			text = "est"
+		intervals [318]:
+			xmin = 96.2
+			xmax = 96.28
+			text = "à"
+		intervals [319]:
+			xmin = 96.29
+			xmax = 96.56
+			text = "cause"
+		intervals [320]:
+			xmin = 96.57
+			xmax = 96.67
+			text = "des"
+		intervals [321]:
+			xmin = 96.68
+			xmax = 96.93
+			text = "grandes"
+		intervals [322]:
+			xmin = 96.94
+			xmax = 97.53
+			text = "personnes"
+		intervals [323]:
+			xmin = 97.53
+			xmax = 97.53
+			text = "[.]"
+		intervals [324]:
+			xmin = 97.53
+			xmax = 98.3
+			text = ""
+		intervals [325]:
+			xmin = 98.3
+			xmax = 98.48
+			text = "les"
+		intervals [326]:
+			xmin = 98.49
+			xmax = 98.7
+			text = "grandes"
+		intervals [327]:
+			xmin = 98.71
+			xmax = 99.24
+			text = "personnes"
+		intervals [328]:
+			xmin = 99.24
+			xmax = 99.32
+			text = ""
+		intervals [329]:
+			xmin = 99.32
+			xmax = 99.59
+			text = "aiment"
+		intervals [330]:
+			xmin = 99.6
+			xmax = 99.74
+			text = "les"
+		intervals [331]:
+			xmin = 99.75
+			xmax = 100.28
+			text = "chiffres"
+		intervals [332]:
+			xmin = 100.28
+			xmax = 100.28
+			text = "[.]"
+		intervals [333]:
+			xmin = 100.28
+			xmax = 101.02
+			text = ""
+		intervals [334]:
+			xmin = 101.02
+			xmax = 101.19
+			text = "quand"
+		intervals [335]:
+			xmin = 101.2
+			xmax = 101.29
+			text = "vous"
+		intervals [336]:
+			xmin = 101.3
+			xmax = 101.48
+			text = "leur"
+		intervals [337]:
+			xmin = 101.49
+			xmax = 101.83
+			text = "parlez"
+		intervals [338]:
+			xmin = 101.84
+			xmax = 101.9
+			text = "d'"
+		intervals [339]:
+			xmin = 101.91
+			xmax = 101.98
+			text = "un"
+		intervals [340]:
+			xmin = 101.99
+			xmax = 102.31
+			text = "nouvel"
+		intervals [341]:
+			xmin = 102.32
+			xmax = 102.64
+			text = "ami"
+		intervals [342]:
+			xmin = 102.64
+			xmax = 102.64
+			text = "[,]"
+		intervals [343]:
+			xmin = 102.64
+			xmax = 102.95
+			text = ""
+		intervals [344]:
+			xmin = 102.95
+			xmax = 103.12
+			text = "elles"
+		intervals [345]:
+			xmin = 103.13
+			xmax = 103.22
+			text = "ne"
+		intervals [346]:
+			xmin = 103.23
+			xmax = 103.37
+			text = "vous"
+		intervals [347]:
+			xmin = 103.38
+			xmax = 103.89
+			text = "questionnent"
+		intervals [348]:
+			xmin = 103.9
+			xmax = 104.34
+			text = "jamais"
+		intervals [349]:
+			xmin = 104.35
+			xmax = 104.52
+			text = "sur"
+		intervals [350]:
+			xmin = 104.53
+			xmax = 104.58
+			text = "l'"
+		intervals [351]:
+			xmin = 104.59
+			xmax = 105.33
+			text = "essentiel"
+		intervals [352]:
+			xmin = 105.33
+			xmax = 105.33
+			text = "[.]"
+		intervals [353]:
+			xmin = 105.33
+			xmax = 105.97
+			text = ""
+		intervals [354]:
+			xmin = 105.97
+			xmax = 106.25
+			text = "elles"
+		intervals [355]:
+			xmin = 106.26
+			xmax = 106.28
+			text = "ne"
+		intervals [356]:
+			xmin = 106.29
+			xmax = 106.4
+			text = "vous"
+		intervals [357]:
+			xmin = 106.41
+			xmax = 106.66
+			text = "disent"
+		intervals [358]:
+			xmin = 106.67
+			xmax = 107.14
+			text = "jamais"
+		intervals [359]:
+			xmin = 107.14
+			xmax = 107.14
+			text = "[:]"
+		intervals [360]:
+			xmin = 107.14
+			xmax = 107.7
+			text = ""
+		intervals [361]:
+			xmin = 107.7
+			xmax = 107.87
+			text = "quel"
+		intervals [362]:
+			xmin = 107.88
+			xmax = 107.95
+			text = "est"
+		intervals [363]:
+			xmin = 107.96
+			xmax = 108.05
+			text = "le"
+		intervals [364]:
+			xmin = 108.06
+			xmax = 108.28
+			text = "son"
+		intervals [365]:
+			xmin = 108.29
+			xmax = 108.35
+			text = "de"
+		intervals [366]:
+			xmin = 108.36
+			xmax = 108.56
+			text = "sa"
+		intervals [367]:
+			xmin = 108.57
+			xmax = 108.77
+			text = "voix"
+		intervals [368]:
+			xmin = 108.77
+			xmax = 108.77
+			text = "[?]"
+		intervals [369]:
+			xmin = 108.77
+			xmax = 109.29
+			text = ""
+		intervals [370]:
+			xmin = 109.29
+			xmax = 109.46
+			text = "quels"
+		intervals [371]:
+			xmin = 109.47
+			xmax = 109.69
+			text = "sont"
+		intervals [372]:
+			xmin = 109.7
+			xmax = 109.83
+			text = "les"
+		intervals [373]:
+			xmin = 109.84
+			xmax = 109.99
+			text = "jeux"
+		intervals [374]:
+			xmin = 110.0
+			xmax = 110.06
+			text = "qu'"
+		intervals [375]:
+			xmin = 110.07
+			xmax = 110.17
+			text = "il"
+		intervals [376]:
+			xmin = 110.18
+			xmax = 110.81
+			text = "préfère"
+		intervals [377]:
+			xmin = 110.81
+			xmax = 110.81
+			text = "[?]"
+		intervals [378]:
+			xmin = 110.81
+			xmax = 111.26
+			text = ""
+		intervals [379]:
+			xmin = 111.26
+			xmax = 111.33
+			text = "est"
+		intervals [380]:
+			xmin = 111.34
+			xmax = 111.45
+			text = "-ce"
+		intervals [381]:
+			xmin = 111.46
+			xmax = 111.52
+			text = "qu'"
+		intervals [382]:
+			xmin = 111.53
+			xmax = 111.65
+			text = "il"
+		intervals [383]:
+			xmin = 111.66
+			xmax = 112.21
+			text = "collectionne"
+		intervals [384]:
+			xmin = 112.22
+			xmax = 112.3
+			text = "les"
+		intervals [385]:
+			xmin = 112.31
+			xmax = 112.84
+			text = "papillons"
+		intervals [386]:
+			xmin = 112.84
+			xmax = 112.84
+			text = "[?]"
+		intervals [387]:
+			xmin = 112.84
+			xmax = 113.66
+			text = ""
+		intervals [388]:
+			xmin = 113.66
+			xmax = 113.83
+			text = "elles"
+		intervals [389]:
+			xmin = 113.84
+			xmax = 114.0
+			text = "vous"
+		intervals [390]:
+			xmin = 114.01
+			xmax = 114.54
+			text = "demandent"
+		intervals [391]:
+			xmin = 114.54
+			xmax = 114.54
+			text = "[:]"
+		intervals [392]:
+			xmin = 114.54
+			xmax = 114.87
+			text = ""
+		intervals [393]:
+			xmin = 114.87
+			xmax = 115.06
+			text = "quel"
+		intervals [394]:
+			xmin = 115.07
+			xmax = 115.22
+			text = "âge"
+		intervals [395]:
+			xmin = 115.23
+			xmax = 115.3
+			text = "a"
+		intervals [396]:
+			xmin = 115.31
+			xmax = 115.45
+			text = "-t"
+		intervals [397]:
+			xmin = 115.46
+			xmax = 115.79
+			text = "-il"
+		intervals [398]:
+			xmin = 115.79
+			xmax = 115.79
+			text = "[?]"
+		intervals [399]:
+			xmin = 115.79
+			xmax = 116.17
+			text = ""
+		intervals [400]:
+			xmin = 116.17
+			xmax = 116.59
+			text = "combien"
+		intervals [401]:
+			xmin = 116.6
+			xmax = 116.63
+			text = "a"
+		intervals [402]:
+			xmin = 116.64
+			xmax = 116.78
+			text = "-t"
+		intervals [403]:
+			xmin = 116.79
+			xmax = 116.86
+			text = "-il"
+		intervals [404]:
+			xmin = 116.87
+			xmax = 116.93
+			text = "de"
+		intervals [405]:
+			xmin = 116.94
+			xmax = 117.44
+			text = "frères"
+		intervals [406]:
+			xmin = 117.44
+			xmax = 117.44
+			text = "[?]"
+		intervals [407]:
+			xmin = 117.44
+			xmax = 117.72
+			text = ""
+		intervals [408]:
+			xmin = 117.72
+			xmax = 118.19
+			text = "combien"
+		intervals [409]:
+			xmin = 118.2
+			xmax = 118.43
+			text = "pèse"
+		intervals [410]:
+			xmin = 118.44
+			xmax = 118.68
+			text = "-t"
+		intervals [411]:
+			xmin = 118.69
+			xmax = 118.83
+			text = "-il"
+		intervals [412]:
+			xmin = 118.83
+			xmax = 118.83
+			text = "[?]"
+		intervals [413]:
+			xmin = 118.83
+			xmax = 119.4
+			text = ""
+		intervals [414]:
+			xmin = 119.4
+			xmax = 119.78
+			text = "combien"
+		intervals [415]:
+			xmin = 119.79
+			xmax = 120.05
+			text = "gagne"
+		intervals [416]:
+			xmin = 120.06
+			xmax = 120.29
+			text = "son"
+		intervals [417]:
+			xmin = 120.3
+			xmax = 120.69
+			text = "père"
+		intervals [418]:
+			xmin = 120.69
+			xmax = 120.69
+			text = "[?]"
+		intervals [419]:
+			xmin = 120.69
+			xmax = 121.89
+			text = ""
+		intervals [420]:
+			xmin = 121.89
+			xmax = 122.17
+			text = "alors"
+		intervals [421]:
+			xmin = 122.17
+			xmax = 122.38
+			text = ""
+		intervals [422]:
+			xmin = 122.38
+			xmax = 122.94
+			text = "seulement"
+		intervals [423]:
+			xmin = 122.94
+			xmax = 123.04
+			text = ""
+		intervals [424]:
+			xmin = 123.04
+			xmax = 123.24
+			text = "elles"
+		intervals [425]:
+			xmin = 123.25
+			xmax = 123.49
+			text = "croient"
+		intervals [426]:
+			xmin = 123.5
+			xmax = 123.6
+			text = "le"
+		intervals [427]:
+			xmin = 123.61
+			xmax = 124.21
+			text = "connaître"
+		intervals [428]:
+			xmin = 124.21
+			xmax = 124.21
+			text = "[.]"
+		intervals [429]:
+			xmin = 124.21
+			xmax = 124.91
+			text = ""
+		intervals [430]:
+			xmin = 124.91
+			xmax = 125.19
+			text = "si"
+		intervals [431]:
+			xmin = 125.2
+			xmax = 125.29
+			text = "vous"
+		intervals [432]:
+			xmin = 125.3
+			xmax = 125.54
+			text = "dites"
+		intervals [433]:
+			xmin = 125.54
+			xmax = 125.61
+			text = ""
+		intervals [434]:
+			xmin = 125.61
+			xmax = 125.69
+			text = "aux"
+		intervals [435]:
+			xmin = 125.7
+			xmax = 125.95
+			text = "grandes"
+		intervals [436]:
+			xmin = 125.96
+			xmax = 126.6
+			text = "personnes"
+		intervals [437]:
+			xmin = 126.6
+			xmax = 126.6
+			text = "[:]"
+		intervals [438]:
+			xmin = 126.6
+			xmax = 127.05
+			text = ""
+		intervals [439]:
+			xmin = 127.05
+			xmax = 127.36
+			text = "j'"
+		intervals [440]:
+			xmin = 127.37
+			xmax = 127.41
+			text = "ai"
+		intervals [441]:
+			xmin = 127.42
+			xmax = 127.76
+			text = "vu"
+		intervals [442]:
+			xmin = 127.77
+			xmax = 127.95
+			text = "une"
+		intervals [443]:
+			xmin = 127.96
+			xmax = 128.12
+			text = "belle"
+		intervals [444]:
+			xmin = 128.12
+			xmax = 128.34
+			text = ""
+		intervals [445]:
+			xmin = 128.34
+			xmax = 128.77
+			text = "maison"
+		intervals [446]:
+			xmin = 128.78
+			xmax = 128.92
+			text = "en"
+		intervals [447]:
+			xmin = 128.93
+			xmax = 129.17
+			text = "briques"
+		intervals [448]:
+			xmin = 129.18
+			xmax = 129.71
+			text = "roses"
+		intervals [449]:
+			xmin = 129.71
+			xmax = 129.71
+			text = "[,]"
+		intervals [450]:
+			xmin = 129.72
+			xmax = 130.16
+			text = "avec"
+		intervals [451]:
+			xmin = 130.17
+			xmax = 130.27
+			text = "des"
+		intervals [452]:
+			xmin = 130.28
+			xmax = 130.84
+			text = "géraniums"
+		intervals [453]:
+			xmin = 130.85
+			xmax = 130.93
+			text = "aux"
+		intervals [454]:
+			xmin = 130.94
+			xmax = 131.47
+			text = "fenêtres"
+		intervals [455]:
+			xmin = 131.47
+			xmax = 131.57
+			text = ""
+		intervals [456]:
+			xmin = 131.57
+			xmax = 131.65
+			text = "et"
+		intervals [457]:
+			xmin = 131.66
+			xmax = 131.79
+			text = "des"
+		intervals [458]:
+			xmin = 131.8
+			xmax = 132.12
+			text = "colombes"
+		intervals [459]:
+			xmin = 132.12
+			xmax = 132.2
+			text = ""
+		intervals [460]:
+			xmin = 132.2
+			xmax = 132.4
+			text = "sur"
+		intervals [461]:
+			xmin = 132.41
+			xmax = 132.53
+			text = "le"
+		intervals [462]:
+			xmin = 132.54
+			xmax = 132.78
+			text = "toit"
+		intervals [463]:
+			xmin = 132.78
+			xmax = 132.78
+			text = "[.]"
+		intervals [464]:
+			xmin = 132.78
+			xmax = 132.78
+			text = "[.]"
+		intervals [465]:
+			xmin = 132.78
+			xmax = 132.78
+			text = "[.]"
+		intervals [466]:
+			xmin = 132.78
+			xmax = 132.78
+			text = "[,]"
+		intervals [467]:
+			xmin = 132.78
+			xmax = 133.6
+			text = ""
+		intervals [468]:
+			xmin = 133.6
+			xmax = 133.86
+			text = "elles"
+		intervals [469]:
+			xmin = 133.87
+			xmax = 133.89
+			text = "ne"
+		intervals [470]:
+			xmin = 133.9
+			xmax = 134.28
+			text = "parviennent"
+		intervals [471]:
+			xmin = 134.29
+			xmax = 134.52
+			text = "pas"
+		intervals [472]:
+			xmin = 134.53
+			xmax = 134.56
+			text = "à"
+		intervals [473]:
+			xmin = 134.57
+			xmax = 134.69
+			text = "s'"
+		intervals [474]:
+			xmin = 134.7
+			xmax = 135.16
+			text = "imaginer"
+		intervals [475]:
+			xmin = 135.17
+			xmax = 135.4
+			text = "cette"
+		intervals [476]:
+			xmin = 135.41
+			xmax = 135.75
+			text = "maison"
+		intervals [477]:
+			xmin = 135.75
+			xmax = 135.75
+			text = "[.]"
+		intervals [478]:
+			xmin = 135.75
+			xmax = 136.3
+			text = ""
+		intervals [479]:
+			xmin = 136.3
+			xmax = 136.48
+			text = "il"
+		intervals [480]:
+			xmin = 136.49
+			xmax = 136.6
+			text = "faut"
+		intervals [481]:
+			xmin = 136.61
+			xmax = 136.82
+			text = "leur"
+		intervals [482]:
+			xmin = 136.83
+			xmax = 137.22
+			text = "dire"
+		intervals [483]:
+			xmin = 137.22
+			xmax = 137.22
+			text = "[:]"
+		intervals [484]:
+			xmin = 137.22
+			xmax = 137.55
+			text = ""
+		intervals [485]:
+			xmin = 137.55
+			xmax = 137.71
+			text = "j'"
+		intervals [486]:
+			xmin = 137.72
+			xmax = 137.87
+			text = "ai"
+		intervals [487]:
+			xmin = 137.88
+			xmax = 138.13
+			text = "vu"
+		intervals [488]:
+			xmin = 138.14
+			xmax = 138.26
+			text = "une"
+		intervals [489]:
+			xmin = 138.27
+			xmax = 138.66
+			text = "maison"
+		intervals [490]:
+			xmin = 138.67
+			xmax = 138.78
+			text = "de"
+		intervals [491]:
+			xmin = 138.79
+			xmax = 139.14
+			text = "cent"
+		intervals [492]:
+			xmin = 139.15
+			xmax = 139.34
+			text = "mille"
+		intervals [493]:
+			xmin = 139.35
+			xmax = 139.66
+			text = "francs"
+		intervals [494]:
+			xmin = 139.66
+			xmax = 139.66
+			text = "[.]"
+		intervals [495]:
+			xmin = 139.66
+			xmax = 140.41
+			text = ""
+		intervals [496]:
+			xmin = 140.41
+			xmax = 140.82
+			text = "alors"
+		intervals [497]:
+			xmin = 140.83
+			xmax = 140.91
+			text = "elles"
+		intervals [498]:
+			xmin = 140.92
+			xmax = 141.06
+			text = "s'"
+		intervals [499]:
+			xmin = 141.07
+			xmax = 141.52
+			text = "écrient"
+		intervals [500]:
+			xmin = 141.52
+			xmax = 141.52
+			text = "[:]"
+		intervals [501]:
+			xmin = 141.52
+			xmax = 141.9
+			text = ""
+		intervals [502]:
+			xmin = 141.9
+			xmax = 142.22
+			text = "comme"
+		intervals [503]:
+			xmin = 142.22
+			xmax = 142.31
+			text = ""
+		intervals [504]:
+			xmin = 142.31
+			xmax = 142.35
+			text = "c'"
+		intervals [505]:
+			xmin = 142.36
+			xmax = 142.46
+			text = "est"
+		intervals [506]:
+			xmin = 142.47
+			xmax = 143.33
+			text = "joli"
+		intervals [507]:
+			xmin = 143.33
+			xmax = 143.33
+			text = "[!]"
+		intervals [508]:
+			xmin = 143.33
+			xmax = 144.61
+			text = ""
+		intervals [509]:
+			xmin = 144.61
+			xmax = 145.13
+			text = "ainsi"
+		intervals [510]:
+			xmin = 145.13
+			xmax = 145.13
+			text = "[,]"
+		intervals [511]:
+			xmin = 145.13
+			xmax = 145.3
+			text = ""
+		intervals [512]:
+			xmin = 145.3
+			xmax = 145.57
+			text = "si"
+		intervals [513]:
+			xmin = 145.58
+			xmax = 145.67
+			text = "vous"
+		intervals [514]:
+			xmin = 145.68
+			xmax = 145.88
+			text = "leur"
+		intervals [515]:
+			xmin = 145.89
+			xmax = 146.29
+			text = "dites"
+		intervals [516]:
+			xmin = 146.29
+			xmax = 146.29
+			text = "[,]"
+		intervals [517]:
+			xmin = 146.29
+			xmax = 146.72
+			text = ""
+		intervals [518]:
+			xmin = 146.72
+			xmax = 147.03
+			text = "la"
+		intervals [519]:
+			xmin = 147.04
+			xmax = 147.4
+			text = "preuve"
+		intervals [520]:
+			xmin = 147.4
+			xmax = 147.45
+			text = ""
+		intervals [521]:
+			xmin = 147.45
+			xmax = 147.57
+			text = "que"
+		intervals [522]:
+			xmin = 147.58
+			xmax = 147.7
+			text = "le"
+		intervals [523]:
+			xmin = 147.71
+			xmax = 148.02
+			text = "petit"
+		intervals [524]:
+			xmin = 148.03
+			xmax = 148.43
+			text = "prince"
+		intervals [525]:
+			xmin = 148.44
+			xmax = 148.46
+			text = "a"
+		intervals [526]:
+			xmin = 148.47
+			xmax = 149.24
+			text = "existé"
+		intervals [527]:
+			xmin = 149.24
+			xmax = 149.38
+			text = ""
+		intervals [528]:
+			xmin = 149.38
+			xmax = 149.5
+			text = "c'"
+		intervals [529]:
+			xmin = 149.51
+			xmax = 149.58
+			text = "est"
+		intervals [530]:
+			xmin = 149.59
+			xmax = 149.68
+			text = "qu'"
+		intervals [531]:
+			xmin = 149.69
+			xmax = 149.78
+			text = "il"
+		intervals [532]:
+			xmin = 149.79
+			xmax = 150.14
+			text = "était"
+		intervals [533]:
+			xmin = 150.15
+			xmax = 150.93
+			text = "ravissant"
+		intervals [534]:
+			xmin = 150.93
+			xmax = 150.93
+			text = "[,]"
+		intervals [535]:
+			xmin = 150.93
+			xmax = 151.26
+			text = ""
+		intervals [536]:
+			xmin = 151.26
+			xmax = 151.35
+			text = "qu'"
+		intervals [537]:
+			xmin = 151.36
+			xmax = 151.47
+			text = "il"
+		intervals [538]:
+			xmin = 151.48
+			xmax = 151.92
+			text = "riait"
+		intervals [539]:
+			xmin = 151.92
+			xmax = 151.92
+			text = "[,]"
+		intervals [540]:
+			xmin = 151.92
+			xmax = 152.24
+			text = ""
+		intervals [541]:
+			xmin = 152.24
+			xmax = 152.3
+			text = "et"
+		intervals [542]:
+			xmin = 152.31
+			xmax = 152.44
+			text = "qu'"
+		intervals [543]:
+			xmin = 152.45
+			xmax = 152.54
+			text = "il"
+		intervals [544]:
+			xmin = 152.55
+			xmax = 152.88
+			text = "voulait"
+		intervals [545]:
+			xmin = 152.89
+			xmax = 153.03
+			text = "un"
+		intervals [546]:
+			xmin = 153.04
+			xmax = 153.4
+			text = "mouton"
+		intervals [547]:
+			xmin = 153.4
+			xmax = 153.4
+			text = "[.]"
+		intervals [548]:
+			xmin = 153.4
+			xmax = 154.01
+			text = ""
+		intervals [549]:
+			xmin = 154.01
+			xmax = 154.17
+			text = "quand"
+		intervals [550]:
+			xmin = 154.17
+			xmax = 154.24
+			text = ""
+		intervals [551]:
+			xmin = 154.24
+			xmax = 154.34
+			text = "on"
+		intervals [552]:
+			xmin = 154.35
+			xmax = 154.51
+			text = "veut"
+		intervals [553]:
+			xmin = 154.51
+			xmax = 154.63
+			text = ""
+		intervals [554]:
+			xmin = 154.63
+			xmax = 154.65
+			text = "un"
+		intervals [555]:
+			xmin = 154.66
+			xmax = 155.08
+			text = "mouton"
+		intervals [556]:
+			xmin = 155.08
+			xmax = 155.08
+			text = "[,]"
+		intervals [557]:
+			xmin = 155.08
+			xmax = 155.28
+			text = ""
+		intervals [558]:
+			xmin = 155.28
+			xmax = 155.4
+			text = "c'"
+		intervals [559]:
+			xmin = 155.41
+			xmax = 155.45
+			text = "est"
+		intervals [560]:
+			xmin = 155.46
+			xmax = 155.58
+			text = "la"
+		intervals [561]:
+			xmin = 155.59
+			xmax = 155.84
+			text = "preuve"
+		intervals [562]:
+			xmin = 155.85
+			xmax = 155.95
+			text = "qu'"
+		intervals [563]:
+			xmin = 155.96
+			xmax = 156.07
+			text = "on"
+		intervals [564]:
+			xmin = 156.08
+			xmax = 156.63
+			text = "existe"
+		intervals [565]:
+			xmin = 156.63
+			xmax = 156.63
+			text = "[,]"
+		intervals [566]:
+			xmin = 156.63
+			xmax = 157.53
+			text = ""
+		intervals [567]:
+			xmin = 157.53
+			xmax = 157.76
+			text = "elles"
+		intervals [568]:
+			xmin = 157.77
+			xmax = 158.24
+			text = "hausseront"
+		intervals [569]:
+			xmin = 158.25
+			xmax = 158.46
+			text = "les"
+		intervals [570]:
+			xmin = 158.47
+			xmax = 158.96
+			text = "épaules"
+		intervals [571]:
+			xmin = 158.96
+			xmax = 159.05
+			text = ""
+		intervals [572]:
+			xmin = 159.05
+			xmax = 159.14
+			text = "et"
+		intervals [573]:
+			xmin = 159.15
+			xmax = 159.28
+			text = "vous"
+		intervals [574]:
+			xmin = 159.29
+			xmax = 159.81
+			text = "traiteront"
+		intervals [575]:
+			xmin = 159.82
+			xmax = 159.86
+			text = "d'"
+		intervals [576]:
+			xmin = 159.87
+			xmax = 160.33
+			text = "enfant"
+		intervals [577]:
+			xmin = 160.33
+			xmax = 160.33
+			text = "[!]"
+		intervals [578]:
+			xmin = 160.33
+			xmax = 161.13
+			text = ""
+		intervals [579]:
+			xmin = 161.13
+			xmax = 161.32
+			text = "mais"
+		intervals [580]:
+			xmin = 161.33
+			xmax = 161.56
+			text = "si"
+		intervals [581]:
+			xmin = 161.57
+			xmax = 161.66
+			text = "vous"
+		intervals [582]:
+			xmin = 161.67
+			xmax = 161.85
+			text = "leur"
+		intervals [583]:
+			xmin = 161.86
+			xmax = 162.25
+			text = "dites"
+		intervals [584]:
+			xmin = 162.25
+			xmax = 162.25
+			text = "[:]"
+		intervals [585]:
+			xmin = 162.25
+			xmax = 162.85
+			text = ""
+		intervals [586]:
+			xmin = 162.85
+			xmax = 163.06
+			text = "la"
+		intervals [587]:
+			xmin = 163.07
+			xmax = 163.63
+			text = "planète"
+		intervals [588]:
+			xmin = 163.64
+			xmax = 163.67
+			text = "d'"
+		intervals [589]:
+			xmin = 163.68
+			xmax = 163.8
+			text = "où"
+		intervals [590]:
+			xmin = 163.81
+			xmax = 163.95
+			text = "il"
+		intervals [591]:
+			xmin = 163.96
+			xmax = 164.36
+			text = "venait"
+		intervals [592]:
+			xmin = 164.36
+			xmax = 164.44
+			text = ""
+		intervals [593]:
+			xmin = 164.44
+			xmax = 164.57
+			text = "est"
+		intervals [594]:
+			xmin = 164.58
+			xmax = 164.65
+			text = "l'"
+		intervals [595]:
+			xmin = 164.66
+			xmax = 165.36
+			text = "astéroïde"
+		intervals [596]:
+			xmin = 165.36
+			xmax = 165.41
+			text = ""
+		intervals [597]:
+			xmin = 165.41
+			xmax = 165.59
+			text = "b"
+		intervals [598]:
+			xmin = 165.6
+			xmax = 166.45
+			text = "612"
+		intervals [599]:
+			xmin = 166.45
+			xmax = 166.45
+			text = "[,]"
+		intervals [600]:
+			xmin = 166.45
+			xmax = 167.07
+			text = ""
+		intervals [601]:
+			xmin = 167.07
+			xmax = 167.64
+			text = "alors"
+		intervals [602]:
+			xmin = 167.65
+			xmax = 167.82
+			text = "elles"
+		intervals [603]:
+			xmin = 167.83
+			xmax = 168.16
+			text = "seront"
+		intervals [604]:
+			xmin = 168.17
+			xmax = 168.85
+			text = "convaincues"
+		intervals [605]:
+			xmin = 168.85
+			xmax = 168.85
+			text = "[,]"
+		intervals [606]:
+			xmin = 168.86
+			xmax = 168.93
+			text = "et"
+		intervals [607]:
+			xmin = 168.93
+			xmax = 169.15
+			text = ""
+		intervals [608]:
+			xmin = 169.15
+			xmax = 169.38
+			text = "elles"
+		intervals [609]:
+			xmin = 169.39
+			xmax = 169.5
+			text = "vous"
+		intervals [610]:
+			xmin = 169.51
+			xmax = 169.92
+			text = "laisseront"
+		intervals [611]:
+			xmin = 169.93
+			xmax = 170.47
+			text = "tranquille"
+		intervals [612]:
+			xmin = 170.48
+			xmax = 170.67
+			text = "avec"
+		intervals [613]:
+			xmin = 170.68
+			xmax = 170.8
+			text = "leurs"
+		intervals [614]:
+			xmin = 170.81
+			xmax = 171.25
+			text = "questions"
+		intervals [615]:
+			xmin = 171.25
+			xmax = 171.25
+			text = "[.]"
+		intervals [616]:
+			xmin = 171.25
+			xmax = 171.86
+			text = ""
+		intervals [617]:
+			xmin = 171.86
+			xmax = 172.02
+			text = "elles"
+		intervals [618]:
+			xmin = 172.03
+			xmax = 172.19
+			text = "sont"
+		intervals [619]:
+			xmin = 172.2
+			xmax = 172.4
+			text = "comme"
+		intervals [620]:
+			xmin = 172.41
+			xmax = 172.59
+			text = "ça"
+		intervals [621]:
+			xmin = 172.59
+			xmax = 172.59
+			text = "[.]"
+		intervals [622]:
+			xmin = 172.59
+			xmax = 173.19
+			text = ""
+		intervals [623]:
+			xmin = 173.19
+			xmax = 173.34
+			text = "il"
+		intervals [624]:
+			xmin = 173.35
+			xmax = 173.45
+			text = "ne"
+		intervals [625]:
+			xmin = 173.46
+			xmax = 173.57
+			text = "faut"
+		intervals [626]:
+			xmin = 173.58
+			xmax = 173.74
+			text = "pas"
+		intervals [627]:
+			xmin = 173.75
+			xmax = 173.86
+			text = "leur"
+		intervals [628]:
+			xmin = 173.87
+			xmax = 173.98
+			text = "en"
+		intervals [629]:
+			xmin = 173.99
+			xmax = 174.51
+			text = "vouloir"
+		intervals [630]:
+			xmin = 174.51
+			xmax = 174.51
+			text = "[.]"
+		intervals [631]:
+			xmin = 174.51
+			xmax = 175.1
+			text = ""
+		intervals [632]:
+			xmin = 175.1
+			xmax = 175.39
+			text = "les"
+		intervals [633]:
+			xmin = 175.4
+			xmax = 175.7
+			text = "enfants"
+		intervals [634]:
+			xmin = 175.71
+			xmax = 175.96
+			text = "doivent"
+		intervals [635]:
+			xmin = 175.97
+			xmax = 176.23
+			text = "être"
+		intervals [636]:
+			xmin = 176.24
+			xmax = 176.69
+			text = "très"
+		intervals [637]:
+			xmin = 176.7
+			xmax = 177.32
+			text = "indulgents"
+		intervals [638]:
+			xmin = 177.33
+			xmax = 177.46
+			text = "envers"
+		intervals [639]:
+			xmin = 177.47
+			xmax = 177.57
+			text = "les"
+		intervals [640]:
+			xmin = 177.58
+			xmax = 177.82
+			text = "grandes"
+		intervals [641]:
+			xmin = 177.83
+			xmax = 178.45
+			text = "personnes"
+		intervals [642]:
+			xmin = 178.45
+			xmax = 178.45
+			text = "[.]"
+		intervals [643]:
+			xmin = 178.45
+			xmax = 179.35
+			text = ""
+		intervals [644]:
+			xmin = 179.35
+			xmax = 179.7
+			text = "mais"
+		intervals [645]:
+			xmin = 179.7
+			xmax = 179.7
+			text = "[,]"
+		intervals [646]:
+			xmin = 179.71
+			xmax = 179.9
+			text = "bien"
+		intervals [647]:
+			xmin = 179.91
+			xmax = 180.37
+			text = "sûr"
+		intervals [648]:
+			xmin = 180.37
+			xmax = 180.37
+			text = "[,]"
+		intervals [649]:
+			xmin = 180.37
+			xmax = 180.48
+			text = ""
+		intervals [650]:
+			xmin = 180.48
+			xmax = 180.82
+			text = "nous"
+		intervals [651]:
+			xmin = 180.83
+			xmax = 181.02
+			text = "qui"
+		intervals [652]:
+			xmin = 181.03
+			xmax = 181.44
+			text = "comprenons"
+		intervals [653]:
+			xmin = 181.45
+			xmax = 181.67
+			text = "la"
+		intervals [654]:
+			xmin = 181.68
+			xmax = 181.92
+			text = "vie"
+		intervals [655]:
+			xmin = 181.92
+			xmax = 181.92
+			text = "[,]"
+		intervals [656]:
+			xmin = 181.92
+			xmax = 182.19
+			text = ""
+		intervals [657]:
+			xmin = 182.19
+			xmax = 182.28
+			text = "nous"
+		intervals [658]:
+			xmin = 182.29
+			xmax = 182.44
+			text = "nous"
+		intervals [659]:
+			xmin = 182.45
+			xmax = 182.79
+			text = "moquons"
+		intervals [660]:
+			xmin = 182.8
+			xmax = 183.04
+			text = "bien"
+		intervals [661]:
+			xmin = 183.05
+			xmax = 183.14
+			text = "des"
+		intervals [662]:
+			xmin = 183.15
+			xmax = 183.62
+			text = "numéros"
+		intervals [663]:
+			xmin = 183.62
+			xmax = 183.62
+			text = "[!]"
+		intervals [664]:
+			xmin = 183.62
+			xmax = 184.59
+			text = ""
+		intervals [665]:
+			xmin = 184.59
+			xmax = 184.72
+			text = "j'"
+		intervals [666]:
+			xmin = 184.73
+			xmax = 185.14
+			text = "aurais"
+		intervals [667]:
+			xmin = 185.15
+			xmax = 185.29
+			text = "aimé"
+		intervals [668]:
+			xmin = 185.3
+			xmax = 185.78
+			text = "commencer"
+		intervals [669]:
+			xmin = 185.79
+			xmax = 186.04
+			text = "cette"
+		intervals [670]:
+			xmin = 186.05
+			xmax = 186.48
+			text = "histoire"
+		intervals [671]:
+			xmin = 186.49
+			xmax = 186.52
+			text = "à"
+		intervals [672]:
+			xmin = 186.53
+			xmax = 186.67
+			text = "la"
+		intervals [673]:
+			xmin = 186.68
+			xmax = 186.98
+			text = "façon"
+		intervals [674]:
+			xmin = 186.99
+			xmax = 187.11
+			text = "des"
+		intervals [675]:
+			xmin = 187.12
+			xmax = 187.43
+			text = "contes"
+		intervals [676]:
+			xmin = 187.44
+			xmax = 187.58
+			text = "de"
+		intervals [677]:
+			xmin = 187.59
+			xmax = 187.88
+			text = "fées"
+		intervals [678]:
+			xmin = 187.88
+			xmax = 187.88
+			text = "[.]"
+		intervals [679]:
+			xmin = 187.88
+			xmax = 188.33
+			text = ""
+		intervals [680]:
+			xmin = 188.33
+			xmax = 188.46
+			text = "j'"
+		intervals [681]:
+			xmin = 188.47
+			xmax = 188.78
+			text = "aurais"
+		intervals [682]:
+			xmin = 188.79
+			xmax = 188.95
+			text = "aimé"
+		intervals [683]:
+			xmin = 188.96
+			xmax = 189.36
+			text = "dire"
+		intervals [684]:
+			xmin = 189.36
+			xmax = 189.36
+			text = "[:]"
+		intervals [685]:
+			xmin = 189.36
+			xmax = 189.88
+			text = ""
+		intervals [686]:
+			xmin = 189.88
+			xmax = 190.03
+			text = "il"
+		intervals [687]:
+			xmin = 190.04
+			xmax = 190.27
+			text = "était"
+		intervals [688]:
+			xmin = 190.28
+			xmax = 190.46
+			text = "une"
+		intervals [689]:
+			xmin = 190.47
+			xmax = 190.68
+			text = "fois"
+		intervals [690]:
+			xmin = 190.69
+			xmax = 190.82
+			text = "un"
+		intervals [691]:
+			xmin = 190.83
+			xmax = 191.13
+			text = "petit"
+		intervals [692]:
+			xmin = 191.14
+			xmax = 191.65
+			text = "prince"
+		intervals [693]:
+			xmin = 191.66
+			xmax = 191.84
+			text = "qui"
+		intervals [694]:
+			xmin = 191.85
+			xmax = 192.23
+			text = "habitait"
+		intervals [695]:
+			xmin = 192.24
+			xmax = 192.45
+			text = "une"
+		intervals [696]:
+			xmin = 192.46
+			xmax = 192.94
+			text = "planète"
+		intervals [697]:
+			xmin = 192.94
+			xmax = 193.04
+			text = ""
+		intervals [698]:
+			xmin = 193.04
+			xmax = 193.22
+			text = "à"
+		intervals [699]:
+			xmin = 193.22
+			xmax = 193.31
+			text = ""
+		intervals [700]:
+			xmin = 193.31
+			xmax = 193.61
+			text = "peine"
+		intervals [701]:
+			xmin = 193.62
+			xmax = 193.76
+			text = "plus"
+		intervals [702]:
+			xmin = 193.77
+			xmax = 194.02
+			text = "grande"
+		intervals [703]:
+			xmin = 194.02
+			xmax = 194.07
+			text = ""
+		intervals [704]:
+			xmin = 194.07
+			xmax = 194.22
+			text = "que"
+		intervals [705]:
+			xmin = 194.23
+			xmax = 194.51
+			text = "lui"
+		intervals [706]:
+			xmin = 194.51
+			xmax = 194.51
+			text = "[,]"
+		intervals [707]:
+			xmin = 194.51
+			xmax = 194.88
+			text = ""
+		intervals [708]:
+			xmin = 194.88
+			xmax = 195.01
+			text = "et"
+		intervals [709]:
+			xmin = 195.02
+			xmax = 195.14
+			text = "qui"
+		intervals [710]:
+			xmin = 195.15
+			xmax = 195.38
+			text = "avait"
+		intervals [711]:
+			xmin = 195.39
+			xmax = 195.75
+			text = "besoin"
+		intervals [712]:
+			xmin = 195.76
+			xmax = 195.82
+			text = "d'"
+		intervals [713]:
+			xmin = 195.83
+			xmax = 195.96
+			text = "un"
+		intervals [714]:
+			xmin = 195.97
+			xmax = 196.3
+			text = "ami"
+		intervals [715]:
+			xmin = 196.3
+			xmax = 196.3
+			text = "[.]"
+		intervals [716]:
+			xmin = 196.3
+			xmax = 196.3
+			text = "[.]"
+		intervals [717]:
+			xmin = 196.3
+			xmax = 196.3
+			text = "[.]"
+		intervals [718]:
+			xmin = 196.3
+			xmax = 197.35
+			text = ""
+		intervals [719]:
+			xmin = 197.35
+			xmax = 197.48
+			text = "pour"
+		intervals [720]:
+			xmin = 197.49
+			xmax = 197.67
+			text = "ceux"
+		intervals [721]:
+			xmin = 197.68
+			xmax = 197.82
+			text = "qui"
+		intervals [722]:
+			xmin = 197.83
+			xmax = 198.21
+			text = "comprennent"
+		intervals [723]:
+			xmin = 198.22
+			xmax = 198.39
+			text = "la"
+		intervals [724]:
+			xmin = 198.4
+			xmax = 198.65
+			text = "vie"
+		intervals [725]:
+			xmin = 198.65
+			xmax = 198.65
+			text = "[,]"
+		intervals [726]:
+			xmin = 198.65
+			xmax = 198.78
+			text = ""
+		intervals [727]:
+			xmin = 198.78
+			xmax = 199.05
+			text = "ça"
+		intervals [728]:
+			xmin = 199.06
+			xmax = 199.28
+			text = "aurait"
+		intervals [729]:
+			xmin = 199.29
+			xmax = 199.38
+			text = "eu"
+		intervals [730]:
+			xmin = 199.39
+			xmax = 199.43
+			text = "l'"
+		intervals [731]:
+			xmin = 199.44
+			xmax = 199.63
+			text = "air"
+		intervals [732]:
+			xmin = 199.64
+			xmax = 200.04
+			text = "beaucoup"
+		intervals [733]:
+			xmin = 200.05
+			xmax = 200.25
+			text = "plus"
+		intervals [734]:
+			xmin = 200.26
+			xmax = 200.5
+			text = "vrai"
+		intervals [735]:
+			xmin = 200.5
+			xmax = 200.5
+			text = "[.]"
+		intervals [736]:
+			xmin = 200.5
+			xmax = 201.45
+			text = ""
+		intervals [737]:
+			xmin = 201.45
+			xmax = 201.64
+			text = "car"
+		intervals [738]:
+			xmin = 201.65
+			xmax = 201.73
+			text = "je"
+		intervals [739]:
+			xmin = 201.73
+			xmax = 201.79
+			text = ""
+		intervals [740]:
+			xmin = 201.79
+			xmax = 201.81
+			text = "n'"
+		intervals [741]:
+			xmin = 201.82
+			xmax = 201.99
+			text = "aime"
+		intervals [742]:
+			xmin = 202.0
+			xmax = 202.14
+			text = "pas"
+		intervals [743]:
+			xmin = 202.15
+			xmax = 202.18
+			text = "qu'"
+		intervals [744]:
+			xmin = 202.19
+			xmax = 202.3
+			text = "on"
+		intervals [745]:
+			xmin = 202.31
+			xmax = 202.55
+			text = "lise"
+		intervals [746]:
+			xmin = 202.56
+			xmax = 202.64
+			text = "mon"
+		intervals [747]:
+			xmin = 202.65
+			xmax = 202.96
+			text = "livre"
+		intervals [748]:
+			xmin = 202.97
+			xmax = 203.01
+			text = "à"
+		intervals [749]:
+			xmin = 203.02
+			xmax = 203.12
+			text = "la"
+		intervals [750]:
+			xmin = 203.13
+			xmax = 203.7
+			text = "légère"
+		intervals [751]:
+			xmin = 203.7
+			xmax = 203.7
+			text = "[.]"
+		intervals [752]:
+			xmin = 203.7
+			xmax = 204.27
+			text = ""
+		intervals [753]:
+			xmin = 204.27
+			xmax = 204.37
+			text = "j'"
+		intervals [754]:
+			xmin = 204.38
+			xmax = 204.97
+			text = "éprouve"
+		intervals [755]:
+			xmin = 204.97
+			xmax = 205.05
+			text = ""
+		intervals [756]:
+			xmin = 205.05
+			xmax = 205.29
+			text = "tant"
+		intervals [757]:
+			xmin = 205.3
+			xmax = 205.4
+			text = "de"
+		intervals [758]:
+			xmin = 205.41
+			xmax = 205.94
+			text = "chagrin"
+		intervals [759]:
+			xmin = 205.95
+			xmax = 206.02
+			text = "à"
+		intervals [760]:
+			xmin = 206.03
+			xmax = 206.51
+			text = "raconter"
+		intervals [761]:
+			xmin = 206.52
+			xmax = 206.65
+			text = "ces"
+		intervals [762]:
+			xmin = 206.66
+			xmax = 207.24
+			text = "souvenirs"
+		intervals [763]:
+			xmin = 207.24
+			xmax = 207.24
+			text = "[.]"
+		intervals [764]:
+			xmin = 207.24
+			xmax = 207.77
+			text = ""
+		intervals [765]:
+			xmin = 207.77
+			xmax = 207.82
+			text = "il"
+		intervals [766]:
+			xmin = 207.82
+			xmax = 208.16
+			text = ""
+		intervals [767]:
+			xmin = 208.16
+			xmax = 208.48
+			text = "y"
+		intervals [768]:
+			xmin = 208.49
+			xmax = 208.61
+			text = "a"
+		intervals [769]:
+			xmin = 208.62
+			xmax = 209.04
+			text = "six"
+		intervals [770]:
+			xmin = 209.05
+			xmax = 209.2
+			text = "ans"
+		intervals [771]:
+			xmin = 209.21
+			xmax = 209.58
+			text = "déjà"
+		intervals [772]:
+			xmin = 209.59
+			xmax = 209.67
+			text = "que"
+		intervals [773]:
+			xmin = 209.68
+			xmax = 209.9
+			text = "mon"
+		intervals [774]:
+			xmin = 209.91
+			xmax = 210.14
+			text = "ami"
+		intervals [775]:
+			xmin = 210.15
+			xmax = 210.26
+			text = "s'"
+		intervals [776]:
+			xmin = 210.27
+			xmax = 210.39
+			text = "en"
+		intervals [777]:
+			xmin = 210.4
+			xmax = 210.57
+			text = "est"
+		intervals [778]:
+			xmin = 210.58
+			xmax = 210.84
+			text = "allé"
+		intervals [779]:
+			xmin = 210.84
+			xmax = 210.99
+			text = ""
+		intervals [780]:
+			xmin = 210.99
+			xmax = 211.26
+			text = "avec"
+		intervals [781]:
+			xmin = 211.27
+			xmax = 211.43
+			text = "son"
+		intervals [782]:
+			xmin = 211.44
+			xmax = 211.84
+			text = "mouton"
+		intervals [783]:
+			xmin = 211.84
+			xmax = 211.84
+			text = "[.]"
+		intervals [784]:
+			xmin = 211.84
+			xmax = 212.78
+			text = ""
+		intervals [785]:
+			xmin = 212.78
+			xmax = 212.95
+			text = "si"
+		intervals [786]:
+			xmin = 212.96
+			xmax = 212.98
+			text = "j'"
+		intervals [787]:
+			xmin = 212.99
+			xmax = 213.47
+			text = "essaie"
+		intervals [788]:
+			xmin = 213.48
+			xmax = 213.72
+			text = "ici"
+		intervals [789]:
+			xmin = 213.73
+			xmax = 213.79
+			text = "de"
+		intervals [790]:
+			xmin = 213.8
+			xmax = 213.94
+			text = "le"
+		intervals [791]:
+			xmin = 213.95
+			xmax = 214.55
+			text = "décrire"
+		intervals [792]:
+			xmin = 214.55
+			xmax = 214.55
+			text = "[,]"
+		intervals [793]:
+			xmin = 214.55
+			xmax = 214.85
+			text = ""
+		intervals [794]:
+			xmin = 214.85
+			xmax = 214.96
+			text = "c'"
+		intervals [795]:
+			xmin = 214.97
+			xmax = 215.09
+			text = "est"
+		intervals [796]:
+			xmin = 215.1
+			xmax = 215.38
+			text = "afin"
+		intervals [797]:
+			xmin = 215.39
+			xmax = 215.48
+			text = "de"
+		intervals [798]:
+			xmin = 215.49
+			xmax = 215.68
+			text = "ne"
+		intervals [799]:
+			xmin = 215.69
+			xmax = 215.87
+			text = "pas"
+		intervals [800]:
+			xmin = 215.88
+			xmax = 215.96
+			text = "l'"
+		intervals [801]:
+			xmin = 215.97
+			xmax = 216.5
+			text = "oublier"
+		intervals [802]:
+			xmin = 216.5
+			xmax = 216.5
+			text = "[.]"
+		intervals [803]:
+			xmin = 216.5
+			xmax = 217.18
+			text = ""
+		intervals [804]:
+			xmin = 217.18
+			xmax = 217.33
+			text = "c'"
+		intervals [805]:
+			xmin = 217.34
+			xmax = 217.41
+			text = "est"
+		intervals [806]:
+			xmin = 217.42
+			xmax = 217.88
+			text = "triste"
+		intervals [807]:
+			xmin = 217.89
+			xmax = 217.93
+			text = "d'"
+		intervals [808]:
+			xmin = 217.94
+			xmax = 218.39
+			text = "oublier"
+		intervals [809]:
+			xmin = 218.4
+			xmax = 218.52
+			text = "un"
+		intervals [810]:
+			xmin = 218.53
+			xmax = 218.82
+			text = "ami"
+		intervals [811]:
+			xmin = 218.82
+			xmax = 218.82
+			text = "[.]"
+		intervals [812]:
+			xmin = 218.82
+			xmax = 219.46
+			text = ""
+		intervals [813]:
+			xmin = 219.46
+			xmax = 219.59
+			text = "tout"
+		intervals [814]:
+			xmin = 219.6
+			xmax = 219.65
+			text = "le"
+		intervals [815]:
+			xmin = 219.65
+			xmax = 219.7
+			text = ""
+		intervals [816]:
+			xmin = 219.7
+			xmax = 219.93
+			text = "monde"
+		intervals [817]:
+			xmin = 219.93
+			xmax = 219.99
+			text = ""
+		intervals [818]:
+			xmin = 219.99
+			xmax = 220.02
+			text = "n'"
+		intervals [819]:
+			xmin = 220.03
+			xmax = 220.12
+			text = "a"
+		intervals [820]:
+			xmin = 220.13
+			xmax = 220.38
+			text = "pas"
+		intervals [821]:
+			xmin = 220.39
+			xmax = 220.47
+			text = "eu"
+		intervals [822]:
+			xmin = 220.48
+			xmax = 220.65
+			text = "un"
+		intervals [823]:
+			xmin = 220.66
+			xmax = 220.99
+			text = "ami"
+		intervals [824]:
+			xmin = 220.99
+			xmax = 220.99
+			text = "[.]"
+		intervals [825]:
+			xmin = 220.99
+			xmax = 221.9
+			text = ""
+		intervals [826]:
+			xmin = 221.9
+			xmax = 221.93
+			text = "et"
+		intervals [827]:
+			xmin = 221.94
+			xmax = 222.1
+			text = "je"
+		intervals [828]:
+			xmin = 222.11
+			xmax = 222.3
+			text = "puis"
+		intervals [829]:
+			xmin = 222.31
+			xmax = 222.81
+			text = "devenir"
+		intervals [830]:
+			xmin = 222.82
+			xmax = 223.01
+			text = "comme"
+		intervals [831]:
+			xmin = 223.02
+			xmax = 223.07
+			text = "les"
+		intervals [832]:
+			xmin = 223.08
+			xmax = 223.27
+			text = "grandes"
+		intervals [833]:
+			xmin = 223.27
+			xmax = 223.32
+			text = ""
+		intervals [834]:
+			xmin = 223.32
+			xmax = 223.79
+			text = "personnes"
+		intervals [835]:
+			xmin = 223.79
+			xmax = 224.1
+			text = ""
+		intervals [836]:
+			xmin = 224.1
+			xmax = 224.23
+			text = "qui"
+		intervals [837]:
+			xmin = 224.24
+			xmax = 224.35
+			text = "ne"
+		intervals [838]:
+			xmin = 224.36
+			xmax = 224.45
+			text = "s'"
+		intervals [839]:
+			xmin = 224.46
+			xmax = 224.9
+			text = "intéressent"
+		intervals [840]:
+			xmin = 224.91
+			xmax = 225.08
+			text = "plus"
+		intervals [841]:
+			xmin = 225.09
+			xmax = 225.14
+			text = "qu'"
+		intervals [842]:
+			xmin = 225.15
+			xmax = 225.24
+			text = "aux"
+		intervals [843]:
+			xmin = 225.25
+			xmax = 225.75
+			text = "chiffres"
+		intervals [844]:
+			xmin = 225.75
+			xmax = 225.75
+			text = "[.]"
+		intervals [845]:
+			xmin = 225.75
+			xmax = 226.83
+			text = ""
+		intervals [846]:
+			xmin = 226.83
+			xmax = 226.93
+			text = "c'"
+		intervals [847]:
+			xmin = 226.94
+			xmax = 227.04
+			text = "est"
+		intervals [848]:
+			xmin = 227.05
+			xmax = 227.27
+			text = "donc"
+		intervals [849]:
+			xmin = 227.28
+			xmax = 227.44
+			text = "pour"
+		intervals [850]:
+			xmin = 227.45
+			xmax = 227.67
+			text = "ça"
+		intervals [851]:
+			xmin = 227.67
+			xmax = 227.76
+			text = ""
+		intervals [852]:
+			xmin = 227.76
+			xmax = 228.2
+			text = "encore"
+		intervals [853]:
+			xmin = 228.21
+			xmax = 228.35
+			text = "que"
+		intervals [854]:
+			xmin = 228.36
+			xmax = 228.48
+			text = "j'"
+		intervals [855]:
+			xmin = 228.49
+			xmax = 228.54
+			text = "ai"
+		intervals [856]:
+			xmin = 228.55
+			xmax = 229.02
+			text = "acheté"
+		intervals [857]:
+			xmin = 229.03
+			xmax = 229.22
+			text = "une"
+		intervals [858]:
+			xmin = 229.23
+			xmax = 229.55
+			text = "boîte"
+		intervals [859]:
+			xmin = 229.56
+			xmax = 229.68
+			text = "de"
+		intervals [860]:
+			xmin = 229.69
+			xmax = 230.17
+			text = "couleurs"
+		intervals [861]:
+			xmin = 230.17
+			xmax = 230.27
+			text = ""
+		intervals [862]:
+			xmin = 230.27
+			xmax = 230.35
+			text = "et"
+		intervals [863]:
+			xmin = 230.36
+			xmax = 230.47
+			text = "des"
+		intervals [864]:
+			xmin = 230.48
+			xmax = 230.88
+			text = "crayons"
+		intervals [865]:
+			xmin = 230.88
+			xmax = 230.88
+			text = "[.]"
+		intervals [866]:
+			xmin = 230.88
+			xmax = 231.79
+			text = ""
+		intervals [867]:
+			xmin = 231.79
+			xmax = 231.94
+			text = "c'"
+		intervals [868]:
+			xmin = 231.95
+			xmax = 232.04
+			text = "est"
+		intervals [869]:
+			xmin = 232.05
+			xmax = 232.39
+			text = "dur"
+		intervals [870]:
+			xmin = 232.4
+			xmax = 232.49
+			text = "de"
+		intervals [871]:
+			xmin = 232.5
+			xmax = 232.65
+			text = "se"
+		intervals [872]:
+			xmin = 232.66
+			xmax = 233.03
+			text = "remettre"
+		intervals [873]:
+			xmin = 233.04
+			xmax = 233.07
+			text = "au"
+		intervals [874]:
+			xmin = 233.08
+			xmax = 233.54
+			text = "dessin"
+		intervals [875]:
+			xmin = 233.54
+			xmax = 233.54
+			text = "[,]"
+		intervals [876]:
+			xmin = 233.54
+			xmax = 233.66
+			text = ""
+		intervals [877]:
+			xmin = 233.66
+			xmax = 233.8
+			text = "à"
+		intervals [878]:
+			xmin = 233.81
+			xmax = 234.06
+			text = "mon"
+		intervals [879]:
+			xmin = 234.07
+			xmax = 234.49
+			text = "âge"
+		intervals [880]:
+			xmin = 234.49
+			xmax = 234.49
+			text = "[,]"
+		intervals [881]:
+			xmin = 234.49
+			xmax = 234.76
+			text = ""
+		intervals [882]:
+			xmin = 234.76
+			xmax = 235.0
+			text = "quand"
+		intervals [883]:
+			xmin = 235.01
+			xmax = 235.12
+			text = "on"
+		intervals [884]:
+			xmin = 235.13
+			xmax = 235.17
+			text = "n'"
+		intervals [885]:
+			xmin = 235.18
+			xmax = 235.31
+			text = "a"
+		intervals [886]:
+			xmin = 235.32
+			xmax = 235.85
+			text = "jamais"
+		intervals [887]:
+			xmin = 235.86
+			xmax = 236.17
+			text = "fait"
+		intervals [888]:
+			xmin = 236.18
+			xmax = 236.25
+			text = "d'"
+		intervals [889]:
+			xmin = 236.26
+			xmax = 236.57
+			text = "autres"
+		intervals [890]:
+			xmin = 236.58
+			xmax = 237.39
+			text = "tentatives"
+		intervals [891]:
+			xmin = 237.39
+			xmax = 237.55
+			text = ""
+		intervals [892]:
+			xmin = 237.55
+			xmax = 237.68
+			text = "que"
+		intervals [893]:
+			xmin = 237.69
+			xmax = 238.03
+			text = "celle"
+		intervals [894]:
+			xmin = 238.04
+			xmax = 238.09
+			text = "d'"
+		intervals [895]:
+			xmin = 238.1
+			xmax = 238.23
+			text = "un"
+		intervals [896]:
+			xmin = 238.24
+			xmax = 238.53
+			text = "boa"
+		intervals [897]:
+			xmin = 238.54
+			xmax = 239.07
+			text = "fermé"
+		intervals [898]:
+			xmin = 239.07
+			xmax = 239.29
+			text = ""
+		intervals [899]:
+			xmin = 239.29
+			xmax = 239.36
+			text = "et"
+		intervals [900]:
+			xmin = 239.37
+			xmax = 239.69
+			text = "celle"
+		intervals [901]:
+			xmin = 239.7
+			xmax = 239.75
+			text = "d'"
+		intervals [902]:
+			xmin = 239.76
+			xmax = 239.84
+			text = "un"
+		intervals [903]:
+			xmin = 239.85
+			xmax = 240.13
+			text = "boa"
+		intervals [904]:
+			xmin = 240.14
+			xmax = 240.64
+			text = "ouvert"
+		intervals [905]:
+			xmin = 240.64
+			xmax = 240.64
+			text = "[,]"
+		intervals [906]:
+			xmin = 240.64
+			xmax = 240.89
+			text = ""
+		intervals [907]:
+			xmin = 240.89
+			xmax = 241.01
+			text = "à"
+		intervals [908]:
+			xmin = 241.02
+			xmax = 241.09
+			text = "l'"
+		intervals [909]:
+			xmin = 241.1
+			xmax = 241.29
+			text = "âge"
+		intervals [910]:
+			xmin = 241.29
+			xmax = 241.33
+			text = ""
+		intervals [911]:
+			xmin = 241.33
+			xmax = 241.41
+			text = "de"
+		intervals [912]:
+			xmin = 241.42
+			xmax = 241.85
+			text = "six"
+		intervals [913]:
+			xmin = 241.86
+			xmax = 241.96
+			text = "ans"
+		intervals [914]:
+			xmin = 241.96
+			xmax = 241.96
+			text = "[!]"
+		intervals [915]:
+			xmin = 241.96
+			xmax = 242.72
+			text = ""
+		intervals [916]:
+			xmin = 242.72
+			xmax = 242.85
+			text = "j'"
+		intervals [917]:
+			xmin = 242.86
+			xmax = 243.46
+			text = "essaierai"
+		intervals [918]:
+			xmin = 243.46
+			xmax = 243.46
+			text = "[,]"
+		intervals [919]:
+			xmin = 243.46
+			xmax = 243.54
+			text = ""
+		intervals [920]:
+			xmin = 243.54
+			xmax = 243.8
+			text = "bien"
+		intervals [921]:
+			xmin = 243.81
+			xmax = 244.32
+			text = "sûr"
+		intervals [922]:
+			xmin = 244.32
+			xmax = 244.32
+			text = "[,]"
+		intervals [923]:
+			xmin = 244.32
+			xmax = 244.43
+			text = ""
+		intervals [924]:
+			xmin = 244.43
+			xmax = 244.62
+			text = "de"
+		intervals [925]:
+			xmin = 244.63
+			xmax = 244.83
+			text = "faire"
+		intervals [926]:
+			xmin = 244.84
+			xmax = 244.98
+			text = "des"
+		intervals [927]:
+			xmin = 244.99
+			xmax = 245.4
+			text = "portraits"
+		intervals [928]:
+			xmin = 245.41
+			xmax = 245.55
+			text = "le"
+		intervals [929]:
+			xmin = 245.56
+			xmax = 245.82
+			text = "plus"
+		intervals [930]:
+			xmin = 245.83
+			xmax = 246.35
+			text = "ressemblants"
+		intervals [931]:
+			xmin = 246.36
+			xmax = 246.98
+			text = "possible"
+		intervals [932]:
+			xmin = 246.98
+			xmax = 246.98
+			text = "[.]"
+		intervals [933]:
+			xmin = 246.98
+			xmax = 247.54
+			text = ""
+		intervals [934]:
+			xmin = 247.54
+			xmax = 247.67
+			text = "mais"
+		intervals [935]:
+			xmin = 247.68
+			xmax = 247.83
+			text = "je"
+		intervals [936]:
+			xmin = 247.84
+			xmax = 247.94
+			text = "ne"
+		intervals [937]:
+			xmin = 247.95
+			xmax = 248.13
+			text = "suis"
+		intervals [938]:
+			xmin = 248.14
+			xmax = 248.33
+			text = "pas"
+		intervals [939]:
+			xmin = 248.34
+			xmax = 248.54
+			text = "tout"
+		intervals [940]:
+			xmin = 248.55
+			xmax = 248.6
+			text = "à"
+		intervals [941]:
+			xmin = 248.61
+			xmax = 248.75
+			text = "fait"
+		intervals [942]:
+			xmin = 248.76
+			xmax = 249.15
+			text = "certain"
+		intervals [943]:
+			xmin = 249.16
+			xmax = 249.22
+			text = "de"
+		intervals [944]:
+			xmin = 249.23
+			xmax = 249.91
+			text = "réussir"
+		intervals [945]:
+			xmin = 249.91
+			xmax = 249.91
+			text = "[.]"
+		intervals [946]:
+			xmin = 249.91
+			xmax = 250.6
+			text = ""
+		intervals [947]:
+			xmin = 250.6
+			xmax = 250.76
+			text = "un"
+		intervals [948]:
+			xmin = 250.77
+			xmax = 251.18
+			text = "dessin"
+		intervals [949]:
+			xmin = 251.19
+			xmax = 251.42
+			text = "va"
+		intervals [950]:
+			xmin = 251.42
+			xmax = 251.42
+			text = "[,]"
+		intervals [951]:
+			xmin = 251.42
+			xmax = 251.72
+			text = ""
+		intervals [952]:
+			xmin = 251.72
+			xmax = 251.81
+			text = "et"
+		intervals [953]:
+			xmin = 251.82
+			xmax = 251.88
+			text = "l'"
+		intervals [954]:
+			xmin = 251.89
+			xmax = 252.12
+			text = "autre"
+		intervals [955]:
+			xmin = 252.13
+			xmax = 252.25
+			text = "ne"
+		intervals [956]:
+			xmin = 252.26
+			xmax = 252.74
+			text = "ressemble"
+		intervals [957]:
+			xmin = 252.75
+			xmax = 253.04
+			text = "plus"
+		intervals [958]:
+			xmin = 253.04
+			xmax = 253.04
+			text = "[.]"
+		intervals [959]:
+			xmin = 253.04
+			xmax = 253.82
+			text = ""
+		intervals [960]:
+			xmin = 253.82
+			xmax = 253.99
+			text = "je"
+		intervals [961]:
+			xmin = 254.0
+			xmax = 254.1
+			text = "me"
+		intervals [962]:
+			xmin = 254.11
+			xmax = 254.43
+			text = "trompe"
+		intervals [963]:
+			xmin = 254.44
+			xmax = 254.55
+			text = "un"
+		intervals [964]:
+			xmin = 254.56
+			xmax = 254.72
+			text = "peu"
+		intervals [965]:
+			xmin = 254.73
+			xmax = 255.08
+			text = "aussi"
+		intervals [966]:
+			xmin = 255.09
+			xmax = 255.24
+			text = "sur"
+		intervals [967]:
+			xmin = 255.25
+			xmax = 255.37
+			text = "la"
+		intervals [968]:
+			xmin = 255.38
+			xmax = 255.81
+			text = "taille"
+		intervals [969]:
+			xmin = 255.81
+			xmax = 255.81
+			text = "[.]"
+		intervals [970]:
+			xmin = 255.81
+			xmax = 256.5
+			text = ""
+		intervals [971]:
+			xmin = 256.5
+			xmax = 256.86
+			text = "ici"
+		intervals [972]:
+			xmin = 256.86
+			xmax = 256.92
+			text = ""
+		intervals [973]:
+			xmin = 256.92
+			xmax = 256.99
+			text = "le"
+		intervals [974]:
+			xmin = 257.0
+			xmax = 257.25
+			text = "petit"
+		intervals [975]:
+			xmin = 257.26
+			xmax = 257.57
+			text = "prince"
+		intervals [976]:
+			xmin = 257.58
+			xmax = 257.64
+			text = "est"
+		intervals [977]:
+			xmin = 257.65
+			xmax = 257.82
+			text = "trop"
+		intervals [978]:
+			xmin = 257.83
+			xmax = 258.14
+			text = "grand"
+		intervals [979]:
+			xmin = 258.14
+			xmax = 258.14
+			text = "[.]"
+		intervals [980]:
+			xmin = 258.14
+			xmax = 258.6
+			text = ""
+		intervals [981]:
+			xmin = 258.6
+			xmax = 258.83
+			text = "là"
+		intervals [982]:
+			xmin = 258.84
+			xmax = 258.89
+			text = "il"
+		intervals [983]:
+			xmin = 258.89
+			xmax = 258.98
+			text = ""
+		intervals [984]:
+			xmin = 258.98
+			xmax = 259.22
+			text = "est"
+		intervals [985]:
+			xmin = 259.23
+			xmax = 259.42
+			text = "trop"
+		intervals [986]:
+			xmin = 259.43
+			xmax = 259.89
+			text = "petit"
+		intervals [987]:
+			xmin = 259.89
+			xmax = 259.89
+			text = "[.]"
+		intervals [988]:
+			xmin = 259.89
+			xmax = 260.52
+			text = ""
+		intervals [989]:
+			xmin = 260.52
+			xmax = 260.66
+			text = "j'"
+		intervals [990]:
+			xmin = 260.67
+			xmax = 261.05
+			text = "hésite"
+		intervals [991]:
+			xmin = 261.06
+			xmax = 261.34
+			text = "aussi"
+		intervals [992]:
+			xmin = 261.35
+			xmax = 261.45
+			text = "sur"
+		intervals [993]:
+			xmin = 261.46
+			xmax = 261.58
+			text = "la"
+		intervals [994]:
+			xmin = 261.59
+			xmax = 261.96
+			text = "couleur"
+		intervals [995]:
+			xmin = 261.97
+			xmax = 262.05
+			text = "de"
+		intervals [996]:
+			xmin = 262.06
+			xmax = 262.24
+			text = "son"
+		intervals [997]:
+			xmin = 262.25
+			xmax = 262.89
+			text = "costume"
+		intervals [998]:
+			xmin = 262.89
+			xmax = 262.89
+			text = "[.]"
+		intervals [999]:
+			xmin = 262.89
+			xmax = 263.78
+			text = ""
+		intervals [1000]:
+			xmin = 263.78
+			xmax = 264.19
+			text = "alors"
+		intervals [1001]:
+			xmin = 264.2
+			xmax = 264.34
+			text = "je"
+		intervals [1002]:
+			xmin = 264.35
+			xmax = 264.86
+			text = "tâtonne"
+		intervals [1003]:
+			xmin = 264.87
+			xmax = 265.11
+			text = "comme"
+		intervals [1004]:
+			xmin = 265.12
+			xmax = 265.4
+			text = "ci"
+		intervals [1005]:
+			xmin = 265.41
+			xmax = 265.49
+			text = "et"
+		intervals [1006]:
+			xmin = 265.5
+			xmax = 265.72
+			text = "comme"
+		intervals [1007]:
+			xmin = 265.73
+			xmax = 265.94
+			text = "ça"
+		intervals [1008]:
+			xmin = 265.94
+			xmax = 265.94
+			text = "[,]"
+		intervals [1009]:
+			xmin = 265.94
+			xmax = 266.32
+			text = ""
+		intervals [1010]:
+			xmin = 266.32
+			xmax = 266.5
+			text = "tant"
+		intervals [1011]:
+			xmin = 266.51
+			xmax = 266.81
+			text = "bien"
+		intervals [1012]:
+			xmin = 266.82
+			xmax = 266.96
+			text = "que"
+		intervals [1013]:
+			xmin = 266.97
+			xmax = 267.34
+			text = "mal"
+		intervals [1014]:
+			xmin = 267.34
+			xmax = 267.34
+			text = "[.]"
+		intervals [1015]:
+			xmin = 267.34
+			xmax = 268.17
+			text = ""
+		intervals [1016]:
+			xmin = 268.17
+			xmax = 268.35
+			text = "je"
+		intervals [1017]:
+			xmin = 268.36
+			xmax = 268.45
+			text = "me"
+		intervals [1018]:
+			xmin = 268.45
+			xmax = 268.49
+			text = ""
+		intervals [1019]:
+			xmin = 268.49
+			xmax = 268.99
+			text = "tromperai"
+		intervals [1020]:
+			xmin = 269.0
+			xmax = 269.38
+			text = "enfin"
+		intervals [1021]:
+			xmin = 269.39
+			xmax = 269.54
+			text = "sur"
+		intervals [1022]:
+			xmin = 269.55
+			xmax = 269.86
+			text = "certains"
+		intervals [1023]:
+			xmin = 269.87
+			xmax = 270.28
+			text = "détails"
+		intervals [1024]:
+			xmin = 270.29
+			xmax = 270.55
+			text = "plus"
+		intervals [1025]:
+			xmin = 270.56
+			xmax = 271.03
+			text = "importants"
+		intervals [1026]:
+			xmin = 271.03
+			xmax = 271.03
+			text = "[.]"
+		intervals [1027]:
+			xmin = 271.03
+			xmax = 271.65
+			text = ""
+		intervals [1028]:
+			xmin = 271.65
+			xmax = 271.77
+			text = "mais"
+		intervals [1029]:
+			xmin = 271.78
+			xmax = 272.03
+			text = "ça"
+		intervals [1030]:
+			xmin = 272.03
+			xmax = 272.03
+			text = "[,]"
+		intervals [1031]:
+			xmin = 272.03
+			xmax = 272.3
+			text = ""
+		intervals [1032]:
+			xmin = 272.3
+			xmax = 272.47
+			text = "il"
+		intervals [1033]:
+			xmin = 272.48
+			xmax = 272.8
+			text = "faudra"
+		intervals [1034]:
+			xmin = 272.81
+			xmax = 272.89
+			text = "me"
+		intervals [1035]:
+			xmin = 272.9
+			xmax = 273.05
+			text = "le"
+		intervals [1036]:
+			xmin = 273.06
+			xmax = 273.55
+			text = "pardonner"
+		intervals [1037]:
+			xmin = 273.55
+			xmax = 273.55
+			text = "[.]"
+		intervals [1038]:
+			xmin = 273.55
+			xmax = 274.4
+			text = ""
+		intervals [1039]:
+			xmin = 274.4
+			xmax = 274.61
+			text = "mon"
+		intervals [1040]:
+			xmin = 274.61
+			xmax = 274.65
+			text = ""
+		intervals [1041]:
+			xmin = 274.65
+			xmax = 275.05
+			text = "ami"
+		intervals [1042]:
+			xmin = 275.06
+			xmax = 275.12
+			text = "ne"
+		intervals [1043]:
+			xmin = 275.13
+			xmax = 275.52
+			text = "donnait"
+		intervals [1044]:
+			xmin = 275.53
+			xmax = 276.1
+			text = "jamais"
+		intervals [1045]:
+			xmin = 276.11
+			xmax = 276.16
+			text = "d'"
+		intervals [1046]:
+			xmin = 276.17
+			xmax = 276.91
+			text = "explications"
+		intervals [1047]:
+			xmin = 276.91
+			xmax = 276.91
+			text = "[.]"
+		intervals [1048]:
+			xmin = 276.91
+			xmax = 277.65
+			text = ""
+		intervals [1049]:
+			xmin = 277.65
+			xmax = 277.83
+			text = "il"
+		intervals [1050]:
+			xmin = 277.84
+			xmax = 277.96
+			text = "me"
+		intervals [1051]:
+			xmin = 277.97
+			xmax = 278.29
+			text = "croyait"
+		intervals [1052]:
+			xmin = 278.3
+			xmax = 278.48
+			text = "peut"
+		intervals [1053]:
+			xmin = 278.49
+			xmax = 278.72
+			text = "-être"
+		intervals [1054]:
+			xmin = 278.73
+			xmax = 279.19
+			text = "semblable"
+		intervals [1055]:
+			xmin = 279.2
+			xmax = 279.26
+			text = "à"
+		intervals [1056]:
+			xmin = 279.27
+			xmax = 279.54
+			text = "lui"
+		intervals [1057]:
+			xmin = 279.54
+			xmax = 279.54
+			text = "[.]"
+		intervals [1058]:
+			xmin = 279.54
+			xmax = 280.3
+			text = ""
+		intervals [1059]:
+			xmin = 280.3
+			xmax = 280.48
+			text = "mais"
+		intervals [1060]:
+			xmin = 280.49
+			xmax = 280.76
+			text = "moi"
+		intervals [1061]:
+			xmin = 280.76
+			xmax = 280.76
+			text = "[,]"
+		intervals [1062]:
+			xmin = 280.76
+			xmax = 280.94
+			text = ""
+		intervals [1063]:
+			xmin = 280.94
+			xmax = 281.72
+			text = "malheureusement"
+		intervals [1064]:
+			xmin = 281.72
+			xmax = 281.72
+			text = "[,]"
+		intervals [1065]:
+			xmin = 281.72
+			xmax = 282.13
+			text = ""
+		intervals [1066]:
+			xmin = 282.13
+			xmax = 282.33
+			text = "je"
+		intervals [1067]:
+			xmin = 282.34
+			xmax = 282.41
+			text = "ne"
+		intervals [1068]:
+			xmin = 282.42
+			xmax = 282.71
+			text = "sais"
+		intervals [1069]:
+			xmin = 282.72
+			xmax = 282.94
+			text = "pas"
+		intervals [1070]:
+			xmin = 282.95
+			xmax = 283.12
+			text = "voir"
+		intervals [1071]:
+			xmin = 283.13
+			xmax = 283.24
+			text = "les"
+		intervals [1072]:
+			xmin = 283.25
+			xmax = 283.64
+			text = "moutons"
+		intervals [1073]:
+			xmin = 283.64
+			xmax = 283.68
+			text = ""
+		intervals [1074]:
+			xmin = 283.68
+			xmax = 283.8
+			text = "à"
+		intervals [1075]:
+			xmin = 283.81
+			xmax = 284.22
+			text = "travers"
+		intervals [1076]:
+			xmin = 284.23
+			xmax = 284.34
+			text = "les"
+		intervals [1077]:
+			xmin = 284.35
+			xmax = 284.78
+			text = "caisses"
+		intervals [1078]:
+			xmin = 284.78
+			xmax = 284.78
+			text = "[.]"
+		intervals [1079]:
+			xmin = 284.78
+			xmax = 285.48
+			text = ""
+		intervals [1080]:
+			xmin = 285.48
+			xmax = 285.6
+			text = "je"
+		intervals [1081]:
+			xmin = 285.61
+			xmax = 285.83
+			text = "suis"
+		intervals [1082]:
+			xmin = 285.84
+			xmax = 286.04
+			text = "peut"
+		intervals [1083]:
+			xmin = 286.05
+			xmax = 286.25
+			text = "-être"
+		intervals [1084]:
+			xmin = 286.26
+			xmax = 286.35
+			text = "un"
+		intervals [1085]:
+			xmin = 286.36
+			xmax = 286.52
+			text = "peu"
+		intervals [1086]:
+			xmin = 286.53
+			xmax = 286.69
+			text = "comme"
+		intervals [1087]:
+			xmin = 286.7
+			xmax = 286.77
+			text = "les"
+		intervals [1088]:
+			xmin = 286.78
+			xmax = 287.01
+			text = "grandes"
+		intervals [1089]:
+			xmin = 287.02
+			xmax = 287.56
+			text = "personnes"
+		intervals [1090]:
+			xmin = 287.56
+			xmax = 287.56
+			text = "[.]"
+		intervals [1091]:
+			xmin = 287.56
+			xmax = 288.16
+			text = ""
+		intervals [1092]:
+			xmin = 288.16
+			xmax = 288.31
+			text = "j'"
+		intervals [1093]:
+			xmin = 288.32
+			xmax = 288.42
+			text = "ai"
+		intervals [1094]:
+			xmin = 288.43
+			xmax = 288.6
+			text = "dû"
+		intervals [1095]:
+			xmin = 288.61
+			xmax = 289.27
+			text = "vieillir"
+		intervals [1096]:
+			xmin = 289.27
+			xmax = 289.27
+			text = "[.]"
+		intervals [1097]:
+			xmin = 289.27
+			xmax = 292.35
+			text = ""
+		intervals [1098]:
+			xmin = 292.35
+			xmax = 292.9
+			text = "chaque"
+		intervals [1099]:
+			xmin = 292.9
+			xmax = 293.02
+			text = ""
+		intervals [1100]:
+			xmin = 293.02
+			xmax = 293.2
+			text = "jour"
+		intervals [1101]:
+			xmin = 293.21
+			xmax = 293.3
+			text = "j'"
+		intervals [1102]:
+			xmin = 293.31
+			xmax = 293.79
+			text = "apprenais"
+		intervals [1103]:
+			xmin = 293.8
+			xmax = 294.16
+			text = "quelque"
+		intervals [1104]:
+			xmin = 294.17
+			xmax = 294.45
+			text = "chose"
+		intervals [1105]:
+			xmin = 294.46
+			xmax = 294.72
+			text = "sur"
+		intervals [1106]:
+			xmin = 294.73
+			xmax = 294.87
+			text = "la"
+		intervals [1107]:
+			xmin = 294.88
+			xmax = 295.5
+			text = "planète"
+		intervals [1108]:
+			xmin = 295.5
+			xmax = 295.5
+			text = "[,]"
+		intervals [1109]:
+			xmin = 295.5
+			xmax = 295.74
+			text = ""
+		intervals [1110]:
+			xmin = 295.74
+			xmax = 295.96
+			text = "sur"
+		intervals [1111]:
+			xmin = 295.97
+			xmax = 296.09
+			text = "le"
+		intervals [1112]:
+			xmin = 296.1
+			xmax = 296.69
+			text = "départ"
+		intervals [1113]:
+			xmin = 296.69
+			xmax = 296.69
+			text = "[,]"
+		intervals [1114]:
+			xmin = 296.69
+			xmax = 296.78
+			text = ""
+		intervals [1115]:
+			xmin = 296.78
+			xmax = 297.08
+			text = "sur"
+		intervals [1116]:
+			xmin = 297.09
+			xmax = 297.18
+			text = "le"
+		intervals [1117]:
+			xmin = 297.19
+			xmax = 297.83
+			text = "voyage"
+		intervals [1118]:
+			xmin = 297.83
+			xmax = 297.83
+			text = "[.]"
+		intervals [1119]:
+			xmin = 297.83
+			xmax = 298.74
+			text = ""
+		intervals [1120]:
+			xmin = 298.74
+			xmax = 298.89
+			text = "ça"
+		intervals [1121]:
+			xmin = 298.89
+			xmax = 298.96
+			text = ""
+		intervals [1122]:
+			xmin = 298.96
+			xmax = 299.3
+			text = "venait"
+		intervals [1123]:
+			xmin = 299.31
+			xmax = 299.54
+			text = "tout"
+		intervals [1124]:
+			xmin = 299.55
+			xmax = 300.18
+			text = "doucement"
+		intervals [1125]:
+			xmin = 300.18
+			xmax = 300.18
+			text = "[,]"
+		intervals [1126]:
+			xmin = 300.18
+			xmax = 300.34
+			text = ""
+		intervals [1127]:
+			xmin = 300.34
+			xmax = 300.44
+			text = "au"
+		intervals [1128]:
+			xmin = 300.45
+			xmax = 300.84
+			text = "hasard"
+		intervals [1129]:
+			xmin = 300.85
+			xmax = 300.97
+			text = "des"
+		intervals [1130]:
+			xmin = 300.98
+			xmax = 301.57
+			text = "réflexions"
+		intervals [1131]:
+			xmin = 301.57
+			xmax = 301.57
+			text = "[.]"
+		intervals [1132]:
+			xmin = 301.57
+			xmax = 302.69
+			text = ""
+		intervals [1133]:
+			xmin = 302.69
+			xmax = 302.84
+			text = "c'"
+		intervals [1134]:
+			xmin = 302.85
+			xmax = 303.04
+			text = "est"
+		intervals [1135]:
+			xmin = 303.05
+			xmax = 303.44
+			text = "ainsi"
+		intervals [1136]:
+			xmin = 303.45
+			xmax = 303.78
+			text = "que"
+		intervals [1137]:
+			xmin = 303.78
+			xmax = 303.78
+			text = "[,]"
+		intervals [1138]:
+			xmin = 303.78
+			xmax = 303.91
+			text = ""
+		intervals [1139]:
+			xmin = 303.91
+			xmax = 304.08
+			text = "le"
+		intervals [1140]:
+			xmin = 304.09
+			xmax = 304.63
+			text = "troisième"
+		intervals [1141]:
+			xmin = 304.64
+			xmax = 305.03
+			text = "jour"
+		intervals [1142]:
+			xmin = 305.03
+			xmax = 305.03
+			text = "[,]"
+		intervals [1143]:
+			xmin = 305.03
+			xmax = 305.36
+			text = ""
+		intervals [1144]:
+			xmin = 305.36
+			xmax = 305.62
+			text = "je"
+		intervals [1145]:
+			xmin = 305.63
+			xmax = 306.03
+			text = "connus"
+		intervals [1146]:
+			xmin = 306.04
+			xmax = 306.23
+			text = "le"
+		intervals [1147]:
+			xmin = 306.24
+			xmax = 306.76
+			text = "drame"
+		intervals [1148]:
+			xmin = 306.77
+			xmax = 306.97
+			text = "des"
+		intervals [1149]:
+			xmin = 306.98
+			xmax = 307.67
+			text = "baobabs"
+		intervals [1150]:
+			xmin = 307.67
+			xmax = 307.67
+			text = "[.]"
+		intervals [1151]:
+			xmin = 307.67
+			xmax = 308.63
+			text = ""
+		intervals [1152]:
+			xmin = 308.63
+			xmax = 308.89
+			text = "cette"
+		intervals [1153]:
+			xmin = 308.9
+			xmax = 309.03
+			text = "fois"
+		intervals [1154]:
+			xmin = 309.04
+			xmax = 309.25
+			text = "-ci"
+		intervals [1155]:
+			xmin = 309.26
+			xmax = 309.68
+			text = "encore"
+		intervals [1156]:
+			xmin = 309.69
+			xmax = 309.85
+			text = "ce"
+		intervals [1157]:
+			xmin = 309.86
+			xmax = 310.03
+			text = "fut"
+		intervals [1158]:
+			xmin = 310.04
+			xmax = 310.36
+			text = "grâce"
+		intervals [1159]:
+			xmin = 310.37
+			xmax = 310.42
+			text = "au"
+		intervals [1160]:
+			xmin = 310.43
+			xmax = 310.84
+			text = "mouton"
+		intervals [1161]:
+			xmin = 310.84
+			xmax = 310.84
+			text = "[,]"
+		intervals [1162]:
+			xmin = 310.84
+			xmax = 311.33
+			text = ""
+		intervals [1163]:
+			xmin = 311.33
+			xmax = 311.57
+			text = "car"
+		intervals [1164]:
+			xmin = 311.58
+			xmax = 312.22
+			text = "brusquement"
+		intervals [1165]:
+			xmin = 312.23
+			xmax = 312.33
+			text = "le"
+		intervals [1166]:
+			xmin = 312.34
+			xmax = 312.65
+			text = "petit"
+		intervals [1167]:
+			xmin = 312.66
+			xmax = 313.05
+			text = "prince"
+		intervals [1168]:
+			xmin = 313.06
+			xmax = 313.16
+			text = "m'"
+		intervals [1169]:
+			xmin = 313.17
+			xmax = 313.8
+			text = "interrogea"
+		intervals [1170]:
+			xmin = 313.8
+			xmax = 313.8
+			text = "[,]"
+		intervals [1171]:
+			xmin = 313.8
+			xmax = 314.3
+			text = ""
+		intervals [1172]:
+			xmin = 314.3
+			xmax = 314.68
+			text = "comme"
+		intervals [1173]:
+			xmin = 314.69
+			xmax = 315.05
+			text = "pris"
+		intervals [1174]:
+			xmin = 315.06
+			xmax = 315.12
+			text = "d'"
+		intervals [1175]:
+			xmin = 315.13
+			xmax = 315.32
+			text = "un"
+		intervals [1176]:
+			xmin = 315.33
+			xmax = 315.69
+			text = "doute"
+		intervals [1177]:
+			xmin = 315.7
+			xmax = 316.3
+			text = "grave"
+		intervals [1178]:
+			xmin = 316.3
+			xmax = 316.3
+			text = "[:]"
+		intervals [1179]:
+			xmin = 316.3
+			xmax = 317.39
+			text = ""
+		intervals [1180]:
+			xmin = 317.39
+			xmax = 317.41
+			text = "c'"
+		intervals [1181]:
+			xmin = 317.41
+			xmax = 317.62
+			text = ""
+		intervals [1182]:
+			xmin = 317.62
+			xmax = 317.8
+			text = "est"
+		intervals [1183]:
+			xmin = 317.81
+			xmax = 318.09
+			text = "bien"
+		intervals [1184]:
+			xmin = 318.1
+			xmax = 318.32
+			text = "vrai"
+		intervals [1185]:
+			xmin = 318.32
+			xmax = 318.32
+			text = "[,]"
+		intervals [1186]:
+			xmin = 318.33
+			xmax = 318.37
+			text = "n'"
+		intervals [1187]:
+			xmin = 318.38
+			xmax = 318.45
+			text = "est"
+		intervals [1188]:
+			xmin = 318.46
+			xmax = 318.57
+			text = "-ce"
+		intervals [1189]:
+			xmin = 318.58
+			xmax = 318.74
+			text = "pas"
+		intervals [1190]:
+			xmin = 318.74
+			xmax = 318.74
+			text = "[,]"
+		intervals [1191]:
+			xmin = 318.74
+			xmax = 319.18
+			text = ""
+		intervals [1192]:
+			xmin = 319.18
+			xmax = 319.28
+			text = "que"
+		intervals [1193]:
+			xmin = 319.29
+			xmax = 319.42
+			text = "les"
+		intervals [1194]:
+			xmin = 319.43
+			xmax = 319.81
+			text = "moutons"
+		intervals [1195]:
+			xmin = 319.82
+			xmax = 320.04
+			text = "mangent"
+		intervals [1196]:
+			xmin = 320.05
+			xmax = 320.22
+			text = "les"
+		intervals [1197]:
+			xmin = 320.23
+			xmax = 320.78
+			text = "arbustes"
+		intervals [1198]:
+			xmin = 320.78
+			xmax = 320.78
+			text = "[?]"
+		intervals [1199]:
+			xmin = 320.78
+			xmax = 320.78
+			text = "[[-]]"
+		intervals [1200]:
+			xmin = 320.78
+			xmax = 321.56
+			text = ""
+		intervals [1201]:
+			xmin = 321.56
+			xmax = 321.8
+			text = "oui"
+		intervals [1202]:
+			xmin = 321.8
+			xmax = 321.8
+			text = "[.]"
+		intervals [1203]:
+			xmin = 321.81
+			xmax = 321.91
+			text = "c'"
+		intervals [1204]:
+			xmin = 321.92
+			xmax = 321.97
+			text = "est"
+		intervals [1205]:
+			xmin = 321.98
+			xmax = 322.18
+			text = "vrai"
+		intervals [1206]:
+			xmin = 322.18
+			xmax = 322.18
+			text = "[.]"
+		intervals [1207]:
+			xmin = 322.18
+			xmax = 322.18
+			text = "[[-]]"
+		intervals [1208]:
+			xmin = 322.18
+			xmax = 323.15
+			text = ""
+		intervals [1209]:
+			xmin = 323.15
+			xmax = 323.45
+			text = "ah"
+		intervals [1210]:
+			xmin = 323.45
+			xmax = 323.45
+			text = "[!]"
+		intervals [1211]:
+			xmin = 323.45
+			xmax = 323.84
+			text = ""
+		intervals [1212]:
+			xmin = 323.84
+			xmax = 323.9
+			text = "je"
+		intervals [1213]:
+			xmin = 323.91
+			xmax = 324.23
+			text = "suis"
+		intervals [1214]:
+			xmin = 324.24
+			xmax = 324.7
+			text = "content"
+		intervals [1215]:
+			xmin = 324.7
+			xmax = 324.7
+			text = "[!]"
+		intervals [1216]:
+			xmin = 324.7
+			xmax = 325.45
+			text = ""
+		intervals [1217]:
+			xmin = 325.45
+			xmax = 325.58
+			text = "je"
+		intervals [1218]:
+			xmin = 325.58
+			xmax = 325.63
+			text = ""
+		intervals [1219]:
+			xmin = 325.63
+			xmax = 325.7
+			text = "ne"
+		intervals [1220]:
+			xmin = 325.71
+			xmax = 326.09
+			text = "compris"
+		intervals [1221]:
+			xmin = 326.1
+			xmax = 326.25
+			text = "pas"
+		intervals [1222]:
+			xmin = 326.26
+			xmax = 326.59
+			text = "pourquoi"
+		intervals [1223]:
+			xmin = 326.6
+			xmax = 326.65
+			text = "il"
+		intervals [1224]:
+			xmin = 326.66
+			xmax = 326.97
+			text = "était"
+		intervals [1225]:
+			xmin = 326.98
+			xmax = 327.28
+			text = "si"
+		intervals [1226]:
+			xmin = 327.29
+			xmax = 327.88
+			text = "important"
+		intervals [1227]:
+			xmin = 327.89
+			xmax = 328.05
+			text = "que"
+		intervals [1228]:
+			xmin = 328.06
+			xmax = 328.16
+			text = "les"
+		intervals [1229]:
+			xmin = 328.17
+			xmax = 328.47
+			text = "moutons"
+		intervals [1230]:
+			xmin = 328.48
+			xmax = 329.09
+			text = "mangeassent"
+		intervals [1231]:
+			xmin = 329.1
+			xmax = 329.25
+			text = "les"
+		intervals [1232]:
+			xmin = 329.26
+			xmax = 329.84
+			text = "arbustes"
+		intervals [1233]:
+			xmin = 329.84
+			xmax = 329.84
+			text = "[.]"
+		intervals [1234]:
+			xmin = 329.84
+			xmax = 330.33
+			text = ""
+		intervals [1235]:
+			xmin = 330.33
+			xmax = 330.51
+			text = "mais"
+		intervals [1236]:
+			xmin = 330.52
+			xmax = 330.64
+			text = "le"
+		intervals [1237]:
+			xmin = 330.65
+			xmax = 330.93
+			text = "petit"
+		intervals [1238]:
+			xmin = 330.94
+			xmax = 331.29
+			text = "prince"
+		intervals [1239]:
+			xmin = 331.3
+			xmax = 331.75
+			text = "ajouta"
+		intervals [1240]:
+			xmin = 331.75
+			xmax = 331.75
+			text = "[:]"
+		intervals [1241]:
+			xmin = 331.75
+			xmax = 332.64
+			text = ""
+		intervals [1242]:
+			xmin = 332.64
+			xmax = 332.78
+			text = "par"
+		intervals [1243]:
+			xmin = 332.79
+			xmax = 333.42
+			text = "conséquent"
+		intervals [1244]:
+			xmin = 333.42
+			xmax = 333.49
+			text = ""
+		intervals [1245]:
+			xmin = 333.49
+			xmax = 333.62
+			text = "ils"
+		intervals [1246]:
+			xmin = 333.63
+			xmax = 333.87
+			text = "mangent"
+		intervals [1247]:
+			xmin = 333.88
+			xmax = 334.09
+			text = "aussi"
+		intervals [1248]:
+			xmin = 334.1
+			xmax = 334.22
+			text = "les"
+		intervals [1249]:
+			xmin = 334.23
+			xmax = 334.73
+			text = "baobabs"
+		intervals [1250]:
+			xmin = 334.73
+			xmax = 334.73
+			text = "[?]"
+		intervals [1251]:
+			xmin = 334.73
+			xmax = 335.64
+			text = ""
+		intervals [1252]:
+			xmin = 335.64
+			xmax = 335.84
+			text = "je"
+		intervals [1253]:
+			xmin = 335.85
+			xmax = 335.99
+			text = "fis"
+		intervals [1254]:
+			xmin = 336.0
+			xmax = 336.47
+			text = "remarquer"
+		intervals [1255]:
+			xmin = 336.48
+			xmax = 336.54
+			text = "au"
+		intervals [1256]:
+			xmin = 336.55
+			xmax = 336.83
+			text = "petit"
+		intervals [1257]:
+			xmin = 336.84
+			xmax = 337.2
+			text = "prince"
+		intervals [1258]:
+			xmin = 337.21
+			xmax = 337.31
+			text = "que"
+		intervals [1259]:
+			xmin = 337.32
+			xmax = 337.46
+			text = "les"
+		intervals [1260]:
+			xmin = 337.47
+			xmax = 337.95
+			text = "baobabs"
+		intervals [1261]:
+			xmin = 337.96
+			xmax = 338.09
+			text = "ne"
+		intervals [1262]:
+			xmin = 338.1
+			xmax = 338.27
+			text = "sont"
+		intervals [1263]:
+			xmin = 338.27
+			xmax = 338.33
+			text = ""
+		intervals [1264]:
+			xmin = 338.33
+			xmax = 338.44
+			text = "pas"
+		intervals [1265]:
+			xmin = 338.45
+			xmax = 338.62
+			text = "des"
+		intervals [1266]:
+			xmin = 338.63
+			xmax = 339.13
+			text = "arbustes"
+		intervals [1267]:
+			xmin = 339.13
+			xmax = 339.13
+			text = "[,]"
+		intervals [1268]:
+			xmin = 339.13
+			xmax = 339.38
+			text = ""
+		intervals [1269]:
+			xmin = 339.38
+			xmax = 339.54
+			text = "mais"
+		intervals [1270]:
+			xmin = 339.55
+			xmax = 339.65
+			text = "des"
+		intervals [1271]:
+			xmin = 339.65
+			xmax = 339.76
+			text = ""
+		intervals [1272]:
+			xmin = 339.76
+			xmax = 340.14
+			text = "arbres"
+		intervals [1273]:
+			xmin = 340.15
+			xmax = 340.47
+			text = "grands"
+		intervals [1274]:
+			xmin = 340.48
+			xmax = 340.68
+			text = "comme"
+		intervals [1275]:
+			xmin = 340.69
+			xmax = 340.89
+			text = "des"
+		intervals [1276]:
+			xmin = 340.9
+			xmax = 341.47
+			text = "églises"
+		intervals [1277]:
+			xmin = 341.47
+			xmax = 341.88
+			text = ""
+		intervals [1278]:
+			xmin = 341.88
+			xmax = 341.97
+			text = "et"
+		intervals [1279]:
+			xmin = 341.98
+			xmax = 342.29
+			text = "que"
+		intervals [1280]:
+			xmin = 342.29
+			xmax = 342.29
+			text = "[,]"
+		intervals [1281]:
+			xmin = 342.29
+			xmax = 342.58
+			text = ""
+		intervals [1282]:
+			xmin = 342.58
+			xmax = 342.86
+			text = "si"
+		intervals [1283]:
+			xmin = 342.86
+			xmax = 342.91
+			text = ""
+		intervals [1284]:
+			xmin = 342.91
+			xmax = 343.15
+			text = "même"
+		intervals [1285]:
+			xmin = 343.16
+			xmax = 343.26
+			text = "il"
+		intervals [1286]:
+			xmin = 343.27
+			xmax = 343.79
+			text = "emportait"
+		intervals [1287]:
+			xmin = 343.8
+			xmax = 344.07
+			text = "avec"
+		intervals [1288]:
+			xmin = 344.08
+			xmax = 344.29
+			text = "lui"
+		intervals [1289]:
+			xmin = 344.3
+			xmax = 344.57
+			text = "tout"
+		intervals [1290]:
+			xmin = 344.58
+			xmax = 344.67
+			text = "un"
+		intervals [1291]:
+			xmin = 344.68
+			xmax = 345.1
+			text = "troupeau"
+		intervals [1292]:
+			xmin = 345.11
+			xmax = 345.17
+			text = "d'"
+		intervals [1293]:
+			xmin = 345.18
+			xmax = 345.62
+			text = "éléphants"
+		intervals [1294]:
+			xmin = 345.62
+			xmax = 345.62
+			text = "[,]"
+		intervals [1295]:
+			xmin = 345.62
+			xmax = 346.01
+			text = ""
+		intervals [1296]:
+			xmin = 346.01
+			xmax = 346.24
+			text = "ce"
+		intervals [1297]:
+			xmin = 346.25
+			xmax = 346.71
+			text = "troupeau"
+		intervals [1298]:
+			xmin = 346.72
+			xmax = 346.84
+			text = "ne"
+		intervals [1299]:
+			xmin = 346.85
+			xmax = 347.24
+			text = "viendrait"
+		intervals [1300]:
+			xmin = 347.25
+			xmax = 347.51
+			text = "pas"
+		intervals [1301]:
+			xmin = 347.52
+			xmax = 347.58
+			text = "à"
+		intervals [1302]:
+			xmin = 347.59
+			xmax = 347.79
+			text = "bout"
+		intervals [1303]:
+			xmin = 347.8
+			xmax = 347.88
+			text = "d'"
+		intervals [1304]:
+			xmin = 347.89
+			xmax = 348.05
+			text = "un"
+		intervals [1305]:
+			xmin = 348.06
+			xmax = 348.41
+			text = "seul"
+		intervals [1306]:
+			xmin = 348.42
+			xmax = 348.97
+			text = "baobab"
+		intervals [1307]:
+			xmin = 348.97
+			xmax = 348.97
+			text = "[.]"
+		intervals [1308]:
+			xmin = 348.97
+			xmax = 350.21
+			text = ""
+		intervals [1309]:
+			xmin = 350.21
+			xmax = 350.33
+			text = "l'"
+		intervals [1310]:
+			xmin = 350.34
+			xmax = 350.63
+			text = "idée"
+		intervals [1311]:
+			xmin = 350.64
+			xmax = 350.74
+			text = "du"
+		intervals [1312]:
+			xmin = 350.75
+			xmax = 351.13
+			text = "troupeau"
+		intervals [1313]:
+			xmin = 351.14
+			xmax = 351.19
+			text = "d'"
+		intervals [1314]:
+			xmin = 351.2
+			xmax = 351.67
+			text = "éléphants"
+		intervals [1315]:
+			xmin = 351.68
+			xmax = 351.96
+			text = "fit"
+		intervals [1316]:
+			xmin = 351.97
+			xmax = 352.24
+			text = "rire"
+		intervals [1317]:
+			xmin = 352.25
+			xmax = 352.39
+			text = "le"
+		intervals [1318]:
+			xmin = 352.4
+			xmax = 352.66
+			text = "petit"
+		intervals [1319]:
+			xmin = 352.67
+			xmax = 353.23
+			text = "prince"
+		intervals [1320]:
+			xmin = 353.23
+			xmax = 353.23
+			text = "[:]"
+		intervals [1321]:
+			xmin = 353.23
+			xmax = 353.74
+			text = ""
+		intervals [1322]:
+			xmin = 353.74
+			xmax = 354.0
+			text = "il"
+		intervals [1323]:
+			xmin = 354.01
+			xmax = 354.32
+			text = "faudrait"
+		intervals [1324]:
+			xmin = 354.33
+			xmax = 354.44
+			text = "les"
+		intervals [1325]:
+			xmin = 354.45
+			xmax = 354.81
+			text = "mettre"
+		intervals [1326]:
+			xmin = 354.82
+			xmax = 355.05
+			text = "les"
+		intervals [1327]:
+			xmin = 355.06
+			xmax = 355.17
+			text = "uns"
+		intervals [1328]:
+			xmin = 355.18
+			xmax = 355.34
+			text = "sur"
+		intervals [1329]:
+			xmin = 355.35
+			xmax = 355.58
+			text = "les"
+		intervals [1330]:
+			xmin = 355.59
+			xmax = 355.94
+			text = "autres"
+		intervals [1331]:
+			xmin = 355.94
+			xmax = 355.94
+			text = "[.]"
+		intervals [1332]:
+			xmin = 355.94
+			xmax = 355.94
+			text = "[.]"
+		intervals [1333]:
+			xmin = 355.94
+			xmax = 355.94
+			text = "[.]"
+		intervals [1334]:
+			xmin = 355.94
+			xmax = 357.07
+			text = ""
+		intervals [1335]:
+			xmin = 357.07
+			xmax = 357.36
+			text = "mais"
+		intervals [1336]:
+			xmin = 357.37
+			xmax = 357.42
+			text = "il"
+		intervals [1337]:
+			xmin = 357.43
+			xmax = 358.03
+			text = "remarqua"
+		intervals [1338]:
+			xmin = 358.04
+			xmax = 358.2
+			text = "avec"
+		intervals [1339]:
+			xmin = 358.21
+			xmax = 358.82
+			text = "sagesse"
+		intervals [1340]:
+			xmin = 358.82
+			xmax = 358.82
+			text = "[:]"
+		intervals [1341]:
+			xmin = 358.82
+			xmax = 359.38
+			text = ""
+		intervals [1342]:
+			xmin = 359.38
+			xmax = 359.53
+			text = "les"
+		intervals [1343]:
+			xmin = 359.54
+			xmax = 360.14
+			text = "baobabs"
+		intervals [1344]:
+			xmin = 360.14
+			xmax = 360.14
+			text = "[,]"
+		intervals [1345]:
+			xmin = 360.14
+			xmax = 360.24
+			text = ""
+		intervals [1346]:
+			xmin = 360.24
+			xmax = 360.51
+			text = "avant"
+		intervals [1347]:
+			xmin = 360.52
+			xmax = 360.63
+			text = "de"
+		intervals [1348]:
+			xmin = 360.64
+			xmax = 361.19
+			text = "grandir"
+		intervals [1349]:
+			xmin = 361.19
+			xmax = 361.19
+			text = "[,]"
+		intervals [1350]:
+			xmin = 361.19
+			xmax = 361.41
+			text = ""
+		intervals [1351]:
+			xmin = 361.41
+			xmax = 361.6
+			text = "ça"
+		intervals [1352]:
+			xmin = 361.61
+			xmax = 361.98
+			text = "commence"
+		intervals [1353]:
+			xmin = 361.99
+			xmax = 362.16
+			text = "par"
+		intervals [1354]:
+			xmin = 362.17
+			xmax = 362.36
+			text = "être"
+		intervals [1355]:
+			xmin = 362.37
+			xmax = 362.76
+			text = "petit"
+		intervals [1356]:
+			xmin = 362.76
+			xmax = 362.76
+			text = "[.]"
+		intervals [1357]:
+			xmin = 362.76
+			xmax = 362.76
+			text = "[[-]]"
+		intervals [1358]:
+			xmin = 362.76
+			xmax = 363.47
+			text = ""
+		intervals [1359]:
+			xmin = 363.47
+			xmax = 363.49
+			text = "c'"
+		intervals [1360]:
+			xmin = 363.49
+			xmax = 363.83
+			text = ""
+		intervals [1361]:
+			xmin = 363.83
+			xmax = 363.99
+			text = "est"
+		intervals [1362]:
+			xmin = 364.0
+			xmax = 364.56
+			text = "exact"
+		intervals [1363]:
+			xmin = 364.56
+			xmax = 364.56
+			text = "[!]"
+		intervals [1364]:
+			xmin = 364.56
+			xmax = 364.93
+			text = ""
+		intervals [1365]:
+			xmin = 364.93
+			xmax = 365.22
+			text = "mais"
+		intervals [1366]:
+			xmin = 365.23
+			xmax = 365.56
+			text = "pourquoi"
+		intervals [1367]:
+			xmin = 365.57
+			xmax = 365.69
+			text = "veux"
+		intervals [1368]:
+			xmin = 365.7
+			xmax = 365.85
+			text = "-tu"
+		intervals [1369]:
+			xmin = 365.86
+			xmax = 365.96
+			text = "que"
+		intervals [1370]:
+			xmin = 365.97
+			xmax = 366.12
+			text = "tes"
+		intervals [1371]:
+			xmin = 366.13
+			xmax = 366.54
+			text = "moutons"
+		intervals [1372]:
+			xmin = 366.55
+			xmax = 366.82
+			text = "mangent"
+		intervals [1373]:
+			xmin = 366.83
+			xmax = 366.96
+			text = "les"
+		intervals [1374]:
+			xmin = 366.97
+			xmax = 367.25
+			text = "petits"
+		intervals [1375]:
+			xmin = 367.26
+			xmax = 367.86
+			text = "baobabs"
+		intervals [1376]:
+			xmin = 367.86
+			xmax = 367.86
+			text = "[?]"
+		intervals [1377]:
+			xmin = 367.86
+			xmax = 368.89
+			text = ""
+		intervals [1378]:
+			xmin = 368.89
+			xmax = 368.97
+			text = "il"
+		intervals [1379]:
+			xmin = 368.97
+			xmax = 369.06
+			text = ""
+		intervals [1380]:
+			xmin = 369.06
+			xmax = 369.17
+			text = "me"
+		intervals [1381]:
+			xmin = 369.18
+			xmax = 369.81
+			text = "répondit"
+		intervals [1382]:
+			xmin = 369.81
+			xmax = 369.81
+			text = "[:]"
+		intervals [1383]:
+			xmin = 369.81
+			xmax = 370.24
+			text = ""
+		intervals [1384]:
+			xmin = 370.24
+			xmax = 370.46
+			text = "ben"
+		intervals [1385]:
+			xmin = 370.46
+			xmax = 370.46
+			text = "[!]"
+		intervals [1386]:
+			xmin = 370.46
+			xmax = 370.78
+			text = ""
+		intervals [1387]:
+			xmin = 370.78
+			xmax = 371.33
+			text = "voyons"
+		intervals [1388]:
+			xmin = 371.33
+			xmax = 371.33
+			text = "[!]"
+		intervals [1389]:
+			xmin = 371.33
+			xmax = 371.33
+			text = "[,]"
+		intervals [1390]:
+			xmin = 371.33
+			xmax = 372.01
+			text = ""
+		intervals [1391]:
+			xmin = 372.01
+			xmax = 372.17
+			text = "comme"
+		intervals [1392]:
+			xmin = 372.18
+			xmax = 372.33
+			text = "s'"
+		intervals [1393]:
+			xmin = 372.34
+			xmax = 372.53
+			text = "il"
+		intervals [1394]:
+			xmin = 372.54
+			xmax = 372.61
+			text = "s'"
+		intervals [1395]:
+			xmin = 372.62
+			xmax = 373.01
+			text = "agissait"
+		intervals [1396]:
+			xmin = 373.02
+			xmax = 373.17
+			text = "là"
+		intervals [1397]:
+			xmin = 373.18
+			xmax = 373.23
+			text = "d'"
+		intervals [1398]:
+			xmin = 373.24
+			xmax = 373.44
+			text = "une"
+		intervals [1399]:
+			xmin = 373.45
+			xmax = 374.21
+			text = "évidence"
+		intervals [1400]:
+			xmin = 374.21
+			xmax = 374.21
+			text = "[.]"
+		intervals [1401]:
+			xmin = 374.21
+			xmax = 375.06
+			text = ""
+		intervals [1402]:
+			xmin = 375.06
+			xmax = 375.2
+			text = "et"
+		intervals [1403]:
+			xmin = 375.21
+			xmax = 375.28
+			text = "il"
+		intervals [1404]:
+			xmin = 375.28
+			xmax = 375.34
+			text = ""
+		intervals [1405]:
+			xmin = 375.34
+			xmax = 375.44
+			text = "me"
+		intervals [1406]:
+			xmin = 375.45
+			xmax = 375.82
+			text = "fallut"
+		intervals [1407]:
+			xmin = 375.83
+			xmax = 375.98
+			text = "un"
+		intervals [1408]:
+			xmin = 375.99
+			xmax = 376.45
+			text = "grand"
+		intervals [1409]:
+			xmin = 376.46
+			xmax = 376.81
+			text = "effort"
+		intervals [1410]:
+			xmin = 376.82
+			xmax = 376.87
+			text = "d'"
+		intervals [1411]:
+			xmin = 376.88
+			xmax = 377.78
+			text = "intelligence"
+		intervals [1412]:
+			xmin = 377.78
+			xmax = 377.92
+			text = ""
+		intervals [1413]:
+			xmin = 377.92
+			xmax = 378.09
+			text = "pour"
+		intervals [1414]:
+			xmin = 378.1
+			xmax = 378.64
+			text = "comprendre"
+		intervals [1415]:
+			xmin = 378.65
+			xmax = 378.69
+			text = "à"
+		intervals [1416]:
+			xmin = 378.7
+			xmax = 378.91
+			text = "moi"
+		intervals [1417]:
+			xmin = 378.92
+			xmax = 379.42
+			text = "seul"
+		intervals [1418]:
+			xmin = 379.43
+			xmax = 379.61
+			text = "ce"
+		intervals [1419]:
+			xmin = 379.62
+			xmax = 380.18
+			text = "problème"
+		intervals [1420]:
+			xmin = 380.18
+			xmax = 380.18
+			text = "[.]"
+		intervals [1421]:
+			xmin = 380.18
+			xmax = 381.49
+			text = ""
+		intervals [1422]:
+			xmin = 381.49
+			xmax = 381.6
+			text = "et"
+		intervals [1423]:
+			xmin = 381.61
+			xmax = 381.74
+			text = "en"
+		intervals [1424]:
+			xmin = 381.74
+			xmax = 381.79
+			text = ""
+		intervals [1425]:
+			xmin = 381.79
+			xmax = 382.25
+			text = "effet"
+		intervals [1426]:
+			xmin = 382.25
+			xmax = 382.25
+			text = "[,]"
+		intervals [1427]:
+			xmin = 382.25
+			xmax = 382.45
+			text = ""
+		intervals [1428]:
+			xmin = 382.45
+			xmax = 382.67
+			text = "sur"
+		intervals [1429]:
+			xmin = 382.68
+			xmax = 382.83
+			text = "la"
+		intervals [1430]:
+			xmin = 382.84
+			xmax = 383.36
+			text = "planète"
+		intervals [1431]:
+			xmin = 383.37
+			xmax = 383.5
+			text = "du"
+		intervals [1432]:
+			xmin = 383.51
+			xmax = 383.85
+			text = "petit"
+		intervals [1433]:
+			xmin = 383.86
+			xmax = 384.41
+			text = "prince"
+		intervals [1434]:
+			xmin = 384.41
+			xmax = 384.41
+			text = "[,]"
+		intervals [1435]:
+			xmin = 384.41
+			xmax = 384.64
+			text = ""
+		intervals [1436]:
+			xmin = 384.64
+			xmax = 384.8
+			text = "il"
+		intervals [1437]:
+			xmin = 384.81
+			xmax = 384.96
+			text = "y"
+		intervals [1438]:
+			xmin = 384.97
+			xmax = 385.3
+			text = "avait"
+		intervals [1439]:
+			xmin = 385.3
+			xmax = 385.3
+			text = "[,]"
+		intervals [1440]:
+			xmin = 385.31
+			xmax = 385.77
+			text = "comme"
+		intervals [1441]:
+			xmin = 385.78
+			xmax = 386.02
+			text = "sur"
+		intervals [1442]:
+			xmin = 386.03
+			xmax = 386.39
+			text = "toutes"
+		intervals [1443]:
+			xmin = 386.4
+			xmax = 386.53
+			text = "les"
+		intervals [1444]:
+			xmin = 386.54
+			xmax = 387.15
+			text = "planètes"
+		intervals [1445]:
+			xmin = 387.15
+			xmax = 387.15
+			text = "[,]"
+		intervals [1446]:
+			xmin = 387.15
+			xmax = 387.38
+			text = ""
+		intervals [1447]:
+			xmin = 387.38
+			xmax = 387.62
+			text = "de"
+		intervals [1448]:
+			xmin = 387.63
+			xmax = 387.98
+			text = "bonnes"
+		intervals [1449]:
+			xmin = 387.99
+			xmax = 388.4
+			text = "herbes"
+		intervals [1450]:
+			xmin = 388.4
+			xmax = 388.62
+			text = ""
+		intervals [1451]:
+			xmin = 388.62
+			xmax = 388.7
+			text = "et"
+		intervals [1452]:
+			xmin = 388.71
+			xmax = 388.83
+			text = "de"
+		intervals [1453]:
+			xmin = 388.84
+			xmax = 389.3
+			text = "mauvaises"
+		intervals [1454]:
+			xmin = 389.31
+			xmax = 389.69
+			text = "herbes"
+		intervals [1455]:
+			xmin = 389.69
+			xmax = 389.69
+			text = "[.]"
+		intervals [1456]:
+			xmin = 389.69
+			xmax = 390.42
+			text = ""
+		intervals [1457]:
+			xmin = 390.42
+			xmax = 390.61
+			text = "par"
+		intervals [1458]:
+			xmin = 390.62
+			xmax = 391.27
+			text = "conséquent"
+		intervals [1459]:
+			xmin = 391.27
+			xmax = 391.39
+			text = ""
+		intervals [1460]:
+			xmin = 391.39
+			xmax = 391.62
+			text = "de"
+		intervals [1461]:
+			xmin = 391.63
+			xmax = 391.86
+			text = "bonnes"
+		intervals [1462]:
+			xmin = 391.87
+			xmax = 392.22
+			text = "graines"
+		intervals [1463]:
+			xmin = 392.23
+			xmax = 392.34
+			text = "de"
+		intervals [1464]:
+			xmin = 392.35
+			xmax = 392.68
+			text = "bonnes"
+		intervals [1465]:
+			xmin = 392.69
+			xmax = 393.0
+			text = "herbes"
+		intervals [1466]:
+			xmin = 393.0
+			xmax = 393.22
+			text = ""
+		intervals [1467]:
+			xmin = 393.22
+			xmax = 393.28
+			text = "et"
+		intervals [1468]:
+			xmin = 393.29
+			xmax = 393.42
+			text = "de"
+		intervals [1469]:
+			xmin = 393.43
+			xmax = 393.86
+			text = "mauvaises"
+		intervals [1470]:
+			xmin = 393.87
+			xmax = 394.27
+			text = "graines"
+		intervals [1471]:
+			xmin = 394.27
+			xmax = 394.36
+			text = ""
+		intervals [1472]:
+			xmin = 394.36
+			xmax = 394.46
+			text = "de"
+		intervals [1473]:
+			xmin = 394.47
+			xmax = 394.99
+			text = "mauvaises"
+		intervals [1474]:
+			xmin = 395.0
+			xmax = 395.32
+			text = "herbes"
+		intervals [1475]:
+			xmin = 395.32
+			xmax = 395.32
+			text = "[.]"
+		intervals [1476]:
+			xmin = 395.32
+			xmax = 396.03
+			text = ""
+		intervals [1477]:
+			xmin = 396.03
+			xmax = 396.22
+			text = "mais"
+		intervals [1478]:
+			xmin = 396.23
+			xmax = 396.34
+			text = "les"
+		intervals [1479]:
+			xmin = 396.35
+			xmax = 396.65
+			text = "graines"
+		intervals [1480]:
+			xmin = 396.66
+			xmax = 396.91
+			text = "sont"
+		intervals [1481]:
+			xmin = 396.92
+			xmax = 397.63
+			text = "invisibles"
+		intervals [1482]:
+			xmin = 397.63
+			xmax = 397.63
+			text = "[.]"
+		intervals [1483]:
+			xmin = 397.63
+			xmax = 398.06
+			text = ""
+		intervals [1484]:
+			xmin = 398.06
+			xmax = 398.22
+			text = "elles"
+		intervals [1485]:
+			xmin = 398.23
+			xmax = 398.66
+			text = "dorment"
+		intervals [1486]:
+			xmin = 398.67
+			xmax = 398.79
+			text = "dans"
+		intervals [1487]:
+			xmin = 398.8
+			xmax = 398.9
+			text = "le"
+		intervals [1488]:
+			xmin = 398.91
+			xmax = 399.34
+			text = "secret"
+		intervals [1489]:
+			xmin = 399.35
+			xmax = 399.43
+			text = "de"
+		intervals [1490]:
+			xmin = 399.44
+			xmax = 399.56
+			text = "la"
+		intervals [1491]:
+			xmin = 399.57
+			xmax = 399.95
+			text = "terre"
+		intervals [1492]:
+			xmin = 399.95
+			xmax = 400.2
+			text = ""
+		intervals [1493]:
+			xmin = 400.2
+			xmax = 400.73
+			text = "jusqu'"
+		intervals [1494]:
+			xmin = 400.74
+			xmax = 400.81
+			text = "à"
+		intervals [1495]:
+			xmin = 400.82
+			xmax = 400.96
+			text = "ce"
+		intervals [1496]:
+			xmin = 400.97
+			xmax = 401.08
+			text = "qu'"
+		intervals [1497]:
+			xmin = 401.09
+			xmax = 401.21
+			text = "il"
+		intervals [1498]:
+			xmin = 401.22
+			xmax = 401.52
+			text = "prenne"
+		intervals [1499]:
+			xmin = 401.53
+			xmax = 402.33
+			text = "fantaisie"
+		intervals [1500]:
+			xmin = 402.34
+			xmax = 402.44
+			text = "à"
+		intervals [1501]:
+			xmin = 402.45
+			xmax = 402.51
+			text = "l'"
+		intervals [1502]:
+			xmin = 402.52
+			xmax = 402.65
+			text = "une"
+		intervals [1503]:
+			xmin = 402.66
+			xmax = 402.78
+			text = "d'"
+		intervals [1504]:
+			xmin = 402.79
+			xmax = 403.03
+			text = "elles"
+		intervals [1505]:
+			xmin = 403.04
+			xmax = 403.12
+			text = "de"
+		intervals [1506]:
+			xmin = 403.13
+			xmax = 403.31
+			text = "se"
+		intervals [1507]:
+			xmin = 403.32
+			xmax = 403.83
+			text = "réveiller"
+		intervals [1508]:
+			xmin = 403.83
+			xmax = 403.83
+			text = "[.]"
+		intervals [1509]:
+			xmin = 403.83
+			xmax = 404.57
+			text = ""
+		intervals [1510]:
+			xmin = 404.57
+			xmax = 405.06
+			text = "alors"
+		intervals [1511]:
+			xmin = 405.07
+			xmax = 405.2
+			text = "elle"
+		intervals [1512]:
+			xmin = 405.21
+			xmax = 405.29
+			text = "s'"
+		intervals [1513]:
+			xmin = 405.3
+			xmax = 405.81
+			text = "étire"
+		intervals [1514]:
+			xmin = 405.81
+			xmax = 405.81
+			text = "[,]"
+		intervals [1515]:
+			xmin = 405.81
+			xmax = 406.27
+			text = ""
+		intervals [1516]:
+			xmin = 406.27
+			xmax = 406.42
+			text = "et"
+		intervals [1517]:
+			xmin = 406.43
+			xmax = 406.74
+			text = "pousse"
+		intervals [1518]:
+			xmin = 406.75
+			xmax = 406.77
+			text = "d'"
+		intervals [1519]:
+			xmin = 406.78
+			xmax = 407.19
+			text = "abord"
+		intervals [1520]:
+			xmin = 407.2
+			xmax = 407.92
+			text = "timidement"
+		intervals [1521]:
+			xmin = 407.93
+			xmax = 408.09
+			text = "vers"
+		intervals [1522]:
+			xmin = 408.1
+			xmax = 408.18
+			text = "le"
+		intervals [1523]:
+			xmin = 408.19
+			xmax = 408.69
+			text = "soleil"
+		intervals [1524]:
+			xmin = 408.69
+			xmax = 409.06
+			text = ""
+		intervals [1525]:
+			xmin = 409.06
+			xmax = 409.32
+			text = "une"
+		intervals [1526]:
+			xmin = 409.33
+			xmax = 410.21
+			text = "ravissante"
+		intervals [1527]:
+			xmin = 410.21
+			xmax = 410.26
+			text = ""
+		intervals [1528]:
+			xmin = 410.26
+			xmax = 410.62
+			text = "petite"
+		intervals [1529]:
+			xmin = 410.63
+			xmax = 411.17
+			text = "brindille"
+		intervals [1530]:
+			xmin = 411.17
+			xmax = 411.25
+			text = ""
+		intervals [1531]:
+			xmin = 411.25
+			xmax = 412.23
+			text = "inoffensive"
+		intervals [1532]:
+			xmin = 412.23
+			xmax = 412.23
+			text = "[.]"
+		intervals [1533]:
+			xmin = 412.23
+			xmax = 413.04
+			text = ""
+		intervals [1534]:
+			xmin = 413.04
+			xmax = 413.22
+			text = "s'"
+		intervals [1535]:
+			xmin = 413.23
+			xmax = 413.36
+			text = "il"
+		intervals [1536]:
+			xmin = 413.37
+			xmax = 413.56
+			text = "s'"
+		intervals [1537]:
+			xmin = 413.56
+			xmax = 413.63
+			text = ""
+		intervals [1538]:
+			xmin = 413.63
+			xmax = 413.73
+			text = "agit"
+		intervals [1539]:
+			xmin = 413.74
+			xmax = 413.76
+			text = "d'"
+		intervals [1540]:
+			xmin = 413.77
+			xmax = 414.05
+			text = "une"
+		intervals [1541]:
+			xmin = 414.06
+			xmax = 414.55
+			text = "brindille"
+		intervals [1542]:
+			xmin = 414.56
+			xmax = 414.68
+			text = "de"
+		intervals [1543]:
+			xmin = 414.69
+			xmax = 415.12
+			text = "radis"
+		intervals [1544]:
+			xmin = 415.12
+			xmax = 415.32
+			text = ""
+		intervals [1545]:
+			xmin = 415.32
+			xmax = 415.45
+			text = "ou"
+		intervals [1546]:
+			xmin = 415.46
+			xmax = 415.59
+			text = "de"
+		intervals [1547]:
+			xmin = 415.6
+			xmax = 416.11
+			text = "rosier"
+		intervals [1548]:
+			xmin = 416.11
+			xmax = 416.11
+			text = "[,]"
+		intervals [1549]:
+			xmin = 416.11
+			xmax = 416.4
+			text = ""
+		intervals [1550]:
+			xmin = 416.4
+			xmax = 416.56
+			text = "on"
+		intervals [1551]:
+			xmin = 416.57
+			xmax = 416.68
+			text = "peut"
+		intervals [1552]:
+			xmin = 416.69
+			xmax = 416.79
+			text = "la"
+		intervals [1553]:
+			xmin = 416.8
+			xmax = 417.17
+			text = "laisser"
+		intervals [1554]:
+			xmin = 417.18
+			xmax = 417.49
+			text = "pousser"
+		intervals [1555]:
+			xmin = 417.5
+			xmax = 417.71
+			text = "comme"
+		intervals [1556]:
+			xmin = 417.72
+			xmax = 417.81
+			text = "elle"
+		intervals [1557]:
+			xmin = 417.82
+			xmax = 418.1
+			text = "veut"
+		intervals [1558]:
+			xmin = 418.1
+			xmax = 418.1
+			text = "[.]"
+		intervals [1559]:
+			xmin = 418.1
+			xmax = 418.85
+			text = ""
+		intervals [1560]:
+			xmin = 418.85
+			xmax = 419.09
+			text = "mais"
+		intervals [1561]:
+			xmin = 419.09
+			xmax = 419.15
+			text = ""
+		intervals [1562]:
+			xmin = 419.15
+			xmax = 419.17
+			text = "s'"
+		intervals [1563]:
+			xmin = 419.18
+			xmax = 419.36
+			text = "il"
+		intervals [1564]:
+			xmin = 419.37
+			xmax = 419.39
+			text = "s'"
+		intervals [1565]:
+			xmin = 419.39
+			xmax = 419.49
+			text = ""
+		intervals [1566]:
+			xmin = 419.49
+			xmax = 419.78
+			text = "agit"
+		intervals [1567]:
+			xmin = 419.79
+			xmax = 419.83
+			text = "d'"
+		intervals [1568]:
+			xmin = 419.84
+			xmax = 419.97
+			text = "une"
+		intervals [1569]:
+			xmin = 419.98
+			xmax = 420.35
+			text = "mauvaise"
+		intervals [1570]:
+			xmin = 420.36
+			xmax = 420.79
+			text = "plante"
+		intervals [1571]:
+			xmin = 420.79
+			xmax = 420.79
+			text = "[,]"
+		intervals [1572]:
+			xmin = 420.79
+			xmax = 421.08
+			text = ""
+		intervals [1573]:
+			xmin = 421.08
+			xmax = 421.23
+			text = "il"
+		intervals [1574]:
+			xmin = 421.24
+			xmax = 421.45
+			text = "faut"
+		intervals [1575]:
+			xmin = 421.46
+			xmax = 421.83
+			text = "arracher"
+		intervals [1576]:
+			xmin = 421.84
+			xmax = 421.97
+			text = "la"
+		intervals [1577]:
+			xmin = 421.98
+			xmax = 422.36
+			text = "plante"
+		intervals [1578]:
+			xmin = 422.37
+			xmax = 422.9
+			text = "aussitôt"
+		intervals [1579]:
+			xmin = 422.9
+			xmax = 422.9
+			text = "[,]"
+		intervals [1580]:
+			xmin = 422.9
+			xmax = 423.27
+			text = ""
+		intervals [1581]:
+			xmin = 423.27
+			xmax = 423.51
+			text = "dès"
+		intervals [1582]:
+			xmin = 423.52
+			xmax = 423.6
+			text = "qu'"
+		intervals [1583]:
+			xmin = 423.61
+			xmax = 423.74
+			text = "on"
+		intervals [1584]:
+			xmin = 423.75
+			xmax = 423.8
+			text = "a"
+		intervals [1585]:
+			xmin = 423.81
+			xmax = 424.01
+			text = "su"
+		intervals [1586]:
+			xmin = 424.02
+			xmax = 424.12
+			text = "la"
+		intervals [1587]:
+			xmin = 424.13
+			xmax = 424.83
+			text = "reconnaître"
+		intervals [1588]:
+			xmin = 424.83
+			xmax = 424.83
+			text = "[.]"
+		intervals [1589]:
+			xmin = 424.83
+			xmax = 425.74
+			text = ""
+		intervals [1590]:
+			xmin = 425.74
+			xmax = 426.18
+			text = "or"
+		intervals [1591]:
+			xmin = 426.18
+			xmax = 426.27
+			text = ""
+		intervals [1592]:
+			xmin = 426.27
+			xmax = 426.4
+			text = "il"
+		intervals [1593]:
+			xmin = 426.41
+			xmax = 426.57
+			text = "y"
+		intervals [1594]:
+			xmin = 426.58
+			xmax = 426.79
+			text = "avait"
+		intervals [1595]:
+			xmin = 426.8
+			xmax = 426.93
+			text = "des"
+		intervals [1596]:
+			xmin = 426.94
+			xmax = 427.39
+			text = "graines"
+		intervals [1597]:
+			xmin = 427.4
+			xmax = 428.03
+			text = "terribles"
+		intervals [1598]:
+			xmin = 428.04
+			xmax = 428.21
+			text = "sur"
+		intervals [1599]:
+			xmin = 428.22
+			xmax = 428.31
+			text = "la"
+		intervals [1600]:
+			xmin = 428.32
+			xmax = 428.69
+			text = "planète"
+		intervals [1601]:
+			xmin = 428.7
+			xmax = 428.77
+			text = "du"
+		intervals [1602]:
+			xmin = 428.78
+			xmax = 429.06
+			text = "petit"
+		intervals [1603]:
+			xmin = 429.07
+			xmax = 429.57
+			text = "prince"
+		intervals [1604]:
+			xmin = 429.57
+			xmax = 429.57
+			text = "[.]"
+		intervals [1605]:
+			xmin = 429.57
+			xmax = 429.57
+			text = "[.]"
+		intervals [1606]:
+			xmin = 429.57
+			xmax = 429.57
+			text = "[.]"
+		intervals [1607]:
+			xmin = 429.57
+			xmax = 430.36
+			text = ""
+		intervals [1608]:
+			xmin = 430.36
+			xmax = 430.5
+			text = "c'"
+		intervals [1609]:
+			xmin = 430.51
+			xmax = 430.75
+			text = "étaient"
+		intervals [1610]:
+			xmin = 430.75
+			xmax = 430.79
+			text = ""
+		intervals [1611]:
+			xmin = 430.79
+			xmax = 430.93
+			text = "les"
+		intervals [1612]:
+			xmin = 430.94
+			xmax = 431.51
+			text = "graines"
+		intervals [1613]:
+			xmin = 431.52
+			xmax = 431.67
+			text = "de"
+		intervals [1614]:
+			xmin = 431.68
+			xmax = 432.3
+			text = "baobabs"
+		intervals [1615]:
+			xmin = 432.3
+			xmax = 432.3
+			text = "[.]"
+		intervals [1616]:
+			xmin = 432.3
+			xmax = 433.39
+			text = ""
+		intervals [1617]:
+			xmin = 433.39
+			xmax = 433.53
+			text = "le"
+		intervals [1618]:
+			xmin = 433.54
+			xmax = 433.98
+			text = "sol"
+		intervals [1619]:
+			xmin = 433.99
+			xmax = 434.02
+			text = "de"
+		intervals [1620]:
+			xmin = 434.02
+			xmax = 434.06
+			text = ""
+		intervals [1621]:
+			xmin = 434.06
+			xmax = 434.16
+			text = "la"
+		intervals [1622]:
+			xmin = 434.17
+			xmax = 434.7
+			text = "planète"
+		intervals [1623]:
+			xmin = 434.71
+			xmax = 434.88
+			text = "en"
+		intervals [1624]:
+			xmin = 434.89
+			xmax = 435.32
+			text = "était"
+		intervals [1625]:
+			xmin = 435.33
+			xmax = 436.14
+			text = "infesté"
+		intervals [1626]:
+			xmin = 436.14
+			xmax = 436.14
+			text = "[.]"
+		intervals [1627]:
+			xmin = 436.14
+			xmax = 436.93
+			text = ""
+		intervals [1628]:
+			xmin = 436.93
+			xmax = 437.33
+			text = "or"
+		intervals [1629]:
+			xmin = 437.34
+			xmax = 437.5
+			text = "un"
+		intervals [1630]:
+			xmin = 437.51
+			xmax = 438.07
+			text = "baobab"
+		intervals [1631]:
+			xmin = 438.07
+			xmax = 438.07
+			text = "[,]"
+		intervals [1632]:
+			xmin = 438.07
+			xmax = 438.48
+			text = ""
+		intervals [1633]:
+			xmin = 438.48
+			xmax = 438.73
+			text = "si"
+		intervals [1634]:
+			xmin = 438.74
+			xmax = 438.77
+			text = "l'"
+		intervals [1635]:
+			xmin = 438.78
+			xmax = 438.86
+			text = "on"
+		intervals [1636]:
+			xmin = 438.87
+			xmax = 438.98
+			text = "s'"
+		intervals [1637]:
+			xmin = 438.99
+			xmax = 439.06
+			text = "y"
+		intervals [1638]:
+			xmin = 439.07
+			xmax = 439.3
+			text = "prend"
+		intervals [1639]:
+			xmin = 439.31
+			xmax = 439.63
+			text = "trop"
+		intervals [1640]:
+			xmin = 439.64
+			xmax = 440.05
+			text = "tard"
+		intervals [1641]:
+			xmin = 440.05
+			xmax = 440.05
+			text = "[,]"
+		intervals [1642]:
+			xmin = 440.05
+			xmax = 440.36
+			text = ""
+		intervals [1643]:
+			xmin = 440.36
+			xmax = 440.43
+			text = "on"
+		intervals [1644]:
+			xmin = 440.44
+			xmax = 440.66
+			text = "ne"
+		intervals [1645]:
+			xmin = 440.67
+			xmax = 440.87
+			text = "peut"
+		intervals [1646]:
+			xmin = 440.88
+			xmax = 441.56
+			text = "jamais"
+		intervals [1647]:
+			xmin = 441.57
+			xmax = 441.84
+			text = "plus"
+		intervals [1648]:
+			xmin = 441.85
+			xmax = 441.95
+			text = "s'"
+		intervals [1649]:
+			xmin = 441.96
+			xmax = 442.03
+			text = "en"
+		intervals [1650]:
+			xmin = 442.04
+			xmax = 442.75
+			text = "débarrasser"
+		intervals [1651]:
+			xmin = 442.75
+			xmax = 442.75
+			text = "[.]"
+		intervals [1652]:
+			xmin = 442.75
+			xmax = 443.22
+			text = ""
+		intervals [1653]:
+			xmin = 443.22
+			xmax = 443.37
+			text = "il"
+		intervals [1654]:
+			xmin = 443.38
+			xmax = 443.99
+			text = "encombre"
+		intervals [1655]:
+			xmin = 443.99
+			xmax = 444.09
+			text = ""
+		intervals [1656]:
+			xmin = 444.09
+			xmax = 444.43
+			text = "toute"
+		intervals [1657]:
+			xmin = 444.44
+			xmax = 444.57
+			text = "la"
+		intervals [1658]:
+			xmin = 444.58
+			xmax = 445.18
+			text = "planète"
+		intervals [1659]:
+			xmin = 445.18
+			xmax = 445.18
+			text = "[.]"
+		intervals [1660]:
+			xmin = 445.18
+			xmax = 445.78
+			text = ""
+		intervals [1661]:
+			xmin = 445.78
+			xmax = 446.02
+			text = "il"
+		intervals [1662]:
+			xmin = 446.03
+			xmax = 446.14
+			text = "la"
+		intervals [1663]:
+			xmin = 446.15
+			xmax = 446.68
+			text = "perfore"
+		intervals [1664]:
+			xmin = 446.69
+			xmax = 446.74
+			text = "de"
+		intervals [1665]:
+			xmin = 446.75
+			xmax = 446.95
+			text = "ses"
+		intervals [1666]:
+			xmin = 446.96
+			xmax = 447.56
+			text = "racines"
+		intervals [1667]:
+			xmin = 447.56
+			xmax = 447.56
+			text = "[.]"
+		intervals [1668]:
+			xmin = 447.56
+			xmax = 448.54
+			text = ""
+		intervals [1669]:
+			xmin = 448.54
+			xmax = 448.62
+			text = "et"
+		intervals [1670]:
+			xmin = 448.62
+			xmax = 448.7
+			text = ""
+		intervals [1671]:
+			xmin = 448.7
+			xmax = 448.82
+			text = "si"
+		intervals [1672]:
+			xmin = 448.83
+			xmax = 448.93
+			text = "la"
+		intervals [1673]:
+			xmin = 448.94
+			xmax = 449.27
+			text = "planète"
+		intervals [1674]:
+			xmin = 449.28
+			xmax = 449.36
+			text = "est"
+		intervals [1675]:
+			xmin = 449.37
+			xmax = 449.57
+			text = "trop"
+		intervals [1676]:
+			xmin = 449.58
+			xmax = 450.1
+			text = "petite"
+		intervals [1677]:
+			xmin = 450.1
+			xmax = 450.1
+			text = "[,]"
+		intervals [1678]:
+			xmin = 450.1
+			xmax = 450.47
+			text = ""
+		intervals [1679]:
+			xmin = 450.47
+			xmax = 450.55
+			text = "et"
+		intervals [1680]:
+			xmin = 450.56
+			xmax = 450.81
+			text = "si"
+		intervals [1681]:
+			xmin = 450.82
+			xmax = 450.92
+			text = "les"
+		intervals [1682]:
+			xmin = 450.93
+			xmax = 451.48
+			text = "baobabs"
+		intervals [1683]:
+			xmin = 451.49
+			xmax = 451.75
+			text = "sont"
+		intervals [1684]:
+			xmin = 451.76
+			xmax = 452.08
+			text = "trop"
+		intervals [1685]:
+			xmin = 452.09
+			xmax = 452.59
+			text = "nombreux"
+		intervals [1686]:
+			xmin = 452.59
+			xmax = 452.59
+			text = "[,]"
+		intervals [1687]:
+			xmin = 452.59
+			xmax = 452.8
+			text = ""
+		intervals [1688]:
+			xmin = 452.8
+			xmax = 453.1
+			text = "ils"
+		intervals [1689]:
+			xmin = 453.11
+			xmax = 453.19
+			text = "la"
+		intervals [1690]:
+			xmin = 453.2
+			xmax = 453.64
+			text = "font"
+		intervals [1691]:
+			xmin = 453.65
+			xmax = 454.47
+			text = "éclater"
+		intervals [1692]:
+			xmin = 454.47
+			xmax = 454.47
+			text = "[.]"
+		intervals [1693]:
+			xmin = 454.47
+			xmax = 455.52
+			text = ""
+		intervals [1694]:
+			xmin = 455.52
+			xmax = 455.68
+			text = "c'"
+		intervals [1695]:
+			xmin = 455.69
+			xmax = 455.84
+			text = "est"
+		intervals [1696]:
+			xmin = 455.85
+			xmax = 455.97
+			text = "une"
+		intervals [1697]:
+			xmin = 455.98
+			xmax = 456.37
+			text = "question"
+		intervals [1698]:
+			xmin = 456.38
+			xmax = 456.54
+			text = "de"
+		intervals [1699]:
+			xmin = 456.55
+			xmax = 457.27
+			text = "discipline"
+		intervals [1700]:
+			xmin = 457.27
+			xmax = 457.27
+			text = "[,]"
+		intervals [1701]:
+			xmin = 457.27
+			xmax = 457.58
+			text = ""
+		intervals [1702]:
+			xmin = 457.58
+			xmax = 457.75
+			text = "me"
+		intervals [1703]:
+			xmin = 457.76
+			xmax = 458.04
+			text = "disait"
+		intervals [1704]:
+			xmin = 458.05
+			xmax = 458.21
+			text = "plus"
+		intervals [1705]:
+			xmin = 458.22
+			xmax = 458.48
+			text = "tard"
+		intervals [1706]:
+			xmin = 458.49
+			xmax = 458.57
+			text = "le"
+		intervals [1707]:
+			xmin = 458.58
+			xmax = 458.87
+			text = "petit"
+		intervals [1708]:
+			xmin = 458.88
+			xmax = 459.38
+			text = "prince"
+		intervals [1709]:
+			xmin = 459.38
+			xmax = 459.38
+			text = "[.]"
+		intervals [1710]:
+			xmin = 459.38
+			xmax = 460.15
+			text = ""
+		intervals [1711]:
+			xmin = 460.15
+			xmax = 460.37
+			text = "quand"
+		intervals [1712]:
+			xmin = 460.38
+			xmax = 460.49
+			text = "on"
+		intervals [1713]:
+			xmin = 460.5
+			xmax = 460.56
+			text = "a"
+		intervals [1714]:
+			xmin = 460.57
+			xmax = 460.96
+			text = "terminé"
+		intervals [1715]:
+			xmin = 460.97
+			xmax = 461.17
+			text = "sa"
+		intervals [1716]:
+			xmin = 461.18
+			xmax = 461.51
+			text = "toilette"
+		intervals [1717]:
+			xmin = 461.52
+			xmax = 461.63
+			text = "du"
+		intervals [1718]:
+			xmin = 461.64
+			xmax = 462.06
+			text = "matin"
+		intervals [1719]:
+			xmin = 462.06
+			xmax = 462.06
+			text = "[,]"
+		intervals [1720]:
+			xmin = 462.06
+			xmax = 462.41
+			text = ""
+		intervals [1721]:
+			xmin = 462.41
+			xmax = 462.55
+			text = "il"
+		intervals [1722]:
+			xmin = 462.56
+			xmax = 462.69
+			text = "faut"
+		intervals [1723]:
+			xmin = 462.7
+			xmax = 462.96
+			text = "faire"
+		intervals [1724]:
+			xmin = 462.97
+			xmax = 463.67
+			text = "soigneusement"
+		intervals [1725]:
+			xmin = 463.68
+			xmax = 463.81
+			text = "la"
+		intervals [1726]:
+			xmin = 463.82
+			xmax = 464.29
+			text = "toilette"
+		intervals [1727]:
+			xmin = 464.3
+			xmax = 464.41
+			text = "de"
+		intervals [1728]:
+			xmin = 464.42
+			xmax = 464.53
+			text = "la"
+		intervals [1729]:
+			xmin = 464.54
+			xmax = 465.11
+			text = "planète"
+		intervals [1730]:
+			xmin = 465.11
+			xmax = 465.11
+			text = "[.]"
+		intervals [1731]:
+			xmin = 465.11
+			xmax = 465.66
+			text = ""
+		intervals [1732]:
+			xmin = 465.66
+			xmax = 465.84
+			text = "il"
+		intervals [1733]:
+			xmin = 465.85
+			xmax = 465.96
+			text = "faut"
+		intervals [1734]:
+			xmin = 465.97
+			xmax = 466.1
+			text = "s'"
+		intervals [1735]:
+			xmin = 466.11
+			xmax = 466.64
+			text = "astreindre"
+		intervals [1736]:
+			xmin = 466.65
+			xmax = 467.51
+			text = "régulièrement"
+		intervals [1737]:
+			xmin = 467.51
+			xmax = 467.58
+			text = ""
+		intervals [1738]:
+			xmin = 467.58
+			xmax = 467.8
+			text = "à"
+		intervals [1739]:
+			xmin = 467.81
+			xmax = 468.18
+			text = "arracher"
+		intervals [1740]:
+			xmin = 468.19
+			xmax = 468.32
+			text = "les"
+		intervals [1741]:
+			xmin = 468.33
+			xmax = 468.96
+			text = "baobabs"
+		intervals [1742]:
+			xmin = 468.96
+			xmax = 469.32
+			text = ""
+		intervals [1743]:
+			xmin = 469.32
+			xmax = 469.59
+			text = "dès"
+		intervals [1744]:
+			xmin = 469.6
+			xmax = 469.68
+			text = "qu'"
+		intervals [1745]:
+			xmin = 469.69
+			xmax = 469.75
+			text = "on"
+		intervals [1746]:
+			xmin = 469.76
+			xmax = 469.86
+			text = "les"
+		intervals [1747]:
+			xmin = 469.87
+			xmax = 470.39
+			text = "distingue"
+		intervals [1748]:
+			xmin = 470.4
+			xmax = 470.45
+			text = "d'"
+		intervals [1749]:
+			xmin = 470.46
+			xmax = 470.71
+			text = "avec"
+		intervals [1750]:
+			xmin = 470.72
+			xmax = 470.83
+			text = "les"
+		intervals [1751]:
+			xmin = 470.84
+			xmax = 471.33
+			text = "rosiers"
+		intervals [1752]:
+			xmin = 471.33
+			xmax = 471.54
+			text = ""
+		intervals [1753]:
+			xmin = 471.54
+			xmax = 471.94
+			text = "auxquels"
+		intervals [1754]:
+			xmin = 471.95
+			xmax = 472.01
+			text = "ils"
+		intervals [1755]:
+			xmin = 472.02
+			xmax = 472.57
+			text = "ressemblent"
+		intervals [1756]:
+			xmin = 472.58
+			xmax = 472.96
+			text = "beaucoup"
+		intervals [1757]:
+			xmin = 472.97
+			xmax = 473.21
+			text = "quand"
+		intervals [1758]:
+			xmin = 473.22
+			xmax = 473.32
+			text = "ils"
+		intervals [1759]:
+			xmin = 473.33
+			xmax = 473.48
+			text = "sont"
+		intervals [1760]:
+			xmin = 473.49
+			xmax = 473.68
+			text = "très"
+		intervals [1761]:
+			xmin = 473.69
+			xmax = 474.06
+			text = "jeunes"
+		intervals [1762]:
+			xmin = 474.06
+			xmax = 474.06
+			text = "[.]"
+		intervals [1763]:
+			xmin = 474.06
+			xmax = 474.63
+			text = ""
+		intervals [1764]:
+			xmin = 474.63
+			xmax = 474.74
+			text = "c'"
+		intervals [1765]:
+			xmin = 474.75
+			xmax = 474.89
+			text = "est"
+		intervals [1766]:
+			xmin = 474.9
+			xmax = 474.97
+			text = "un"
+		intervals [1767]:
+			xmin = 474.98
+			xmax = 475.36
+			text = "travail"
+		intervals [1768]:
+			xmin = 475.37
+			xmax = 475.68
+			text = "très"
+		intervals [1769]:
+			xmin = 475.69
+			xmax = 476.09
+			text = "ennuyeux"
+		intervals [1770]:
+			xmin = 476.09
+			xmax = 476.09
+			text = "[,]"
+		intervals [1771]:
+			xmin = 476.09
+			xmax = 476.44
+			text = ""
+		intervals [1772]:
+			xmin = 476.44
+			xmax = 476.6
+			text = "mais"
+		intervals [1773]:
+			xmin = 476.61
+			xmax = 476.76
+			text = "très"
+		intervals [1774]:
+			xmin = 476.77
+			xmax = 477.28
+			text = "facile"
+		intervals [1775]:
+			xmin = 477.28
+			xmax = 477.28
+			text = "[.]"
+		intervals [1776]:
+			xmin = 477.28
+			xmax = 478.74
+			text = ""
+		intervals [1777]:
+			xmin = 478.74
+			xmax = 478.81
+			text = "et"
+		intervals [1778]:
+			xmin = 478.82
+			xmax = 479.0
+			text = "un"
+		intervals [1779]:
+			xmin = 479.01
+			xmax = 479.39
+			text = "jour"
+		intervals [1780]:
+			xmin = 479.39
+			xmax = 479.45
+			text = ""
+		intervals [1781]:
+			xmin = 479.45
+			xmax = 479.62
+			text = "il"
+		intervals [1782]:
+			xmin = 479.63
+			xmax = 479.74
+			text = "me"
+		intervals [1783]:
+			xmin = 479.75
+			xmax = 480.29
+			text = "conseilla"
+		intervals [1784]:
+			xmin = 480.3
+			xmax = 480.44
+			text = "de"
+		intervals [1785]:
+			xmin = 480.45
+			xmax = 480.49
+			text = "m'"
+		intervals [1786]:
+			xmin = 480.5
+			xmax = 481.03
+			text = "appliquer"
+		intervals [1787]:
+			xmin = 481.04
+			xmax = 481.09
+			text = "à"
+		intervals [1788]:
+			xmin = 481.1
+			xmax = 481.69
+			text = "réussir"
+		intervals [1789]:
+			xmin = 481.7
+			xmax = 481.8
+			text = "un"
+		intervals [1790]:
+			xmin = 481.81
+			xmax = 482.08
+			text = "beau"
+		intervals [1791]:
+			xmin = 482.09
+			xmax = 482.48
+			text = "dessin"
+		intervals [1792]:
+			xmin = 482.48
+			xmax = 482.48
+			text = "[,]"
+		intervals [1793]:
+			xmin = 482.48
+			xmax = 482.95
+			text = ""
+		intervals [1794]:
+			xmin = 482.95
+			xmax = 483.18
+			text = "pour"
+		intervals [1795]:
+			xmin = 483.19
+			xmax = 483.47
+			text = "bien"
+		intervals [1796]:
+			xmin = 483.48
+			xmax = 483.67
+			text = "faire"
+		intervals [1797]:
+			xmin = 483.68
+			xmax = 483.93
+			text = "entrer"
+		intervals [1798]:
+			xmin = 483.94
+			xmax = 484.14
+			text = "ça"
+		intervals [1799]:
+			xmin = 484.15
+			xmax = 484.26
+			text = "dans"
+		intervals [1800]:
+			xmin = 484.27
+			xmax = 484.42
+			text = "la"
+		intervals [1801]:
+			xmin = 484.43
+			xmax = 484.71
+			text = "tête"
+		intervals [1802]:
+			xmin = 484.72
+			xmax = 484.95
+			text = "des"
+		intervals [1803]:
+			xmin = 484.96
+			xmax = 485.22
+			text = "enfants"
+		intervals [1804]:
+			xmin = 485.23
+			xmax = 485.3
+			text = "de"
+		intervals [1805]:
+			xmin = 485.31
+			xmax = 485.52
+			text = "chez"
+		intervals [1806]:
+			xmin = 485.53
+			xmax = 485.8
+			text = "moi"
+		intervals [1807]:
+			xmin = 485.8
+			xmax = 485.8
+			text = "[.]"
+		intervals [1808]:
+			xmin = 485.8
+			xmax = 486.82
+			text = ""
+		intervals [1809]:
+			xmin = 486.82
+			xmax = 486.96
+			text = "s'"
+		intervals [1810]:
+			xmin = 486.97
+			xmax = 487.08
+			text = "ils"
+		intervals [1811]:
+			xmin = 487.09
+			xmax = 487.44
+			text = "voyagent"
+		intervals [1812]:
+			xmin = 487.45
+			xmax = 487.54
+			text = "un"
+		intervals [1813]:
+			xmin = 487.55
+			xmax = 487.96
+			text = "jour"
+		intervals [1814]:
+			xmin = 487.96
+			xmax = 487.96
+			text = "[,]"
+		intervals [1815]:
+			xmin = 487.96
+			xmax = 488.14
+			text = ""
+		intervals [1816]:
+			xmin = 488.14
+			xmax = 488.25
+			text = "me"
+		intervals [1817]:
+			xmin = 488.26
+			xmax = 488.72
+			text = "disait"
+		intervals [1818]:
+			xmin = 488.73
+			xmax = 489.0
+			text = "-il"
+		intervals [1819]:
+			xmin = 489.0
+			xmax = 489.0
+			text = "[,]"
+		intervals [1820]:
+			xmin = 489.0
+			xmax = 489.38
+			text = ""
+		intervals [1821]:
+			xmin = 489.38
+			xmax = 489.62
+			text = "ça"
+		intervals [1822]:
+			xmin = 489.63
+			xmax = 489.91
+			text = "pourra"
+		intervals [1823]:
+			xmin = 489.92
+			xmax = 490.08
+			text = "leur"
+		intervals [1824]:
+			xmin = 490.09
+			xmax = 490.71
+			text = "servir"
+		intervals [1825]:
+			xmin = 490.71
+			xmax = 490.71
+			text = "[.]"
+		intervals [1826]:
+			xmin = 490.71
+			xmax = 491.29
+			text = ""
+		intervals [1827]:
+			xmin = 491.29
+			xmax = 491.46
+			text = "il"
+		intervals [1828]:
+			xmin = 491.47
+			xmax = 491.58
+			text = "est"
+		intervals [1829]:
+			xmin = 491.59
+			xmax = 492.21
+			text = "quelquefois"
+		intervals [1830]:
+			xmin = 492.22
+			xmax = 492.52
+			text = "sans"
+		intervals [1831]:
+			xmin = 492.53
+			xmax = 493.17
+			text = "inconvénient"
+		intervals [1832]:
+			xmin = 493.18
+			xmax = 493.32
+			text = "de"
+		intervals [1833]:
+			xmin = 493.33
+			xmax = 493.69
+			text = "remettre"
+		intervals [1834]:
+			xmin = 493.7
+			xmax = 493.77
+			text = "à"
+		intervals [1835]:
+			xmin = 493.78
+			xmax = 493.95
+			text = "plus"
+		intervals [1836]:
+			xmin = 493.96
+			xmax = 494.17
+			text = "tard"
+		intervals [1837]:
+			xmin = 494.18
+			xmax = 494.33
+			text = "son"
+		intervals [1838]:
+			xmin = 494.34
+			xmax = 494.95
+			text = "travail"
+		intervals [1839]:
+			xmin = 494.95
+			xmax = 494.95
+			text = "[.]"
+		intervals [1840]:
+			xmin = 494.95
+			xmax = 495.51
+			text = ""
+		intervals [1841]:
+			xmin = 495.51
+			xmax = 495.69
+			text = "mais"
+		intervals [1842]:
+			xmin = 495.69
+			xmax = 495.69
+			text = "[,]"
+		intervals [1843]:
+			xmin = 495.7
+			xmax = 495.83
+			text = "s'"
+		intervals [1844]:
+			xmin = 495.84
+			xmax = 495.99
+			text = "il"
+		intervals [1845]:
+			xmin = 496.0
+			xmax = 496.1
+			text = "s'"
+		intervals [1846]:
+			xmin = 496.11
+			xmax = 496.37
+			text = "agit"
+		intervals [1847]:
+			xmin = 496.38
+			xmax = 496.54
+			text = "des"
+		intervals [1848]:
+			xmin = 496.55
+			xmax = 497.12
+			text = "baobabs"
+		intervals [1849]:
+			xmin = 497.12
+			xmax = 497.12
+			text = "[,]"
+		intervals [1850]:
+			xmin = 497.13
+			xmax = 497.36
+			text = "c'"
+		intervals [1851]:
+			xmin = 497.37
+			xmax = 497.42
+			text = "est"
+		intervals [1852]:
+			xmin = 497.42
+			xmax = 497.67
+			text = ""
+		intervals [1853]:
+			xmin = 497.67
+			xmax = 498.37
+			text = "toujours"
+		intervals [1854]:
+			xmin = 498.38
+			xmax = 498.61
+			text = "une"
+		intervals [1855]:
+			xmin = 498.61
+			xmax = 498.72
+			text = ""
+		intervals [1856]:
+			xmin = 498.72
+			xmax = 499.57
+			text = "catastrophe"
+		intervals [1857]:
+			xmin = 499.57
+			xmax = 499.57
+			text = "[.]"
+		intervals [1858]:
+			xmin = 499.57
+			xmax = 500.12
+			text = ""
+		intervals [1859]:
+			xmin = 500.12
+			xmax = 500.23
+			text = "j'"
+		intervals [1860]:
+			xmin = 500.24
+			xmax = 500.34
+			text = "ai"
+		intervals [1861]:
+			xmin = 500.35
+			xmax = 500.68
+			text = "connu"
+		intervals [1862]:
+			xmin = 500.69
+			xmax = 500.8
+			text = "une"
+		intervals [1863]:
+			xmin = 500.81
+			xmax = 501.38
+			text = "planète"
+		intervals [1864]:
+			xmin = 501.38
+			xmax = 501.38
+			text = "[,]"
+		intervals [1865]:
+			xmin = 501.38
+			xmax = 501.49
+			text = ""
+		intervals [1866]:
+			xmin = 501.49
+			xmax = 501.89
+			text = "habitée"
+		intervals [1867]:
+			xmin = 501.9
+			xmax = 502.08
+			text = "par"
+		intervals [1868]:
+			xmin = 502.09
+			xmax = 502.21
+			text = "un"
+		intervals [1869]:
+			xmin = 502.22
+			xmax = 502.81
+			text = "paresseux"
+		intervals [1870]:
+			xmin = 502.81
+			xmax = 502.81
+			text = "[.]"
+		intervals [1871]:
+			xmin = 502.81
+			xmax = 503.34
+			text = ""
+		intervals [1872]:
+			xmin = 503.34
+			xmax = 503.52
+			text = "il"
+		intervals [1873]:
+			xmin = 503.53
+			xmax = 503.73
+			text = "avait"
+		intervals [1874]:
+			xmin = 503.74
+			xmax = 504.26
+			text = "négligé"
+		intervals [1875]:
+			xmin = 504.27
+			xmax = 504.73
+			text = "trois"
+		intervals [1876]:
+			xmin = 504.74
+			xmax = 505.31
+			text = "arbustes"
+		intervals [1877]:
+			xmin = 505.31
+			xmax = 505.31
+			text = "[.]"
+		intervals [1878]:
+			xmin = 505.31
+			xmax = 505.31
+			text = "[.]"
+		intervals [1879]:
+			xmin = 505.31
+			xmax = 505.31
+			text = "[.]"
+		intervals [1880]:
+			xmin = 505.31
+			xmax = 506.38
+			text = ""
+		intervals [1881]:
+			xmin = 506.38
+			xmax = 506.6
+			text = "et"
+		intervals [1882]:
+			xmin = 506.6
+			xmax = 506.6
+			text = "[,]"
+		intervals [1883]:
+			xmin = 506.6
+			xmax = 506.68
+			text = ""
+		intervals [1884]:
+			xmin = 506.68
+			xmax = 506.9
+			text = "sur"
+		intervals [1885]:
+			xmin = 506.91
+			xmax = 506.96
+			text = "les"
+		intervals [1886]:
+			xmin = 506.96
+			xmax = 507.07
+			text = ""
+		intervals [1887]:
+			xmin = 507.07
+			xmax = 507.68
+			text = "indications"
+		intervals [1888]:
+			xmin = 507.69
+			xmax = 507.82
+			text = "du"
+		intervals [1889]:
+			xmin = 507.83
+			xmax = 508.12
+			text = "petit"
+		intervals [1890]:
+			xmin = 508.13
+			xmax = 508.67
+			text = "prince"
+		intervals [1891]:
+			xmin = 508.67
+			xmax = 508.67
+			text = "[,]"
+		intervals [1892]:
+			xmin = 508.67
+			xmax = 508.99
+			text = ""
+		intervals [1893]:
+			xmin = 508.99
+			xmax = 509.14
+			text = "j'"
+		intervals [1894]:
+			xmin = 509.15
+			xmax = 509.23
+			text = "ai"
+		intervals [1895]:
+			xmin = 509.24
+			xmax = 509.86
+			text = "dessiné"
+		intervals [1896]:
+			xmin = 509.86
+			xmax = 509.91
+			text = ""
+		intervals [1897]:
+			xmin = 509.91
+			xmax = 510.2
+			text = "cette"
+		intervals [1898]:
+			xmin = 510.2
+			xmax = 510.24
+			text = ""
+		intervals [1899]:
+			xmin = 510.24
+			xmax = 510.68
+			text = "planète"
+		intervals [1900]:
+			xmin = 510.69
+			xmax = 510.92
+			text = "-là"
+		intervals [1901]:
+			xmin = 510.92
+			xmax = 510.92
+			text = "[.]"
+		intervals [1902]:
+			xmin = 510.92
+			xmax = 512.07
+			text = ""
+		intervals [1903]:
+			xmin = 512.07
+			xmax = 512.17
+			text = "je"
+		intervals [1904]:
+			xmin = 512.18
+			xmax = 512.2
+			text = "n'"
+		intervals [1905]:
+			xmin = 512.21
+			xmax = 512.4
+			text = "aime"
+		intervals [1906]:
+			xmin = 512.4
+			xmax = 512.45
+			text = ""
+		intervals [1907]:
+			xmin = 512.45
+			xmax = 512.71
+			text = "guère"
+		intervals [1908]:
+			xmin = 512.72
+			xmax = 513.06
+			text = "prendre"
+		intervals [1909]:
+			xmin = 513.07
+			xmax = 513.2
+			text = "le"
+		intervals [1910]:
+			xmin = 513.21
+			xmax = 513.39
+			text = "ton"
+		intervals [1911]:
+			xmin = 513.4
+			xmax = 513.44
+			text = "d'"
+		intervals [1912]:
+			xmin = 513.45
+			xmax = 513.52
+			text = "un"
+		intervals [1913]:
+			xmin = 513.53
+			xmax = 514.19
+			text = "moraliste"
+		intervals [1914]:
+			xmin = 514.19
+			xmax = 514.19
+			text = "[.]"
+		intervals [1915]:
+			xmin = 514.19
+			xmax = 514.76
+			text = ""
+		intervals [1916]:
+			xmin = 514.76
+			xmax = 514.99
+			text = "mais"
+		intervals [1917]:
+			xmin = 515.0
+			xmax = 515.03
+			text = "le"
+		intervals [1918]:
+			xmin = 515.04
+			xmax = 515.5
+			text = "danger"
+		intervals [1919]:
+			xmin = 515.51
+			xmax = 515.67
+			text = "des"
+		intervals [1920]:
+			xmin = 515.68
+			xmax = 516.1
+			text = "baobabs"
+		intervals [1921]:
+			xmin = 516.11
+			xmax = 516.2
+			text = "est"
+		intervals [1922]:
+			xmin = 516.21
+			xmax = 516.49
+			text = "si"
+		intervals [1923]:
+			xmin = 516.5
+			xmax = 516.7
+			text = "peu"
+		intervals [1924]:
+			xmin = 516.71
+			xmax = 517.13
+			text = "connu"
+		intervals [1925]:
+			xmin = 517.13
+			xmax = 517.13
+			text = "[,]"
+		intervals [1926]:
+			xmin = 517.13
+			xmax = 517.46
+			text = ""
+		intervals [1927]:
+			xmin = 517.46
+			xmax = 517.55
+			text = "et"
+		intervals [1928]:
+			xmin = 517.56
+			xmax = 517.7
+			text = "les"
+		intervals [1929]:
+			xmin = 517.71
+			xmax = 518.16
+			text = "risques"
+		intervals [1930]:
+			xmin = 518.17
+			xmax = 518.55
+			text = "courus"
+		intervals [1931]:
+			xmin = 518.56
+			xmax = 518.72
+			text = "par"
+		intervals [1932]:
+			xmin = 518.73
+			xmax = 519.09
+			text = "celui"
+		intervals [1933]:
+			xmin = 519.1
+			xmax = 519.23
+			text = "qui"
+		intervals [1934]:
+			xmin = 519.24
+			xmax = 519.35
+			text = "s'"
+		intervals [1935]:
+			xmin = 519.36
+			xmax = 519.88
+			text = "égarerait"
+		intervals [1936]:
+			xmin = 519.89
+			xmax = 520.1
+			text = "dans"
+		intervals [1937]:
+			xmin = 520.11
+			xmax = 520.23
+			text = "un"
+		intervals [1938]:
+			xmin = 520.24
+			xmax = 520.92
+			text = "astéroïde"
+		intervals [1939]:
+			xmin = 520.93
+			xmax = 521.14
+			text = "sont"
+		intervals [1940]:
+			xmin = 521.15
+			xmax = 521.4
+			text = "si"
+		intervals [1941]:
+			xmin = 521.41
+			xmax = 522.39
+			text = "considérables"
+		intervals [1942]:
+			xmin = 522.39
+			xmax = 522.39
+			text = "[,]"
+		intervals [1943]:
+			xmin = 522.39
+			xmax = 522.9
+			text = ""
+		intervals [1944]:
+			xmin = 522.9
+			xmax = 523.15
+			text = "que"
+		intervals [1945]:
+			xmin = 523.15
+			xmax = 523.15
+			text = "[,]"
+		intervals [1946]:
+			xmin = 523.15
+			xmax = 523.51
+			text = ""
+		intervals [1947]:
+			xmin = 523.51
+			xmax = 523.72
+			text = "pour"
+		intervals [1948]:
+			xmin = 523.73
+			xmax = 523.83
+			text = "une"
+		intervals [1949]:
+			xmin = 523.84
+			xmax = 524.17
+			text = "fois"
+		intervals [1950]:
+			xmin = 524.17
+			xmax = 524.17
+			text = "[,]"
+		intervals [1951]:
+			xmin = 524.17
+			xmax = 524.46
+			text = ""
+		intervals [1952]:
+			xmin = 524.46
+			xmax = 524.65
+			text = "je"
+		intervals [1953]:
+			xmin = 524.66
+			xmax = 524.94
+			text = "fais"
+		intervals [1954]:
+			xmin = 524.95
+			xmax = 525.42
+			text = "exception"
+		intervals [1955]:
+			xmin = 525.43
+			xmax = 525.48
+			text = "à"
+		intervals [1956]:
+			xmin = 525.49
+			xmax = 525.61
+			text = "ma"
+		intervals [1957]:
+			xmin = 525.62
+			xmax = 526.21
+			text = "réserve"
+		intervals [1958]:
+			xmin = 526.21
+			xmax = 526.21
+			text = "[.]"
+		intervals [1959]:
+			xmin = 526.21
+			xmax = 526.72
+			text = ""
+		intervals [1960]:
+			xmin = 526.72
+			xmax = 526.96
+			text = "je"
+		intervals [1961]:
+			xmin = 526.97
+			xmax = 527.23
+			text = "dis"
+		intervals [1962]:
+			xmin = 527.23
+			xmax = 527.23
+			text = "[:]"
+		intervals [1963]:
+			xmin = 527.23
+			xmax = 527.7
+			text = ""
+		intervals [1964]:
+			xmin = 527.7
+			xmax = 528.22
+			text = "enfants"
+		intervals [1965]:
+			xmin = 528.22
+			xmax = 528.22
+			text = "[!]"
+		intervals [1966]:
+			xmin = 528.22
+			xmax = 528.72
+			text = ""
+		intervals [1967]:
+			xmin = 528.72
+			xmax = 528.9
+			text = "faites"
+		intervals [1968]:
+			xmin = 528.9
+			xmax = 529.0
+			text = ""
+		intervals [1969]:
+			xmin = 529.0
+			xmax = 529.52
+			text = "attention"
+		intervals [1970]:
+			xmin = 529.53
+			xmax = 529.62
+			text = "aux"
+		intervals [1971]:
+			xmin = 529.63
+			xmax = 530.29
+			text = "baobabs"
+		intervals [1972]:
+			xmin = 530.29
+			xmax = 530.29
+			text = "[!]"
+		intervals [1973]:
+			xmin = 530.29
+			xmax = 531.44
+			text = ""
+		intervals [1974]:
+			xmin = 531.44
+			xmax = 531.56
+			text = "c'"
+		intervals [1975]:
+			xmin = 531.57
+			xmax = 531.67
+			text = "est"
+		intervals [1976]:
+			xmin = 531.68
+			xmax = 531.85
+			text = "pour"
+		intervals [1977]:
+			xmin = 531.86
+			xmax = 532.39
+			text = "avertir"
+		intervals [1978]:
+			xmin = 532.4
+			xmax = 532.63
+			text = "mes"
+		intervals [1979]:
+			xmin = 532.64
+			xmax = 532.92
+			text = "amis"
+		intervals [1980]:
+			xmin = 532.93
+			xmax = 532.98
+			text = "d'"
+		intervals [1981]:
+			xmin = 532.99
+			xmax = 533.1
+			text = "un"
+		intervals [1982]:
+			xmin = 533.11
+			xmax = 533.53
+			text = "danger"
+		intervals [1983]:
+			xmin = 533.54
+			xmax = 533.61
+			text = "qu'"
+		intervals [1984]:
+			xmin = 533.62
+			xmax = 533.69
+			text = "ils"
+		intervals [1985]:
+			xmin = 533.7
+			xmax = 534.07
+			text = "frôlaient"
+		intervals [1986]:
+			xmin = 534.08
+			xmax = 534.38
+			text = "depuis"
+		intervals [1987]:
+			xmin = 534.39
+			xmax = 534.87
+			text = "longtemps"
+		intervals [1988]:
+			xmin = 534.87
+			xmax = 534.87
+			text = "[,]"
+		intervals [1989]:
+			xmin = 534.87
+			xmax = 535.2
+			text = ""
+		intervals [1990]:
+			xmin = 535.2
+			xmax = 535.42
+			text = "comme"
+		intervals [1991]:
+			xmin = 535.43
+			xmax = 535.53
+			text = "moi"
+		intervals [1992]:
+			xmin = 535.54
+			xmax = 535.91
+			text = "-même"
+		intervals [1993]:
+			xmin = 535.91
+			xmax = 535.91
+			text = "[,]"
+		intervals [1994]:
+			xmin = 535.91
+			xmax = 536.21
+			text = ""
+		intervals [1995]:
+			xmin = 536.21
+			xmax = 536.49
+			text = "sans"
+		intervals [1996]:
+			xmin = 536.5
+			xmax = 536.62
+			text = "le"
+		intervals [1997]:
+			xmin = 536.63
+			xmax = 537.21
+			text = "connaître"
+		intervals [1998]:
+			xmin = 537.21
+			xmax = 537.21
+			text = "[,]"
+		intervals [1999]:
+			xmin = 537.21
+			xmax = 537.57
+			text = ""
+		intervals [2000]:
+			xmin = 537.57
+			xmax = 537.72
+			text = "que"
+		intervals [2001]:
+			xmin = 537.73
+			xmax = 537.82
+			text = "j'"
+		intervals [2002]:
+			xmin = 537.83
+			xmax = 538.03
+			text = "ai"
+		intervals [2003]:
+			xmin = 538.03
+			xmax = 538.14
+			text = ""
+		intervals [2004]:
+			xmin = 538.14
+			xmax = 538.37
+			text = "tant"
+		intervals [2005]:
+			xmin = 538.38
+			xmax = 538.93
+			text = "travaillé"
+		intervals [2006]:
+			xmin = 538.94
+			xmax = 539.1
+			text = "ce"
+		intervals [2007]:
+			xmin = 539.11
+			xmax = 539.47
+			text = "dessin"
+		intervals [2008]:
+			xmin = 539.48
+			xmax = 539.63
+			text = "-là"
+		intervals [2009]:
+			xmin = 539.63
+			xmax = 539.63
+			text = "[.]"
+		intervals [2010]:
+			xmin = 539.63
+			xmax = 540.4
+			text = ""
+		intervals [2011]:
+			xmin = 540.4
+			xmax = 540.57
+			text = "la"
+		intervals [2012]:
+			xmin = 540.58
+			xmax = 540.98
+			text = "leçon"
+		intervals [2013]:
+			xmin = 540.99
+			xmax = 541.11
+			text = "que"
+		intervals [2014]:
+			xmin = 541.12
+			xmax = 541.27
+			text = "je"
+		intervals [2015]:
+			xmin = 541.28
+			xmax = 541.67
+			text = "donnais"
+		intervals [2016]:
+			xmin = 541.67
+			xmax = 541.78
+			text = ""
+		intervals [2017]:
+			xmin = 541.78
+			xmax = 541.94
+			text = "en"
+		intervals [2018]:
+			xmin = 541.95
+			xmax = 542.26
+			text = "valait"
+		intervals [2019]:
+			xmin = 542.27
+			xmax = 542.38
+			text = "la"
+		intervals [2020]:
+			xmin = 542.39
+			xmax = 542.84
+			text = "peine"
+		intervals [2021]:
+			xmin = 542.84
+			xmax = 542.84
+			text = "[.]"
+		intervals [2022]:
+			xmin = 542.84
+			xmax = 543.56
+			text = ""
+		intervals [2023]:
+			xmin = 543.56
+			xmax = 543.73
+			text = "vous"
+		intervals [2024]:
+			xmin = 543.74
+			xmax = 543.87
+			text = "vous"
+		intervals [2025]:
+			xmin = 543.88
+			xmax = 544.42
+			text = "demanderez"
+		intervals [2026]:
+			xmin = 544.43
+			xmax = 544.62
+			text = "peut"
+		intervals [2027]:
+			xmin = 544.63
+			xmax = 545.0
+			text = "-être"
+		intervals [2028]:
+			xmin = 545.0
+			xmax = 545.0
+			text = "[:]"
+		intervals [2029]:
+			xmin = 545.0
+			xmax = 545.32
+			text = ""
+		intervals [2030]:
+			xmin = 545.32
+			xmax = 545.63
+			text = "pourquoi"
+		intervals [2031]:
+			xmin = 545.64
+			xmax = 545.71
+			text = "n'"
+		intervals [2032]:
+			xmin = 545.72
+			xmax = 545.81
+			text = "y"
+		intervals [2033]:
+			xmin = 545.82
+			xmax = 545.87
+			text = "a"
+		intervals [2034]:
+			xmin = 545.88
+			xmax = 545.99
+			text = "-t"
+		intervals [2035]:
+			xmin = 546.0
+			xmax = 546.12
+			text = "-il"
+		intervals [2036]:
+			xmin = 546.13
+			xmax = 546.35
+			text = "pas"
+		intervals [2037]:
+			xmin = 546.35
+			xmax = 546.35
+			text = "[,]"
+		intervals [2038]:
+			xmin = 546.35
+			xmax = 546.46
+			text = ""
+		intervals [2039]:
+			xmin = 546.46
+			xmax = 546.64
+			text = "dans"
+		intervals [2040]:
+			xmin = 546.65
+			xmax = 546.77
+			text = "ce"
+		intervals [2041]:
+			xmin = 546.78
+			xmax = 547.23
+			text = "livre"
+		intervals [2042]:
+			xmin = 547.23
+			xmax = 547.23
+			text = "[,]"
+		intervals [2043]:
+			xmin = 547.23
+			xmax = 547.51
+			text = ""
+		intervals [2044]:
+			xmin = 547.51
+			xmax = 547.7
+			text = "d'"
+		intervals [2045]:
+			xmin = 547.71
+			xmax = 547.97
+			text = "autres"
+		intervals [2046]:
+			xmin = 547.98
+			xmax = 548.36
+			text = "dessins"
+		intervals [2047]:
+			xmin = 548.36
+			xmax = 548.43
+			text = ""
+		intervals [2048]:
+			xmin = 548.43
+			xmax = 548.7
+			text = "aussi"
+		intervals [2049]:
+			xmin = 548.71
+			xmax = 549.46
+			text = "grandioses"
+		intervals [2050]:
+			xmin = 549.47
+			xmax = 549.58
+			text = "que"
+		intervals [2051]:
+			xmin = 549.59
+			xmax = 549.71
+			text = "le"
+		intervals [2052]:
+			xmin = 549.72
+			xmax = 550.1
+			text = "dessin"
+		intervals [2053]:
+			xmin = 550.11
+			xmax = 550.23
+			text = "des"
+		intervals [2054]:
+			xmin = 550.24
+			xmax = 550.81
+			text = "baobabs"
+		intervals [2055]:
+			xmin = 550.81
+			xmax = 550.81
+			text = "[?]"
+		intervals [2056]:
+			xmin = 550.81
+			xmax = 551.72
+			text = ""
+		intervals [2057]:
+			xmin = 551.72
+			xmax = 551.85
+			text = "la"
+		intervals [2058]:
+			xmin = 551.86
+			xmax = 552.3
+			text = "réponse"
+		intervals [2059]:
+			xmin = 552.31
+			xmax = 552.36
+			text = "est"
+		intervals [2060]:
+			xmin = 552.37
+			xmax = 552.55
+			text = "bien"
+		intervals [2061]:
+			xmin = 552.56
+			xmax = 553.07
+			text = "simple"
+		intervals [2062]:
+			xmin = 553.07
+			xmax = 553.07
+			text = "[:]"
+		intervals [2063]:
+			xmin = 553.07
+			xmax = 553.66
+			text = ""
+		intervals [2064]:
+			xmin = 553.66
+			xmax = 553.71
+			text = "j'"
+		intervals [2065]:
+			xmin = 553.72
+			xmax = 553.98
+			text = "ai"
+		intervals [2066]:
+			xmin = 553.99
+			xmax = 554.44
+			text = "essayé"
+		intervals [2067]:
+			xmin = 554.44
+			xmax = 554.66
+			text = ""
+		intervals [2068]:
+			xmin = 554.66
+			xmax = 554.79
+			text = "mais"
+		intervals [2069]:
+			xmin = 554.8
+			xmax = 554.9
+			text = "je"
+		intervals [2070]:
+			xmin = 554.91
+			xmax = 554.99
+			text = "n'"
+		intervals [2071]:
+			xmin = 555.0
+			xmax = 555.06
+			text = "ai"
+		intervals [2072]:
+			xmin = 555.07
+			xmax = 555.22
+			text = "pas"
+		intervals [2073]:
+			xmin = 555.23
+			xmax = 555.38
+			text = "pu"
+		intervals [2074]:
+			xmin = 555.39
+			xmax = 556.06
+			text = "réussir"
+		intervals [2075]:
+			xmin = 556.06
+			xmax = 556.06
+			text = "[.]"
+		intervals [2076]:
+			xmin = 556.06
+			xmax = 556.93
+			text = ""
+		intervals [2077]:
+			xmin = 556.93
+			xmax = 557.13
+			text = "quand"
+		intervals [2078]:
+			xmin = 557.14
+			xmax = 557.18
+			text = "j'"
+		intervals [2079]:
+			xmin = 557.19
+			xmax = 557.33
+			text = "ai"
+		intervals [2080]:
+			xmin = 557.34
+			xmax = 557.86
+			text = "dessiné"
+		intervals [2081]:
+			xmin = 557.87
+			xmax = 557.99
+			text = "les"
+		intervals [2082]:
+			xmin = 558.0
+			xmax = 558.56
+			text = "baobabs"
+		intervals [2083]:
+			xmin = 558.56
+			xmax = 559.0
+			text = ""
+		intervals [2084]:
+			xmin = 559.0
+			xmax = 559.14
+			text = "j'"
+		intervals [2085]:
+			xmin = 559.15
+			xmax = 559.39
+			text = "ai"
+		intervals [2086]:
+			xmin = 559.4
+			xmax = 559.63
+			text = "été"
+		intervals [2087]:
+			xmin = 559.63
+			xmax = 559.69
+			text = ""
+		intervals [2088]:
+			xmin = 559.69
+			xmax = 560.18
+			text = "animé"
+		intervals [2089]:
+			xmin = 560.19
+			xmax = 560.34
+			text = "par"
+		intervals [2090]:
+			xmin = 560.35
+			xmax = 560.45
+			text = "le"
+		intervals [2091]:
+			xmin = 560.46
+			xmax = 561.08
+			text = "sentiment"
+		intervals [2092]:
+			xmin = 561.09
+			xmax = 561.22
+			text = "de"
+		intervals [2093]:
+			xmin = 561.23
+			xmax = 561.25
+			text = "l'"
+		intervals [2094]:
+			xmin = 561.26
+			xmax = 562.02
+			text = "urgence"
+		intervals [2095]:
+			xmin = 562.02
+			xmax = 562.02
+			text = "[.]"
+		intervals [2096]:
+			xmin = 562.02
+			xmax = 565.07
+			text = ""
+		intervals [2097]:
+			xmin = 565.07
+			xmax = 565.18
+			text = "ah"
+		intervals [2098]:
+			xmin = 565.18
+			xmax = 565.18
+			text = "[!]"
+		intervals [2099]:
+			xmin = 565.18
+			xmax = 565.45
+			text = ""
+		intervals [2100]:
+			xmin = 565.45
+			xmax = 565.86
+			text = "petit"
+		intervals [2101]:
+			xmin = 565.87
+			xmax = 566.25
+			text = "prince"
+		intervals [2102]:
+			xmin = 566.25
+			xmax = 566.25
+			text = "[,]"
+		intervals [2103]:
+			xmin = 566.25
+			xmax = 566.68
+			text = ""
+		intervals [2104]:
+			xmin = 566.68
+			xmax = 566.8
+			text = "j'"
+		intervals [2105]:
+			xmin = 566.81
+			xmax = 566.89
+			text = "ai"
+		intervals [2106]:
+			xmin = 566.9
+			xmax = 567.41
+			text = "compris"
+		intervals [2107]:
+			xmin = 567.41
+			xmax = 567.41
+			text = "[,]"
+		intervals [2108]:
+			xmin = 567.41
+			xmax = 567.56
+			text = ""
+		intervals [2109]:
+			xmin = 567.56
+			xmax = 567.87
+			text = "peu"
+		intervals [2110]:
+			xmin = 567.88
+			xmax = 568.0
+			text = "à"
+		intervals [2111]:
+			xmin = 568.01
+			xmax = 568.32
+			text = "peu"
+		intervals [2112]:
+			xmin = 568.32
+			xmax = 568.32
+			text = "[,]"
+		intervals [2113]:
+			xmin = 568.32
+			xmax = 568.49
+			text = ""
+		intervals [2114]:
+			xmin = 568.49
+			xmax = 569.03
+			text = "ainsi"
+		intervals [2115]:
+			xmin = 569.03
+			xmax = 569.03
+			text = "[,]"
+		intervals [2116]:
+			xmin = 569.03
+			xmax = 569.4
+			text = ""
+		intervals [2117]:
+			xmin = 569.4
+			xmax = 569.62
+			text = "ta"
+		intervals [2118]:
+			xmin = 569.63
+			xmax = 570.0
+			text = "petite"
+		intervals [2119]:
+			xmin = 570.01
+			xmax = 570.3
+			text = "vie"
+		intervals [2120]:
+			xmin = 570.31
+			xmax = 571.1
+			text = "mélancolique"
+		intervals [2121]:
+			xmin = 571.1
+			xmax = 571.1
+			text = "[.]"
+		intervals [2122]:
+			xmin = 571.1
+			xmax = 571.87
+			text = ""
+		intervals [2123]:
+			xmin = 571.87
+			xmax = 572.02
+			text = "tu"
+		intervals [2124]:
+			xmin = 572.03
+			xmax = 572.08
+			text = "n'"
+		intervals [2125]:
+			xmin = 572.09
+			xmax = 572.52
+			text = "avais"
+		intervals [2126]:
+			xmin = 572.53
+			xmax = 572.55
+			text = "eu"
+		intervals [2127]:
+			xmin = 572.56
+			xmax = 573.15
+			text = "longtemps"
+		intervals [2128]:
+			xmin = 573.16
+			xmax = 573.3
+			text = "pour"
+		intervals [2129]:
+			xmin = 573.31
+			xmax = 574.04
+			text = "distraction"
+		intervals [2130]:
+			xmin = 574.04
+			xmax = 574.17
+			text = ""
+		intervals [2131]:
+			xmin = 574.17
+			xmax = 574.36
+			text = "que"
+		intervals [2132]:
+			xmin = 574.37
+			xmax = 574.52
+			text = "la"
+		intervals [2133]:
+			xmin = 574.53
+			xmax = 575.0
+			text = "douceur"
+		intervals [2134]:
+			xmin = 575.01
+			xmax = 575.13
+			text = "des"
+		intervals [2135]:
+			xmin = 575.14
+			xmax = 575.44
+			text = "couchers"
+		intervals [2136]:
+			xmin = 575.45
+			xmax = 575.55
+			text = "de"
+		intervals [2137]:
+			xmin = 575.56
+			xmax = 576.18
+			text = "soleil"
+		intervals [2138]:
+			xmin = 576.18
+			xmax = 576.18
+			text = "[.]"
+		intervals [2139]:
+			xmin = 576.18
+			xmax = 576.83
+			text = ""
+		intervals [2140]:
+			xmin = 576.83
+			xmax = 577.0
+			text = "j'"
+		intervals [2141]:
+			xmin = 577.01
+			xmax = 577.11
+			text = "ai"
+		intervals [2142]:
+			xmin = 577.12
+			xmax = 577.43
+			text = "appris"
+		intervals [2143]:
+			xmin = 577.44
+			xmax = 577.6
+			text = "ce"
+		intervals [2144]:
+			xmin = 577.61
+			xmax = 577.99
+			text = "détail"
+		intervals [2145]:
+			xmin = 578.0
+			xmax = 578.42
+			text = "nouveau"
+		intervals [2146]:
+			xmin = 578.42
+			xmax = 578.42
+			text = "[,]"
+		intervals [2147]:
+			xmin = 578.42
+			xmax = 578.69
+			text = ""
+		intervals [2148]:
+			xmin = 578.69
+			xmax = 578.78
+			text = "le"
+		intervals [2149]:
+			xmin = 578.79
+			xmax = 579.32
+			text = "quatrième"
+		intervals [2150]:
+			xmin = 579.33
+			xmax = 579.62
+			text = "jour"
+		intervals [2151]:
+			xmin = 579.63
+			xmax = 579.66
+			text = "au"
+		intervals [2152]:
+			xmin = 579.67
+			xmax = 580.11
+			text = "matin"
+		intervals [2153]:
+			xmin = 580.11
+			xmax = 580.11
+			text = "[,]"
+		intervals [2154]:
+			xmin = 580.11
+			xmax = 580.45
+			text = ""
+		intervals [2155]:
+			xmin = 580.45
+			xmax = 580.61
+			text = "quand"
+		intervals [2156]:
+			xmin = 580.61
+			xmax = 580.66
+			text = ""
+		intervals [2157]:
+			xmin = 580.66
+			xmax = 580.74
+			text = "tu"
+		intervals [2158]:
+			xmin = 580.75
+			xmax = 580.83
+			text = "m'"
+		intervals [2159]:
+			xmin = 580.84
+			xmax = 580.93
+			text = "as"
+		intervals [2160]:
+			xmin = 580.94
+			xmax = 581.22
+			text = "dit"
+		intervals [2161]:
+			xmin = 581.22
+			xmax = 581.22
+			text = "[:]"
+		intervals [2162]:
+			xmin = 581.22
+			xmax = 581.96
+			text = ""
+		intervals [2163]:
+			xmin = 581.96
+			xmax = 582.11
+			text = "j'"
+		intervals [2164]:
+			xmin = 582.12
+			xmax = 582.23
+			text = "aime"
+		intervals [2165]:
+			xmin = 582.24
+			xmax = 582.43
+			text = "bien"
+		intervals [2166]:
+			xmin = 582.44
+			xmax = 582.54
+			text = "les"
+		intervals [2167]:
+			xmin = 582.55
+			xmax = 582.88
+			text = "couchers"
+		intervals [2168]:
+			xmin = 582.89
+			xmax = 582.99
+			text = "de"
+		intervals [2169]:
+			xmin = 583.0
+			xmax = 583.53
+			text = "soleil"
+		intervals [2170]:
+			xmin = 583.53
+			xmax = 583.53
+			text = "[.]"
+		intervals [2171]:
+			xmin = 583.53
+			xmax = 583.91
+			text = ""
+		intervals [2172]:
+			xmin = 583.91
+			xmax = 584.15
+			text = "allons"
+		intervals [2173]:
+			xmin = 584.16
+			xmax = 584.31
+			text = "voir"
+		intervals [2174]:
+			xmin = 584.32
+			xmax = 584.42
+			text = "un"
+		intervals [2175]:
+			xmin = 584.43
+			xmax = 584.72
+			text = "coucher"
+		intervals [2176]:
+			xmin = 584.73
+			xmax = 584.81
+			text = "de"
+		intervals [2177]:
+			xmin = 584.82
+			xmax = 585.34
+			text = "soleil"
+		intervals [2178]:
+			xmin = 585.34
+			xmax = 585.34
+			text = "[.]"
+		intervals [2179]:
+			xmin = 585.34
+			xmax = 585.34
+			text = "[.]"
+		intervals [2180]:
+			xmin = 585.34
+			xmax = 585.34
+			text = "[.]"
+		intervals [2181]:
+			xmin = 585.34
+			xmax = 585.34
+			text = "[[-]]"
+		intervals [2182]:
+			xmin = 585.34
+			xmax = 586.28
+			text = ""
+		intervals [2183]:
+			xmin = 586.28
+			xmax = 586.55
+			text = "mais"
+		intervals [2184]:
+			xmin = 586.56
+			xmax = 586.61
+			text = "il"
+		intervals [2185]:
+			xmin = 586.62
+			xmax = 586.84
+			text = "faut"
+		intervals [2186]:
+			xmin = 586.85
+			xmax = 587.33
+			text = "attendre"
+		intervals [2187]:
+			xmin = 587.33
+			xmax = 587.33
+			text = "[.]"
+		intervals [2188]:
+			xmin = 587.33
+			xmax = 587.33
+			text = "[.]"
+		intervals [2189]:
+			xmin = 587.33
+			xmax = 587.33
+			text = "[.]"
+		intervals [2190]:
+			xmin = 587.33
+			xmax = 587.33
+			text = "[[-]]"
+		intervals [2191]:
+			xmin = 587.33
+			xmax = 588.08
+			text = ""
+		intervals [2192]:
+			xmin = 588.08
+			xmax = 588.53
+			text = "attendre"
+		intervals [2193]:
+			xmin = 588.54
+			xmax = 588.79
+			text = "quoi"
+		intervals [2194]:
+			xmin = 588.79
+			xmax = 588.79
+			text = "[?]"
+		intervals [2195]:
+			xmin = 588.79
+			xmax = 588.79
+			text = "[[-]]"
+		intervals [2196]:
+			xmin = 588.79
+			xmax = 589.55
+			text = ""
+		intervals [2197]:
+			xmin = 589.55
+			xmax = 589.96
+			text = "attendre"
+		intervals [2198]:
+			xmin = 589.97
+			xmax = 590.05
+			text = "que"
+		intervals [2199]:
+			xmin = 590.06
+			xmax = 590.14
+			text = "le"
+		intervals [2200]:
+			xmin = 590.15
+			xmax = 590.48
+			text = "soleil"
+		intervals [2201]:
+			xmin = 590.49
+			xmax = 590.63
+			text = "se"
+		intervals [2202]:
+			xmin = 590.64
+			xmax = 591.11
+			text = "couche"
+		intervals [2203]:
+			xmin = 591.11
+			xmax = 591.11
+			text = "[.]"
+		intervals [2204]:
+			xmin = 591.11
+			xmax = 592.04
+			text = ""
+		intervals [2205]:
+			xmin = 592.04
+			xmax = 592.22
+			text = "tu"
+		intervals [2206]:
+			xmin = 592.23
+			xmax = 592.49
+			text = "as"
+		intervals [2207]:
+			xmin = 592.5
+			xmax = 592.52
+			text = "eu"
+		intervals [2208]:
+			xmin = 592.53
+			xmax = 592.55
+			text = "l'"
+		intervals [2209]:
+			xmin = 592.55
+			xmax = 592.68
+			text = ""
+		intervals [2210]:
+			xmin = 592.68
+			xmax = 592.8
+			text = "air"
+		intervals [2211]:
+			xmin = 592.81
+			xmax = 593.13
+			text = "très"
+		intervals [2212]:
+			xmin = 593.14
+			xmax = 593.61
+			text = "surpris"
+		intervals [2213]:
+			xmin = 593.62
+			xmax = 593.66
+			text = "d'"
+		intervals [2214]:
+			xmin = 593.67
+			xmax = 594.12
+			text = "abord"
+		intervals [2215]:
+			xmin = 594.12
+			xmax = 594.12
+			text = "[,]"
+		intervals [2216]:
+			xmin = 594.12
+			xmax = 594.52
+			text = ""
+		intervals [2217]:
+			xmin = 594.52
+			xmax = 594.61
+			text = "et"
+		intervals [2218]:
+			xmin = 594.62
+			xmax = 594.83
+			text = "puis"
+		intervals [2219]:
+			xmin = 594.84
+			xmax = 595.01
+			text = "tu"
+		intervals [2220]:
+			xmin = 595.02
+			xmax = 595.11
+			text = "as"
+		intervals [2221]:
+			xmin = 595.12
+			xmax = 595.32
+			text = "ri"
+		intervals [2222]:
+			xmin = 595.33
+			xmax = 595.43
+			text = "de"
+		intervals [2223]:
+			xmin = 595.44
+			xmax = 595.65
+			text = "toi"
+		intervals [2224]:
+			xmin = 595.66
+			xmax = 596.01
+			text = "-même"
+		intervals [2225]:
+			xmin = 596.01
+			xmax = 596.01
+			text = "[.]"
+		intervals [2226]:
+			xmin = 596.01
+			xmax = 596.72
+			text = ""
+		intervals [2227]:
+			xmin = 596.72
+			xmax = 596.79
+			text = "et"
+		intervals [2228]:
+			xmin = 596.8
+			xmax = 596.92
+			text = "tu"
+		intervals [2229]:
+			xmin = 596.93
+			xmax = 597.0
+			text = "m'"
+		intervals [2230]:
+			xmin = 597.01
+			xmax = 597.06
+			text = "as"
+		intervals [2231]:
+			xmin = 597.07
+			xmax = 597.36
+			text = "dit"
+		intervals [2232]:
+			xmin = 597.36
+			xmax = 597.36
+			text = "[:]"
+		intervals [2233]:
+			xmin = 597.36
+			xmax = 597.73
+			text = ""
+		intervals [2234]:
+			xmin = 597.73
+			xmax = 597.93
+			text = "je"
+		intervals [2235]:
+			xmin = 597.94
+			xmax = 598.06
+			text = "me"
+		intervals [2236]:
+			xmin = 598.07
+			xmax = 598.3
+			text = "crois"
+		intervals [2237]:
+			xmin = 598.31
+			xmax = 598.61
+			text = "toujours"
+		intervals [2238]:
+			xmin = 598.62
+			xmax = 598.83
+			text = "chez"
+		intervals [2239]:
+			xmin = 598.84
+			xmax = 599.04
+			text = "moi"
+		intervals [2240]:
+			xmin = 599.04
+			xmax = 599.04
+			text = "[!]"
+		intervals [2241]:
+			xmin = 599.04
+			xmax = 600.11
+			text = ""
+		intervals [2242]:
+			xmin = 600.11
+			xmax = 600.25
+			text = "en"
+		intervals [2243]:
+			xmin = 600.25
+			xmax = 600.31
+			text = ""
+		intervals [2244]:
+			xmin = 600.31
+			xmax = 600.64
+			text = "effet"
+		intervals [2245]:
+			xmin = 600.64
+			xmax = 600.64
+			text = "[.]"
+		intervals [2246]:
+			xmin = 600.64
+			xmax = 601.03
+			text = ""
+		intervals [2247]:
+			xmin = 601.03
+			xmax = 601.28
+			text = "quand"
+		intervals [2248]:
+			xmin = 601.29
+			xmax = 601.42
+			text = "il"
+		intervals [2249]:
+			xmin = 601.43
+			xmax = 601.53
+			text = "est"
+		intervals [2250]:
+			xmin = 601.54
+			xmax = 601.92
+			text = "midi"
+		intervals [2251]:
+			xmin = 601.93
+			xmax = 601.99
+			text = "aux"
+		intervals [2252]:
+			xmin = 602.0
+			xmax = 602.38
+			text = "états"
+		intervals [2253]:
+			xmin = 602.39
+			xmax = 602.67
+			text = "-unis"
+		intervals [2254]:
+			xmin = 602.67
+			xmax = 602.67
+			text = "[,]"
+		intervals [2255]:
+			xmin = 602.67
+			xmax = 603.09
+			text = ""
+		intervals [2256]:
+			xmin = 603.09
+			xmax = 603.19
+			text = "le"
+		intervals [2257]:
+			xmin = 603.2
+			xmax = 603.75
+			text = "soleil"
+		intervals [2258]:
+			xmin = 603.75
+			xmax = 603.75
+			text = "[,]"
+		intervals [2259]:
+			xmin = 603.76
+			xmax = 603.98
+			text = "tout"
+		intervals [2260]:
+			xmin = 603.99
+			xmax = 604.09
+			text = "le"
+		intervals [2261]:
+			xmin = 604.1
+			xmax = 604.36
+			text = "monde"
+		intervals [2262]:
+			xmin = 604.37
+			xmax = 604.47
+			text = "le"
+		intervals [2263]:
+			xmin = 604.48
+			xmax = 604.78
+			text = "sait"
+		intervals [2264]:
+			xmin = 604.78
+			xmax = 604.78
+			text = "[,]"
+		intervals [2265]:
+			xmin = 604.78
+			xmax = 605.07
+			text = ""
+		intervals [2266]:
+			xmin = 605.07
+			xmax = 605.29
+			text = "se"
+		intervals [2267]:
+			xmin = 605.3
+			xmax = 605.57
+			text = "couche"
+		intervals [2268]:
+			xmin = 605.58
+			xmax = 605.74
+			text = "sur"
+		intervals [2269]:
+			xmin = 605.75
+			xmax = 605.87
+			text = "la"
+		intervals [2270]:
+			xmin = 605.88
+			xmax = 606.45
+			text = "france"
+		intervals [2271]:
+			xmin = 606.45
+			xmax = 606.45
+			text = "[.]"
+		intervals [2272]:
+			xmin = 606.45
+			xmax = 607.06
+			text = ""
+		intervals [2273]:
+			xmin = 607.06
+			xmax = 607.22
+			text = "il"
+		intervals [2274]:
+			xmin = 607.23
+			xmax = 607.73
+			text = "suffirait"
+		intervals [2275]:
+			xmin = 607.74
+			xmax = 607.87
+			text = "de"
+		intervals [2276]:
+			xmin = 607.88
+			xmax = 608.3
+			text = "pouvoir"
+		intervals [2277]:
+			xmin = 608.31
+			xmax = 608.62
+			text = "aller"
+		intervals [2278]:
+			xmin = 608.63
+			xmax = 608.72
+			text = "en"
+		intervals [2279]:
+			xmin = 608.73
+			xmax = 609.22
+			text = "france"
+		intervals [2280]:
+			xmin = 609.23
+			xmax = 609.46
+			text = "en"
+		intervals [2281]:
+			xmin = 609.46
+			xmax = 609.52
+			text = ""
+		intervals [2282]:
+			xmin = 609.52
+			xmax = 609.7
+			text = "une"
+		intervals [2283]:
+			xmin = 609.71
+			xmax = 610.21
+			text = "minute"
+		intervals [2284]:
+			xmin = 610.21
+			xmax = 610.33
+			text = ""
+		intervals [2285]:
+			xmin = 610.33
+			xmax = 610.52
+			text = "pour"
+		intervals [2286]:
+			xmin = 610.53
+			xmax = 611.04
+			text = "assister"
+		intervals [2287]:
+			xmin = 611.05
+			xmax = 611.14
+			text = "au"
+		intervals [2288]:
+			xmin = 611.15
+			xmax = 611.41
+			text = "coucher"
+		intervals [2289]:
+			xmin = 611.42
+			xmax = 611.48
+			text = "du"
+		intervals [2290]:
+			xmin = 611.49
+			xmax = 612.05
+			text = "soleil"
+		intervals [2291]:
+			xmin = 612.05
+			xmax = 612.05
+			text = "[.]"
+		intervals [2292]:
+			xmin = 612.05
+			xmax = 612.74
+			text = ""
+		intervals [2293]:
+			xmin = 612.74
+			xmax = 613.55
+			text = "malheureusement"
+		intervals [2294]:
+			xmin = 613.55
+			xmax = 613.76
+			text = ""
+		intervals [2295]:
+			xmin = 613.76
+			xmax = 613.97
+			text = "la"
+		intervals [2296]:
+			xmin = 613.98
+			xmax = 614.39
+			text = "france"
+		intervals [2297]:
+			xmin = 614.4
+			xmax = 614.59
+			text = "est"
+		intervals [2298]:
+			xmin = 614.6
+			xmax = 615.01
+			text = "bien"
+		intervals [2299]:
+			xmin = 615.02
+			xmax = 615.23
+			text = "trop"
+		intervals [2300]:
+			xmin = 615.23
+			xmax = 615.29
+			text = ""
+		intervals [2301]:
+			xmin = 615.29
+			xmax = 615.86
+			text = "éloignée"
+		intervals [2302]:
+			xmin = 615.86
+			xmax = 615.86
+			text = "[.]"
+		intervals [2303]:
+			xmin = 615.86
+			xmax = 616.72
+			text = ""
+		intervals [2304]:
+			xmin = 616.72
+			xmax = 617.06
+			text = "mais"
+		intervals [2305]:
+			xmin = 617.06
+			xmax = 617.06
+			text = "[,]"
+		intervals [2306]:
+			xmin = 617.06
+			xmax = 617.27
+			text = ""
+		intervals [2307]:
+			xmin = 617.27
+			xmax = 617.54
+			text = "sur"
+		intervals [2308]:
+			xmin = 617.55
+			xmax = 617.74
+			text = "ta"
+		intervals [2309]:
+			xmin = 617.74
+			xmax = 617.86
+			text = ""
+		intervals [2310]:
+			xmin = 617.86
+			xmax = 617.99
+			text = "si"
+		intervals [2311]:
+			xmin = 618.0
+			xmax = 618.34
+			text = "petite"
+		intervals [2312]:
+			xmin = 618.35
+			xmax = 618.96
+			text = "planète"
+		intervals [2313]:
+			xmin = 618.96
+			xmax = 618.96
+			text = "[,]"
+		intervals [2314]:
+			xmin = 618.96
+			xmax = 619.1
+			text = ""
+		intervals [2315]:
+			xmin = 619.1
+			xmax = 619.28
+			text = "il"
+		intervals [2316]:
+			xmin = 619.29
+			xmax = 619.44
+			text = "te"
+		intervals [2317]:
+			xmin = 619.45
+			xmax = 620.01
+			text = "suffisait"
+		intervals [2318]:
+			xmin = 620.02
+			xmax = 620.16
+			text = "de"
+		intervals [2319]:
+			xmin = 620.17
+			xmax = 620.54
+			text = "tirer"
+		intervals [2320]:
+			xmin = 620.55
+			xmax = 620.7
+			text = "ta"
+		intervals [2321]:
+			xmin = 620.71
+			xmax = 621.07
+			text = "chaise"
+		intervals [2322]:
+			xmin = 621.08
+			xmax = 621.2
+			text = "de"
+		intervals [2323]:
+			xmin = 621.21
+			xmax = 621.73
+			text = "quelques"
+		intervals [2324]:
+			xmin = 621.74
+			xmax = 621.91
+			text = "pas"
+		intervals [2325]:
+			xmin = 621.91
+			xmax = 621.91
+			text = "[.]"
+		intervals [2326]:
+			xmin = 621.91
+			xmax = 622.78
+			text = ""
+		intervals [2327]:
+			xmin = 622.78
+			xmax = 622.88
+			text = "et"
+		intervals [2328]:
+			xmin = 622.89
+			xmax = 623.03
+			text = "tu"
+		intervals [2329]:
+			xmin = 623.04
+			xmax = 623.62
+			text = "regardais"
+		intervals [2330]:
+			xmin = 623.63
+			xmax = 623.65
+			text = "le"
+		intervals [2331]:
+			xmin = 623.66
+			xmax = 624.36
+			text = "crépuscule"
+		intervals [2332]:
+			xmin = 624.37
+			xmax = 624.78
+			text = "chaque"
+		intervals [2333]:
+			xmin = 624.79
+			xmax = 625.06
+			text = "fois"
+		intervals [2334]:
+			xmin = 625.07
+			xmax = 625.2
+			text = "que"
+		intervals [2335]:
+			xmin = 625.21
+			xmax = 625.34
+			text = "tu"
+		intervals [2336]:
+			xmin = 625.35
+			xmax = 625.46
+			text = "le"
+		intervals [2337]:
+			xmin = 625.47
+			xmax = 625.99
+			text = "désirais"
+		intervals [2338]:
+			xmin = 625.99
+			xmax = 625.99
+			text = "[.]"
+		intervals [2339]:
+			xmin = 625.99
+			xmax = 625.99
+			text = "[.]"
+		intervals [2340]:
+			xmin = 625.99
+			xmax = 625.99
+			text = "[.]"
+		intervals [2341]:
+			xmin = 625.99
+			xmax = 627.03
+			text = ""
+		intervals [2342]:
+			xmin = 627.03
+			xmax = 627.21
+			text = "un"
+		intervals [2343]:
+			xmin = 627.22
+			xmax = 627.59
+			text = "jour"
+		intervals [2344]:
+			xmin = 627.59
+			xmax = 627.59
+			text = "[,]"
+		intervals [2345]:
+			xmin = 627.6
+			xmax = 627.68
+			text = "j'"
+		intervals [2346]:
+			xmin = 627.69
+			xmax = 627.78
+			text = "ai"
+		intervals [2347]:
+			xmin = 627.79
+			xmax = 627.9
+			text = "vu"
+		intervals [2348]:
+			xmin = 627.91
+			xmax = 627.99
+			text = "le"
+		intervals [2349]:
+			xmin = 628.0
+			xmax = 628.39
+			text = "soleil"
+		intervals [2350]:
+			xmin = 628.4
+			xmax = 628.56
+			text = "se"
+		intervals [2351]:
+			xmin = 628.57
+			xmax = 628.98
+			text = "coucher"
+		intervals [2352]:
+			xmin = 628.99
+			xmax = 629.52
+			text = "quarante"
+		intervals [2353]:
+			xmin = 629.53
+			xmax = 629.84
+			text = "-quatre"
+		intervals [2354]:
+			xmin = 629.85
+			xmax = 630.15
+			text = "fois"
+		intervals [2355]:
+			xmin = 630.15
+			xmax = 630.15
+			text = "[!]"
+		intervals [2356]:
+			xmin = 630.15
+			xmax = 631.14
+			text = ""
+		intervals [2357]:
+			xmin = 631.14
+			xmax = 631.19
+			text = "et"
+		intervals [2358]:
+			xmin = 631.2
+			xmax = 631.37
+			text = "un"
+		intervals [2359]:
+			xmin = 631.38
+			xmax = 631.5
+			text = "peu"
+		intervals [2360]:
+			xmin = 631.51
+			xmax = 631.66
+			text = "plus"
+		intervals [2361]:
+			xmin = 631.67
+			xmax = 631.98
+			text = "tard"
+		intervals [2362]:
+			xmin = 631.99
+			xmax = 632.16
+			text = "tu"
+		intervals [2363]:
+			xmin = 632.17
+			xmax = 632.68
+			text = "ajoutais"
+		intervals [2364]:
+			xmin = 632.68
+			xmax = 632.68
+			text = "[:]"
+		intervals [2365]:
+			xmin = 632.68
+			xmax = 633.57
+			text = ""
+		intervals [2366]:
+			xmin = 633.57
+			xmax = 633.7
+			text = "tu"
+		intervals [2367]:
+			xmin = 633.71
+			xmax = 634.14
+			text = "sais"
+		intervals [2368]:
+			xmin = 634.14
+			xmax = 634.14
+			text = "[.]"
+		intervals [2369]:
+			xmin = 634.14
+			xmax = 634.14
+			text = "[.]"
+		intervals [2370]:
+			xmin = 634.14
+			xmax = 634.14
+			text = "[.]"
+		intervals [2371]:
+			xmin = 634.15
+			xmax = 634.47
+			text = "quand"
+		intervals [2372]:
+			xmin = 634.48
+			xmax = 634.55
+			text = "on"
+		intervals [2373]:
+			xmin = 634.56
+			xmax = 634.65
+			text = "est"
+		intervals [2374]:
+			xmin = 634.66
+			xmax = 635.0
+			text = "tellement"
+		intervals [2375]:
+			xmin = 635.01
+			xmax = 635.54
+			text = "triste"
+		intervals [2376]:
+			xmin = 635.54
+			xmax = 635.73
+			text = ""
+		intervals [2377]:
+			xmin = 635.73
+			xmax = 635.97
+			text = "on"
+		intervals [2378]:
+			xmin = 635.98
+			xmax = 636.2
+			text = "aime"
+		intervals [2379]:
+			xmin = 636.21
+			xmax = 636.32
+			text = "les"
+		intervals [2380]:
+			xmin = 636.33
+			xmax = 636.64
+			text = "couchers"
+		intervals [2381]:
+			xmin = 636.65
+			xmax = 636.74
+			text = "de"
+		intervals [2382]:
+			xmin = 636.75
+			xmax = 637.31
+			text = "soleil"
+		intervals [2383]:
+			xmin = 637.31
+			xmax = 637.31
+			text = "[.]"
+		intervals [2384]:
+			xmin = 637.31
+			xmax = 637.31
+			text = "[.]"
+		intervals [2385]:
+			xmin = 637.31
+			xmax = 637.31
+			text = "[.]"
+		intervals [2386]:
+			xmin = 637.31
+			xmax = 637.31
+			text = "[[-]]"
+		intervals [2387]:
+			xmin = 637.31
+			xmax = 638.35
+			text = ""
+		intervals [2388]:
+			xmin = 638.35
+			xmax = 638.5
+			text = "le"
+		intervals [2389]:
+			xmin = 638.5
+			xmax = 638.54
+			text = ""
+		intervals [2390]:
+			xmin = 638.54
+			xmax = 638.82
+			text = "jour"
+		intervals [2391]:
+			xmin = 638.83
+			xmax = 638.94
+			text = "des"
+		intervals [2392]:
+			xmin = 638.95
+			xmax = 639.26
+			text = "quarante"
+		intervals [2393]:
+			xmin = 639.27
+			xmax = 639.54
+			text = "-quatre"
+		intervals [2394]:
+			xmin = 639.55
+			xmax = 639.82
+			text = "fois"
+		intervals [2395]:
+			xmin = 639.82
+			xmax = 639.82
+			text = "[,]"
+		intervals [2396]:
+			xmin = 639.83
+			xmax = 639.97
+			text = "tu"
+		intervals [2397]:
+			xmin = 639.98
+			xmax = 640.14
+			text = "étais"
+		intervals [2398]:
+			xmin = 640.15
+			xmax = 640.41
+			text = "donc"
+		intervals [2399]:
+			xmin = 640.42
+			xmax = 640.8
+			text = "tellement"
+		intervals [2400]:
+			xmin = 640.81
+			xmax = 641.34
+			text = "triste"
+		intervals [2401]:
+			xmin = 641.34
+			xmax = 641.34
+			text = "[?]"
+		intervals [2402]:
+			xmin = 641.34
+			xmax = 642.1
+			text = ""
+		intervals [2403]:
+			xmin = 642.1
+			xmax = 642.41
+			text = "mais"
+		intervals [2404]:
+			xmin = 642.42
+			xmax = 642.45
+			text = "le"
+		intervals [2405]:
+			xmin = 642.46
+			xmax = 642.7
+			text = "petit"
+		intervals [2406]:
+			xmin = 642.71
+			xmax = 643.13
+			text = "prince"
+		intervals [2407]:
+			xmin = 643.14
+			xmax = 643.23
+			text = "ne"
+		intervals [2408]:
+			xmin = 643.24
+			xmax = 643.75
+			text = "répondit"
+		intervals [2409]:
+			xmin = 643.76
+			xmax = 643.92
+			text = "pas"
+		intervals [2410]:
+			xmin = 643.92
+			xmax = 643.92
+			text = "[.]"
+		intervals [2411]:
+			xmin = 643.92
+			xmax = 647.05
+			text = ""
