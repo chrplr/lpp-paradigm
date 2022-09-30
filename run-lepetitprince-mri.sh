@@ -35,23 +35,23 @@ do
   resp=$(cat $tempfile)
 
   case $resp in
-      1) python lepp_mri.py 'wav/ch1-3.wav'
+      1) python lepp_mri.py 'stimuli/ch1-3.wav'
          dialog --msgbox "evince -s -p 4  ${QUEST}" 6 32 ;;
-      2) python lepp_mri.py 'wav/ch4-6.wav'
+      2) python lepp_mri.py 'stimuli/ch4-6.wav'
          dialog --msgbox "evince -s -p 11  ${QUEST}" 6 32 ;;
-      3) python lepp_mri.py 'wav/ch7-9.wav'
+      3) python lepp_mri.py 'stimuli/ch7-9.wav'
          dialog --msgbox "evince -s -p 18  ${QUEST}" 6 32 ;;
-      4) python lepp_mri.py 'wav/ch10-12.wav'
+      4) python lepp_mri.py 'stimuli/ch10-12.wav'
          dialog --msgbox "evince -s -p 25 ${QUEST}" 6 32 ;;
-      5) python lepp_mri.py 'wav/ch13-14.wav'
+      5) python lepp_mri.py 'stimuli/ch13-14.wav'
          dialog --msgbox "evince -s -p 31 ${QUEST}" 6 32 ;;
-      6) python lepp_mri.py 'wav/ch15-19.wav'
+      6) python lepp_mri.py 'stimuli/ch15-19.wav'
          dialog --msgbox "evince -s -p 38 ${QUEST}" 6 32 ;;
-      7) python lepp_mri.py 'wav/ch20-22.wav'
+      7) python lepp_mri.py 'stimuli/ch20-22.wav'
          dialog --msgbox "evince -s -p 45 ${QUEST}" 6 32 ;;
-      8) python lepp_mri.py 'wav/ch23-25.wav'
+      8) python lepp_mri.py 'stimuli/ch23-25.wav'
          dialog --msgbox "evince -s -p 52  ${QUEST}" 6 32 ;;
-      9) python lepp_mri.py 'wav/ch26-27.wav'
+      9) python lepp_mri.py 'stimuli/ch26-27.wav'
          dialog --msgbox "evince -s -p 59  ${QUEST}" 6 32 ;;
       10) (cd localizer; python localizer-speech.py list.csv; cd ..) ;;
       Quit) echo "Finito!" ;;
