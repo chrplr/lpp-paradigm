@@ -6,8 +6,15 @@ from expyriment import design, control, stimuli, io, misc
 
 import meg_triggers
 
-#AUDIO = 'wav/ch23-25.wav'
-AUDIO = 'wav/8_ch23-25_clicks.wav'# 'wav/ch23-25.wav'
+import sys
+
+#AUDIO = 'wav/ch1-3.wav'
+
+run = int(sys.argv[1])
+
+AUDIO = f'wav/{run}_ch{(run*3)-2}-{3*run}_clicks.wav'##'wav/ch1-3.wav'
+
+
 exp = design.Experiment(name="Le_Petit_Prince")
 
 control.set_develop_mode(False)

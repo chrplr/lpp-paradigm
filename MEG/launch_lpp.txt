@@ -1,2 +1,2 @@
 cd C:\Users\meg\Desktop\Petit_Prince\stimulation
-python lepp1_meg.py
+python lepp_meg.py {the desired run number}
