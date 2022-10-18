@@ -1,53 +1,63 @@
-from ctypes import windll
+# Handling three cases:
+# Linux OS
+# Windows
+# MAC OS X
 
-p = windll.inpout32
-p.Inp32(0x378)
-p.Out32(0x378, 255)
+import os
+import sys
+import serial
+import time
 
-#lib = ctypes.WinDLL('inpoutx64.dll')
-#outp = lib['Out32'] 
-#inp = lib['Inp32'] 
+os_ = sys.platform
 
-address = 888 #LPT1
-#value = 255 #raise all pins
-#outp(address, value)
+if os_.startswith('linux'):
 
-#address = 899 #LPT2
-#inp(address) #read value
+    from expyriment import io
+    p1 = io.ParallelPort('/dev/paraport1')
 
-p.Out32(address, 0)
-#trig_port.send(0)
+    def send_start_code(p1): p1.send(1)
 
-def send_start():
-	p.Out32(address,1)
+    def send_stop_code(p1): p1.send(0)
 
-def send_stop():
-	p.Out32(address,0)
+    def meg_trigger_close(): p1.close()
 
-#import serial
-# os = sys.platform
-# if os.startswith('linux'):
-#     outport = serial.Serial("/dev/ttyACM0", baudrate=9600, timeout=3.0)
-# elif os.startswith('win'):
-#     outport = serial.Serial(0, baudrate=9600, timeout=3.0)
-# elif os.startswith('darwin'):  # Mac OS X
-#     outport = serial.Serial(0, baudrate=9600, timeout=3.0)
-# else:
-#     print("Unknown os " + os)
+elif os_.startswith('win'):
 
-# outport.write('(000;000)')
+    from ctypes import windll
 
+    p = windll.inpout32
+    p.Inp32(0x378)
+    p.Out32(0x378, 255)
 
-# def send_start_code():
-#     outport.write('(000;007)')
+    # lib = ctypes.WinDLL('inpoutx64.dll')
+    # outp = lib['Out32']
+    # inp = lib['Inp32']
 
+    address = 888  # LPT1
+    # value = 255 #raise all pins
+    # outp(address, value)
 
-# def send_stop_code():
-#     outport.write('000;031')
+    # address = 899 #LPT2
+    # inp(address) #read value
 
+    p.Out32(address, 0)
+    # trig_port.send(0)
 
-# def meg_trigger_close():
-#     outport.close()
+    def send_start():
+        p.Out32(address, 1)
+
+    def send_stop():
+        p.Out32(address, 0)
+
+    outport = serial.Serial(0, baudrate=9600, timeout=3.0)
+
+elif os.startswith('darwin'):  # Mac OS X
+
+    outport = serial.Serial(0, baudrate=9600, timeout=3.0)
+
+else:
+
+    print("Unknown os " + os)
 
 
 def meg_trigger_test():
@@ -60,7 +70,3 @@ def meg_trigger_test():
         send_stop_code()
         time.sleep(1)
     meg_trigger_close()
-
-    
-    
-    
