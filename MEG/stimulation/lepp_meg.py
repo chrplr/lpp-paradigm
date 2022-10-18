@@ -1,5 +1,5 @@
 #! /usr/bin/env python
-# updated: <2016-02-04 Esther LIN>
+# updated: <2022-10-18 Corentin BEL>
 # -*- coding: utf-8 -*-
 
 from expyriment import design, control, stimuli, io, misc
@@ -8,13 +8,19 @@ import meg_triggers
 
 import sys
 
+initialized = False
+
 #AUDIO = 'wav/ch1-3.wav'
 
 run = int(sys.argv[1])
 
-AUDIO = f'wav/{run}_ch{(run*3)-2}-{3*run}_clicks.wav'##'wav/ch1-3.wav'
+
+dict_i_chapt = {1: '1-3',2:'4-6',3:'7-9',4:'10-12',5:'13-14',6:'15:19',7:'20-22',8:'23-25',9:'26-27'}
+
+AUDIO = f'wav/{run}_ch{dict_i_chapt[run]}_clicks.wav'##'wav/ch1-3.wav'
 
 
+print(f'\n Ready to play {AUDIO} \n')
 exp = design.Experiment(name="Le_Petit_Prince")
 
 control.set_develop_mode(False)
@@ -45,18 +51,19 @@ control.start(exp)
 
 stim.preload()
 #wait_for_MRI_synchro()
-meg_triggers.send_start()
+p1 = meg_triggers.send_start(initialized)
+initialized = True # to not have to recreate the parport
 exp.clock.wait(50)
-meg_triggers.send_stop()
+meg_triggers.send_stop(p1)
 
 clear_screen()
 fixcrossGrey.present(clear=True, update=True)
 stim.present()
 control.wait_end_audiosystem()
 
-meg_triggers.send_start()
+p1 = meg_triggers.send_start(initialized,p1)
 exp.clock.wait(50)
-meg_triggers.send_stop()
+meg_triggers.send_stop(p1)
 
 io.Keyboard.process_control_keys()
 

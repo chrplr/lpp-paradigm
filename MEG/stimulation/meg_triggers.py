@@ -7,19 +7,25 @@ import os
 import sys
 import serial
 import time
+from expyriment import io
 
 os_ = sys.platform
 
+PORT = '/dev/parport1'
+
+# Current :
 if os_.startswith('linux'):
 
-    from expyriment import io
-    p1 = io.ParallelPort('/dev/paraport1')
+    def send_start(initialized,p1 = None): 
+        if not initialized:
+            p1 = io.ParallelPort(PORT)
+        p1.send(1)
+        return p1
 
-    def send_start_code(p1): p1.send(1)
+    def send_stop(p1): 
+        p1.send(0)
 
-    def send_stop_code(p1): p1.send(0)
-
-    def meg_trigger_close(): p1.close()
+    def meg_trigger_close(p1): p1.clear()
 
 elif os_.startswith('win'):
 
@@ -62,11 +68,14 @@ else:
 
 def meg_trigger_test():
     time.sleep(1)
-    for i in range(4):
-        print('start')
-        send_start_code()
-        time.sleep(1)
-        print('stop')
-        send_stop_code()
-        time.sleep(1)
-    meg_trigger_close()
+    initialized = False
+    p1 = None
+    for i in range(100):
+        print(f'start')
+        p1 = send_start(initialized,p1)
+        initialized = True
+        time.sleep(0.01)
+        print(f'stop')
+        send_stop(p1)
+        time.sleep(0.01)
+    meg_trigger_close(p1)
