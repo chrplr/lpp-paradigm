@@ -51,7 +51,7 @@ Time-stamp: <2019-03-12 17:34:07 christophe@pallier.org>
 * Session 1 : anatomie (10') +  "Apprentissage son" + 4 runs fonctionnels 
 * Session 2 : 5 runs fonctionnels + localizer
 
-Durée d'un bloc fonctionnel ou du localizer : 10 minutes.
+Durée des blocs LPP: 10~12 minutes, localizer: ~6 minutes.
 
 Voir s'il est possible de passer un bloc supplémentaire (si moins de 1H30 au final et si le participant est d'accord) pendant la 1re session. Cela laissera plus de temps pour la seconde session si besoin (problème technique par exemple). 
 
